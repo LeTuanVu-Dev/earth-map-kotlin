@@ -1,0 +1,77 @@
+[versions]
+activity = "1.10.1"
+agp = "8.8.2"
+appcompat = "1.7.0"
+constraintlayout = "2.2.1"
+converterGson = "2.11.0"
+core = "12.1.1"
+coreKtx = "1.16.0"
+desugar_jdk_libs = "2.1.5"
+espressoCore = "3.6.1"
+firebaseBom = "33.13.0"
+glide = "4.16.0"
+gson = "2.11.0"
+junit = "4.13.2"
+junitVersion = "1.2.1"
+koin-android = "3.5.6"
+kotlin = "2.1.0"
+lifecycleProcess = "2.8.7"
+lottie = "6.5.2"
+material = "1.12.0"
+multidex = "2.0.1"
+panoramagl = "1.12"
+places = "4.2.0"
+playServicesLocation = "21.3.0"
+playServicesMaps = "19.2.0"
+retrofit = "2.11.0"
+roomCompiler = "2.7.1"
+sdpAndroid = "1.1.1"
+sspAndroid = "1.1.1"
+worldwind = "1.7.7"
+mapsSecret = "2.0.1"
+
+[libraries]
+androidx-activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+androidx-constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+androidx-lifecycle-process = { group = "androidx.lifecycle", name = "lifecycle-process", version.ref = "lifecycleProcess" }
+androidx-multidex = { module = "androidx.multidex:multidex", version.ref = "multidex" }
+androidx-room-compiler = { module = "androidx.room:room-compiler", version.ref = "roomCompiler" }
+androidx-room-ktx = { module = "androidx.room:room-ktx", version.ref = "roomCompiler" }
+androidx-room-runtime = { module = "androidx.room:room-runtime", version.ref = "roomCompiler" }
+converter-gson = { module = "com.squareup.retrofit2:converter-gson", version.ref = "converterGson" }
+core = { module = "com.pierfrancescosoffritti.androidyoutubeplayer:core", version.ref = "core" }
+desugar_jdk_libs = { module = "com.android.tools:desugar_jdk_libs", version.ref = "desugar_jdk_libs" }
+firebase-analytics = { module = "com.google.firebase:firebase-analytics-ktx" }
+firebase-bom = { module = "com.google.firebase:firebase-bom", version.ref = "firebaseBom" }
+firebase-config = { module = "com.google.firebase:firebase-config-ktx" }
+firebase-crashlytics = { module = "com.google.firebase:firebase-crashlytics-ktx" }
+firebase-messaging = { module = "com.google.firebase:firebase-messaging-ktx" }
+glide = { module = "com.github.bumptech.glide:glide", version.ref = "glide" }
+gson = { module = "com.google.code.gson:gson", version.ref = "gson" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+koin-android = { module = "io.insert-koin:koin-android", version.ref = "koin-android" }
+koin-android-compat = { module = "io.insert-koin:koin-android-compat", version.ref = "koin-android" }
+koin-core = { module = "io.insert-koin:koin-core", version.ref = "koin-android" }
+lottie = { module = "com.airbnb.android:lottie", version.ref = "lottie" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+panoramagl = { module = "com.github.hannesa2:panoramagl", version.ref = "panoramagl" }
+play-services-location = { module = "com.google.android.gms:play-services-location", version.ref = "playServicesLocation" }
+play-services-maps = { module = "com.google.android.gms:play-services-maps", version.ref = "playServicesMaps" }
+retrofit = { module = "com.squareup.retrofit2:retrofit", version.ref = "retrofit" }
+sdp-android = { module = "com.intuit.sdp:sdp-android", version.ref = "sdpAndroid" }
+ssp-android = { module = "com.intuit.ssp:ssp-android", version.ref = "sspAndroid" }
+worldwind = { module = "earth.worldwind:worldwind", version.ref = "worldwind" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+androidLibrary = { id = "com.android.library", version.ref = "agp" }
+firebaseCrashlytics = { id = "com.google.firebase.crashlytics", version = "3.0.3" }
+gmsGoogleServices = { id = "com.google.gms.google-services", version = "4.4.2" }
+map-secret = { id = "com.google.android.libraries.mapsplatform.secrets-gradle-plugin", version.ref = "mapsSecret" }
+
+
