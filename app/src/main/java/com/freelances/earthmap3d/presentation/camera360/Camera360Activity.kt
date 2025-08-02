@@ -8,6 +8,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.base.BaseActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.ARG_DATA
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.safeClick
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.ModelCamera360
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.preview.Camera360PreviewActivity
 import com.earthmap.map.ltv.tracker.databinding.ActivityCamera360Binding
@@ -28,10 +29,10 @@ class Camera360Activity : BaseActivity<ActivityCamera360Binding>() {
         }
     }
 
-
     override fun updateUI(savedInstanceState: Bundle?) {
         camera360Loader.loadImageCamera360FromAssets(this)
         initData()
+        binding.ivBack.safeClick { finish() }
     }
 
     private fun initData() {
