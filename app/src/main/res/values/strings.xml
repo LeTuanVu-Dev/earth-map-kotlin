@@ -34,4 +34,10 @@
     <string name="_cancel">Cancel</string>
     <string name="_exit">Exit</string>
     <string name="recommend">Recomment</string>
+
+    <string name="angle">Angle</string>
+    <string name="magnetic_field">Magnetic Field</string>
+    <string name="true_heading">True Heading</string>
+    <string name="axis">Axis</string>
+    <string name="sensor_error">Sensor error</string>
 </resources>

@@ -88,6 +88,13 @@
             android:screenOrientation="portrait"
             tools:ignore="DiscouragedApi,LockedOrientationActivity" />
 
+        <activity
+            android:name=".com.freelances.earthmap3d.presentation.compass.CompassActivity"
+            android:exported="false"
+            android:hardwareAccelerated="false"
+            android:screenOrientation="portrait"
+            tools:ignore="DiscouragedApi,LockedOrientationActivity" />
+
     </application>
 
 </manifest>
