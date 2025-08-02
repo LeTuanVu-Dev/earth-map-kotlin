@@ -6,6 +6,7 @@ import android.graphics.Bitmap
 import android.graphics.drawable.Drawable
 import android.widget.ImageView
 import androidx.annotation.DimenRes
+import androidx.constraintlayout.utils.widget.ImageFilterView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.bumptech.glide.load.resource.bitmap.CenterCrop
@@ -110,7 +111,24 @@ fun ImageView.loadImageThumb(
         .apply(requestOptions)
         .placeholder(placeholder)
         .error(error)
-        .override(512,512)
+        .override(300,300)
+        .transition(DrawableTransitionOptions.withCrossFade())
+        .diskCacheStrategy(DiskCacheStrategy.ALL)
+        .into(this)
+}
+
+@SuppressLint("CheckResult")
+fun ImageFilterView.loadImageThumb(
+    src: String,
+    id:String,
+    placeholder: Int = R.drawable.ic_place_holder,
+    error: Int = R.drawable.ic_place_holder
+) {
+
+    Glide.with(this.context)
+        .load(GlideUrlCustomCacheKey(src,id))
+        .placeholder(placeholder)
+        .error(error)
         .transition(DrawableTransitionOptions.withCrossFade())
         .diskCacheStrategy(DiskCacheStrategy.ALL)
         .into(this)

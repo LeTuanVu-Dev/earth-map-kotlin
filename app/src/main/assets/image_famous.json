@@ -1,0 +1,4034 @@
+{
+  "data": [
+    {
+      "id": "tp65rk4gvfgt2ey9aqyxtq8v",
+      "name": "Limerick",
+      "info": "Limerick is a city in Ireland, known for its medieval-era architecture, vibrant arts scene, and as the setting for Frank McCourt's memoir, Angela's Ashes.",
+      "history": "Limerick is a historic city in Ireland, known for its medieval architecture, vibrant cultural scene, and as an important regional center. It has a history dating back to Viking times.",
+      "latitude": 52.66,
+      "longitude": -8.63,
+      "travels": [
+        {
+          "id": "wy9hb39ild02wajw9fu6ddug",
+          "name": "Hunt Museum",
+          "imageUrl": "/image_famous/travel_1723000561414_Hunt_Museum_5d5a129782.webp"
+        },
+        {
+          "id": "i5hv4nxr2sjz7is8hdztxlaa",
+          "name": "St. Mary's Cathedral",
+          "imageUrl": "/image_famous/travel_1723000585858_St_Mary_s_Cathedral_162e179486.webp"
+        },
+        {
+          "id": "v2vhbptew19yqf1eqvj19ps1",
+          "name": "King John's Castle",
+          "imageUrl": "/image_famous/travel_1723000573316_King_John_s_Castle_8c1a02d5b4.webp"
+        }
+      ]
+    },
+    {
+      "id": "uby9mwq0glvo5k4qmkh3obh6",
+      "name": "Linz",
+      "info": "Linz is a city in Austria, known for its contemporary art, vibrant cultural scene, and the Ars Electronica Center.",
+      "history": "Linz is a major industrial city in Austria, known for its steel industry, cultural events, and modern architecture. It has a history dating back to Roman times and remains an important economic center.",
+      "latitude": 48.31,
+      "longitude": 14.29,
+      "travels": [
+        {
+          "id": "n9qsbkju0i9h7u27u5knw244",
+          "name": "Linz Castle",
+          "imageUrl": "/image_famous/travel_1722937067645_Linz_Castle_edba772714.webp"
+        },
+        {
+          "id": "ijz6xlsm0zkmcqmkr378mwmc",
+          "name": "Pöstlingberg",
+          "imageUrl": "/image_famous/travel_1722937075419_PA_stlingberg_457b9bb73c.webp"
+        },
+        {
+          "id": "q9xgqgdxvve3dglwgmho1v1m",
+          "name": "Ars Electronica Center",
+          "imageUrl": "/image_famous/travel_1722937061182_Ars_Electronica_Center_b6f26b5f6a.webp"
+        }
+      ]
+    },
+    {
+      "id": "j8nxw8irnj8wz48bsqbcuobn",
+      "name": "Lisbon",
+      "info": "Lisbon is the capital city of Portugal, known for its hilly landscape, historic sites, and vibrant cultural scene.",
+      "history": "Lisbon, the capital of Portugal, is known for its hilly landscape, historic sites, and vibrant cultural scene. It has a rich maritime history and was a major center during the Age of Discovery.",
+      "latitude": 38.72,
+      "longitude": -9.14,
+      "travels": [
+        {
+          "id": "itnlt1afw5x53ex1ifsbarbl",
+          "name": "Belém Tower",
+          "imageUrl": "/image_famous/travel_1722941196074_Bel_A_m_Tower_9be338c277.webp"
+        },
+        {
+          "id": "hbq13n04ssh1sikrmi7xgmpq",
+          "name": "Jerónimos Monastery.avif",
+          "imageUrl": "/image_famous/travel_1722941218322_Jer_A_nimos_Monastery_d58377d728.avif"
+        },
+        {
+          "id": "wx9gf8bl9auabjek6hxisej2",
+          "name": "São Jorge Castle",
+          "imageUrl": "/image_famous/travel_1722941227900_SA_o_Jorge_Castle_95fd06056e.webp"
+        }
+      ]
+    },
+    {
+      "id": "nusmp8ix7vfwzzrm3f8bwvpq",
+      "name": "London",
+      "info": "London is the capital city of the United Kingdom, known for its history, cultural landmarks, and vibrant arts scene. Key landmarks include the Houses of Parliament, the Tower of London, and Buckingham Palace.",
+      "history": "London, the capital of the United Kingdom, is a global city with a history spanning over two millennia. Known for its cultural diversity, historical landmarks, and financial influence, it remains one of the world's leading cities.",
+      "latitude": 51.51,
+      "longitude": -0.13,
+      "travels": [
+        {
+          "id": "iglmwzz5o7blqor0cd97p158",
+          "name": "Big Ben",
+          "imageUrl": "/image_famous/travel_1723001365764_Big_Ben_7edfddbb34.webp"
+        },
+        {
+          "id": "ci6ej1yxresnqxzxnzmhcuql",
+          "name": "Buckingham Palace",
+          "imageUrl": "/image_famous/travel_1723001373618_Buckingham_Palace_418c714e41.webp"
+        },
+        {
+          "id": "vnwrj941urizq61xiulkt80d",
+          "name": "Tower of London",
+          "imageUrl": "/image_famous/travel_1723001381887_Tower_of_London_74166fd596.webp"
+        }
+      ]
+    },
+    {
+      "id": "oaquiv92ut34wrs41eawv4g1",
+      "name": "Longyearbyen",
+      "info": "Longyearbyen is the largest settlement in Svalbard, known for its Arctic landscape, unique wildlife, and as a base for Arctic exploration.",
+      "history": "Longyearbyen is the largest settlement in Svalbard, known for its extreme Arctic environment and as a major research and tourism center. It has a history dating back to early 20th-century coal mining.",
+      "latitude": 78.22,
+      "longitude": 15.65,
+      "travels": [
+        {
+          "id": "me7wz02leysbp8rorujytcpo",
+          "name": "Nordenskiöld Glacier",
+          "imageUrl": "/image_famous/travel_1723004098517_Nordenski_A_ld_Glacier_742dabeab8.webp"
+        },
+        {
+          "id": "cxpkaq8u3ugn6p448pvs22ns",
+          "name": "Svalbard Church",
+          "imageUrl": "/image_famous/travel_1723004106703_Svalbard_Church_3362003691.webp"
+        },
+        {
+          "id": "sv9uhttqpfhvnz4cidpi7npx",
+          "name": "Svalbard Museum",
+          "imageUrl": "/image_famous/travel_1723004114415_Svalbard_Museum_ffeae5609f.webp"
+        }
+      ]
+    },
+    {
+      "id": "x4ndzoibc6y6v18qrln7i49f",
+      "name": "Luang Prabang",
+      "info": "Luang Prabang is a historic city in Laos, renowned for its well-preserved temples and traditional wooden houses. It is a UNESCO World Heritage Site, reflecting its cultural and architectural significance.",
+      "history": "Luang Prabang, a city in northern Laos, is known for its well-preserved architecture and its historical significance. It was the royal capital of the Kingdom of Laos until the communist takeover in 1975. The city is famous for its numerous Buddhist temple",
+      "latitude": 19.89,
+      "longitude": 102.14,
+      "travels": [
+        {
+          "id": "ki7akb75nqmbqtgik3dl5tcu",
+          "name": "Royal Palace",
+          "imageUrl": "/image_famous/travel_1723000965210_Royal_Palace_463001b29f.webp"
+        },
+        {
+          "id": "xxn37nv09q3s8z00g829r8h6",
+          "name": "Mount Phousi",
+          "imageUrl": "/image_famous/travel_1723000957483_Mount_Phousi_6464bd93c3.webp"
+        },
+        {
+          "id": "lce58un2p4tu4j309dy70era",
+          "name": "Kuang Si Falls",
+          "imageUrl": "/image_famous/travel_1723000948435_Kuang_Si_Falls_c66e62f5bf.webp"
+        }
+      ]
+    },
+    {
+      "id": "m5n1oegqbm53fkun2d8jhk1z",
+      "name": "Lyon",
+      "info": "Lyon is a city in east-central France, known for its cuisine, historical and architectural landmarks, and vibrant cultural scene.",
+      "history": "Lyon is a historic city in France known for its cuisine and historical architecture. It was founded by the Romans in 43 BC and has been an important center for the silk industry, banking, and today, a UNESCO World Heritage site.",
+      "latitude": 45.76,
+      "longitude": 4.84,
+      "travels": [
+        {
+          "id": "nyrqugxjmw5imp6akdwxknws",
+          "name": "Basilica of Notre-Dame de Fourvière",
+          "imageUrl": "/image_famous/travel_1723003178228_Basilica_of_Notre_Dame_de_Fourvi_A_re_2a44ecd03b.webp"
+        },
+        {
+          "id": "mx38774p3umggkfmo7qictlw",
+          "name": "Place Bellecour",
+          "imageUrl": "/image_famous/travel_1723003193366_Place_Bellecour_b9d91ae7b0.jpeg"
+        },
+        {
+          "id": "yiy80ko3f3ululmt34aa4yfc",
+          "name": "Parc de la Tête d_Or",
+          "imageUrl": "/image_famous/travel_1723003185525_Parc_de_la_TA_te_d_Or_2b10e2c21f.webp"
+        }
+      ]
+    },
+    {
+      "id": "w8ur0faj7wtg118am7eilrox",
+      "name": "Ma Cao",
+      "info": "Macau is a Special Administrative Region of China, known for its casinos, luxury hotels, and Portuguese colonial architecture.",
+      "history": "Ma Cao, or Macau, is a Special Administrative Region of China and was a Portuguese colony until 1999. It is known for its giant casinos and its rich blend of Portuguese and Chinese culture.",
+      "latitude": 22.2,
+      "longitude": 113.54,
+      "travels": [
+        {
+          "id": "w5nktfyj73riqedqtz4d9sfk",
+          "name": "Macau Tower",
+          "imageUrl": "/image_famous/travel_1723001609101_Macau_Tower_3fbe2c2ec7.webp"
+        },
+        {
+          "id": "flsfpw9js6r1bw3ptwwifu9n",
+          "name": "Ruins of St. Paul's",
+          "imageUrl": "/image_famous/travel_1723001621122_Ruins_of_St_Paul_s_3e99f2df5a.webp"
+        },
+        {
+          "id": "c12l1go73tmksi0rkob9sfk7",
+          "name": "Senado Square",
+          "imageUrl": "/image_famous/travel_1723001633548_Senado_Square_37575f7295.webp"
+        }
+      ]
+    },
+    {
+      "id": "p2nunp43qpskhtz2x7q601wa",
+      "name": "Madrid",
+      "info": "Madrid is the capital city of Spain, known for its royal palace, museums, and vibrant nightlife. Key landmarks include the Prado Museum and the Royal Palace of Madrid.",
+      "history": "Madrid, the capital of Spain, is known for its royal history, cultural institutions, and vibrant nightlife. It became the capital in the 16th century and has since grown into a major European cultural and political center.",
+      "latitude": 40.42,
+      "longitude": -3.7,
+      "travels": [
+        {
+          "id": "jsaow506n8jqppxl6qcpx1fu",
+          "name": "Royal Palace of Madrid",
+          "imageUrl": "/image_famous/travel_1723004349246_Royal_Palace_of_Madrid_72f814e611.avif"
+        },
+        {
+          "id": "xrn1hs38koxpb1j25dbmxryh",
+          "name": "Prado Museum",
+          "imageUrl": "/image_famous/travel_1723004337834_Prado_Museum_fda8c0fe4c.webp"
+        },
+        {
+          "id": "nlkb6tfhzk131l24ur7qqcvz",
+          "name": "Plaza Mayor",
+          "imageUrl": "/image_famous/travel_1723004330687_Plaza_Mayor_76dda25ae1.webp"
+        }
+      ]
+    },
+    {
+      "id": "vmrv6pqwbqckvzb3rnkj5hcz",
+      "name": "Malmö",
+      "info": "Malmö is a coastal city in southern Sweden, known for its modern architecture, vibrant cultural scene, and the Turning Torso building.",
+      "history": "Malmö is a historic city in southern Sweden, known for its multicultural population, modern architecture, and proximity to Copenhagen via the Øresund Bridge. It has a history dating back to the medieval period.",
+      "latitude": 55.61,
+      "longitude": 13,
+      "travels": [
+        {
+          "id": "nyfie51deea2t0f641c59qul",
+          "name": "Turning Torso",
+          "imageUrl": "/image_famous/travel_1723004798836_Turning_Torso_8768f825d1.webp"
+        },
+        {
+          "id": "l69sfmjo90ld2ovehssil9b1",
+          "name": "Lilla Torg",
+          "imageUrl": "/image_famous/travel_1723004791371_Lilla_Torg_1f40a60ca8.webp"
+        },
+        {
+          "id": "fwvti667aj3jkxnfredh9i3f",
+          "name": "Malmö Castle",
+          "imageUrl": "/image_famous/travel_1723004783759_Malm_A_Castle_0d4190e49e.webp"
+        }
+      ]
+    },
+    {
+      "id": "jt9i45tshi93zkag7ixh3gpv",
+      "name": "Malé",
+      "info": "Malé is the capital city of the Maldives, known for its mosques, colorful buildings, and as a gateway to the island resorts.",
+      "history": "Malé is the capital and most populous city of the Maldives. Historically a trading hub in the Indian Ocean, it has evolved into the political, economic, and cultural center of the Maldives. Malé is known for its dense urban environment and picturesque wat",
+      "latitude": 4.18,
+      "longitude": 73.51,
+      "travels": [
+        {
+          "id": "gcf4q6kej4cpb0nxdy1rysb2",
+          "name": "Hulhumale Island",
+          "imageUrl": "/image_famous/travel_1723001792158_Hulhumale_Island_6bc38b46e2.webp"
+        },
+        {
+          "id": "i5sx05c8329d8m21r0yvvhgu",
+          "name": "Islamic Centre Mosque",
+          "imageUrl": "/image_famous/travel_1723001799905_Islamic_Centre_Mosque_947c0cb900.webp"
+        },
+        {
+          "id": "bp3dt35zxn2ac8jl8lmldqup",
+          "name": "Maldives National Museum",
+          "imageUrl": "/image_famous/travel_1723001811140_Maldives_National_Museum_775a2b1313.cms"
+        }
+      ]
+    },
+    {
+      "id": "x3pvsl4xcoco4n3n44q4rvgy",
+      "name": "Manama",
+      "info": "Manama is the capital city of Bahrain, known for its financial sector, modern architecture, and cultural festivals.",
+      "history": "Manama is the capital and largest city of Bahrain. It has a history as a trading center in the Persian Gulf, and today, it is a major financial hub known for its modern skyline and diverse population.",
+      "latitude": 26.23,
+      "longitude": 50.59,
+      "travels": [
+        {
+          "id": "cmxyqbz5ljpq3xhobc21kyiz",
+          "name": "Bahrain National Museum",
+          "imageUrl": "/image_famous/travel_1722937760844_Bahrain_National_Museum_94fdd04771.webp"
+        },
+        {
+          "id": "ypl3m5t4x4d4y0ghnipbcvxa",
+          "name": " Al Fateh Grand Mosque",
+          "imageUrl": "/image_famous/travel_1722937731898_Al_Fateh_Grand_Mosque_e27e1a2797.webp"
+        },
+        {
+          "id": "n0dln7z43n2ggmpq45l6oizg",
+          "name": "Bahrain Fort",
+          "imageUrl": "/image_famous/travel_1722937751125_Bahrain_Fort_44ae8dbbd4.webp"
+        }
+      ]
+    },
+    {
+      "id": "xv239n0ld3xlisgxm4lxap09",
+      "name": "Manchester",
+      "info": "Manchester is a major city in northwest England, known for its influence on the music scene, sports, and industrial history.",
+      "history": "Manchester is known for its industrial history, having been a major center during the Industrial Revolution. Today, it is a major cultural, educational, and economic hub, known for its music scene and sports clubs.",
+      "latitude": 53.48,
+      "longitude": -2.24,
+      "travels": [
+        {
+          "id": "vw9ak9ayep8jjjhdzf6ga4ej",
+          "name": "Manchester Cathedral",
+          "imageUrl": "/image_famous/travel_1723001403326_Manchester_Cathedral_d00493c4b2.webp"
+        },
+        {
+          "id": "wvjp6ikw5sixsmcogtb85c5h",
+          "name": "Manchester Museum",
+          "imageUrl": "/image_famous/travel_1723001411414_Manchester_Museum_0d7ed06797.webp"
+        },
+        {
+          "id": "g7erutduugcinlyrrajd3vwn",
+          "name": "Old Trafford",
+          "imageUrl": "/image_famous/travel_1723001418794_Old_Trafford_7ea79e7aba.webp"
+        }
+      ]
+    },
+    {
+      "id": "fhyedzfo45kz7c3gvorhfcuh",
+      "name": "Mandalay",
+      "info": "Mandalay is a major city in northern Myanmar, known for its cultural heritage, historic sites, and as a former royal capital. Attractions include Mandalay Hill, the Royal Palace, and numerous monasteries.",
+      "history": "Mandalay, the second-largest city in Myanmar, was founded in 1857 by King Mindon. It served as the last royal capital of the Burmese kingdom. The city is known for the Mandalay Palace and numerous monasteries.",
+      "latitude": 21.95,
+      "longitude": 96.1,
+      "travels": [
+        {
+          "id": "jljbgispe5y2y9hy4tohvu6b",
+          "name": "Mandalay Palace",
+          "imageUrl": "/image_famous/travel_1723002060223_Mandalay_Palace_e5a20b2363.webp"
+        },
+        {
+          "id": "q25srxff0lqo5j7u2g3z9234",
+          "name": "Kuthodaw Pagoda",
+          "imageUrl": "/image_famous/travel_1723001924348_Kuthodaw_Pagoda_981ec24387.webp"
+        },
+        {
+          "id": "xtrqz7bc2an8naf9xk0hyvey",
+          "name": "Kuthodaw Pagoda",
+          "imageUrl": "/image_famous/travel_1723002052289_Kuthodaw_Pagoda_1ef5918f2f.webp"
+        },
+        {
+          "id": "ek0ua50gf4b03da9f4tcvlyp",
+          "name": "Mandalay Palace",
+          "imageUrl": "/image_famous/travel_1723001931309_Mandalay_Palace_d2bc692140.webp"
+        },
+        {
+          "id": "dtyex6m2o0kpi28uuicm7o4i",
+          "name": "U Bein Bridge",
+          "imageUrl": "/image_famous/travel_1723002066705_U_Bein_Bridge_0554139bba.webp"
+        },
+        {
+          "id": "c2cd4394lmpin86kqs3rf73x",
+          "name": "U Bein Bridge",
+          "imageUrl": "/image_famous/travel_1723001938447_U_Bein_Bridge_096460a91e.webp"
+        }
+      ]
+    },
+    {
+      "id": "futmf3dv5lyynzmpvby8j4ze",
+      "name": "Manila",
+      "info": "Manila is the capital city of the Philippines, known for its waterfront promenade and centuries-old Chinatown.",
+      "history": "Manila, the capital of the Philippines, was founded in 1571 by the Spanish. It served as a key center for trade and administration during the Spanish colonial period and is known for its historic sites such as Intramuros.",
+      "latitude": 14.6,
+      "longitude": 120.98,
+      "travels": [
+        {
+          "id": "zeok7fjyfi7v33jizhroyu2z",
+          "name": "Intramuros",
+          "imageUrl": "/image_famous/travel_1723003368350_Intramuros_fcdc15cc2f.webp"
+        },
+        {
+          "id": "dlm93patc1jew6o94hgmos94",
+          "name": "Rizal Park",
+          "imageUrl": "/image_famous/travel_1723003385293_Rizal_Park_2e521b43af.webp"
+        },
+        {
+          "id": "s3j0j4k1cjdd72j8rh2b3nrz",
+          "name": "Manila Cathedral",
+          "imageUrl": "/image_famous/travel_1723003377952_Manila_Cathedral_8dca114cd9.webp"
+        }
+      ]
+    },
+    {
+      "id": "wk9adw7yvreki52aaodsk7wv",
+      "name": "Marseille",
+      "info": "Marseille is a port city in southern France, known for its maritime heritage, vibrant cultural scene, and historical sites like the Old Port and the Basilica of Notre-Dame de la Garde.",
+      "history": "Marseille is a historic port city in southern France. Founded by the Greeks around 600 BC, it has been a major trading center throughout history. Today, it is known for its diverse population, vibrant culture, and economic importance.",
+      "latitude": 43.3,
+      "longitude": 5.37,
+      "travels": [
+        {
+          "id": "oq5wypehkzrsq6w4okgla6bp",
+          "name": "Old Port of Marseille",
+          "imageUrl": "/image_famous/travel_1723003218707_Old_Port_of_Marseille_a79ebfc371.webp"
+        },
+        {
+          "id": "sqprwpscxt76y1y4pxpimxrc",
+          "name": "Palais Longchamp",
+          "imageUrl": "/image_famous/travel_1723003225873_Palais_Longchamp_b7136bacf6.webp"
+        },
+        {
+          "id": "rf8kdmcnr0esguzwdu2fdqk9",
+          "name": "Basilica of Notre-Dame de la Garde",
+          "imageUrl": "/image_famous/travel_1723003211830_Basilica_of_Notre_Dame_de_la_Garde_abd227e542.webp"
+        }
+      ]
+    },
+    {
+      "id": "yt5mb1ylh1m8ftct06f34fhf",
+      "name": "Mashhad",
+      "info": "Mashhad is the second largest city in Iran, known for the Imam Reza shrine, a major pilgrimage site.",
+      "history": "Mashhad is the second-largest city in Iran and an important religious center. It is home to the shrine of Imam Reza, the eighth Shia Imam, making it a major pilgrimage site. Mashhad's history dates back to ancient Persia and it remains a cultural and reli",
+      "latitude": 36.3,
+      "longitude": 59.61,
+      "travels": [
+        {
+          "id": "rdqv7u4ivayrhcevfi7tb3un",
+          "name": "Goharshad Mosque",
+          "imageUrl": "/image_famous/travel_1723000367120_Goharshad_Mosque_6ead8fa292.webp"
+        },
+        {
+          "id": "wkbybzuvbn5o5py3aubz5hvf",
+          "name": "Tus",
+          "imageUrl": "/image_famous/travel_1723000384151_Tus_69188582ba.webp"
+        },
+        {
+          "id": "eoir747hs3c1x5by9qz4u8j9",
+          "name": "Imam Reza Shrine",
+          "imageUrl": "/image_famous/travel_1723000377171_Imam_Reza_Shrine_388f9326d2.webp"
+        }
+      ]
+    },
+    {
+      "id": "o22a1cdibd7rg1j7vtmorz5v",
+      "name": "Milan",
+      "info": "Milan is a city in northern Italy, known for its fashion, design, and the Gothic Cathedral of Milan.",
+      "history": "Milan is Italy's financial and fashion capital, known for its influence in design, commerce, and industry. It has a rich history as a major political and cultural center, with landmarks like the Duomo and La Scala opera house.",
+      "latitude": 45.46,
+      "longitude": 9.19,
+      "travels": [
+        {
+          "id": "e9syvssorm3y7a4osmiy8a5f",
+          "name": "Duomo di Milano",
+          "imageUrl": "/image_famous/travel_1723005564533_Duomo_di_Milano_b645d3d9f6.webp"
+        },
+        {
+          "id": "dmg5ugspxm58sriqyrdiimdn",
+          "name": "Sforza Castle",
+          "imageUrl": "/image_famous/travel_1723005578573_Sforza_Castle_d405ade1e9.webp"
+        },
+        {
+          "id": "qe0h4ya0ee0z8kcmej1oiesd",
+          "name": "Galleria Vittorio Emanuele II",
+          "imageUrl": "/image_famous/travel_1723005570846_Galleria_Vittorio_Emanuele_II_522dac45e0.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "xzssb2t1l4esa9tcqyws2thg",
+      "name": "Mumbai",
+      "info": "Mumbai is the largest city in India, known as the financial center of the country and the heart of the Bollywood film industry.",
+      "history": "Mumbai, formerly known as Bombay, is the financial capital of India. It was a Portuguese colony before coming under British control in the 17th century. Mumbai is famous for its natural deep-water harbor and is the hub of the Bollywood film industry.",
+      "latitude": 19.08,
+      "longitude": 72.88,
+      "travels": [
+        {
+          "id": "m9f65fn2n390q1xmuf77wxzj",
+          "name": "Gateway of India",
+          "imageUrl": "/image_famous/travel_1722936581088_Gateway_of_India_28a492d82a.webp"
+        },
+        {
+          "id": "as0w6umnbi8d3b10jqcc6567",
+          "name": "Marine Drive",
+          "imageUrl": "/image_famous/travel_1722936589677_Marine_Drive_2252611fb5.webp"
+        },
+        {
+          "id": "va35293if0y4cs5bvhngosk1",
+          "name": "Chhatrapati Shivaji Maharaj Terminus",
+          "imageUrl": "/image_famous/travel_1722936569864_Chhatrapati_Shivaji_Maharaj_Terminus_39cf5fed49.webp"
+        }
+      ]
+    },
+    {
+      "id": "ycaa35p6iga2yiq76zrxk9gv",
+      "name": "Munich",
+      "info": "Munich is the capital city of Bavaria in Germany, known for its beer gardens, cultural landmarks, and the annual Oktoberfest celebration.",
+      "history": "Munich is the capital of Bavaria in Germany, known for its rich history, cultural attractions, and annual Oktoberfest celebration. It has been a center of art, culture, and political importance for centuries.",
+      "latitude": 48.14,
+      "longitude": 11.58,
+      "travels": [
+        {
+          "id": "bfh4r4y6h2692z3wjn1zhpqx",
+          "name": "English Garden",
+          "imageUrl": "/image_famous/travel_1722999148491_English_Garden_20a430e872.webp"
+        },
+        {
+          "id": "l8nw9kof5rsw8ysxk1peojp4",
+          "name": "Marienplatz",
+          "imageUrl": "/image_famous/travel_1722999160056_Marienplatz_d3846ecf6e.avif"
+        },
+        {
+          "id": "or5sx32l7ar5k9zuhidcaqd9",
+          "name": "Neuschwanstein Castle",
+          "imageUrl": "/image_famous/travel_1722999173940_Neuschwanstein_Castle_658ea348ae.webp"
+        }
+      ]
+    },
+    {
+      "id": "iq1z4gpgbr8u0s87zu1pkiu8",
+      "name": "Muscat",
+      "info": "Muscat is the capital city of Oman, known for its stunning coastal scenery, historic forts, and vibrant souks.",
+      "history": "Muscat, the capital of Oman, has a history that dates back to antiquity. It was a major port city known for its trade connections with the Indian Ocean. Today, it is known for its blend of traditional and modern architecture and rich cultural heritage.",
+      "latitude": 23.61,
+      "longitude": 58.55,
+      "travels": [
+        {
+          "id": "eqrwb5ml2kjruveew64yzj0k",
+          "name": "Royal Opera House",
+          "imageUrl": "/image_famous/travel_1723002837743_Royal_Opera_House_1e9f89ec50.webp"
+        },
+        {
+          "id": "zthe39zh3haolyf709ir76yu",
+          "name": "Mutrah Souq",
+          "imageUrl": "/image_famous/travel_1723002830881_Mutrah_Souq_259b297787.webp"
+        },
+        {
+          "id": "rdj87sm6v68uzxl795dzama4",
+          "name": "Sultan Qaboos Grand Mosque",
+          "imageUrl": "/image_famous/travel_1723002844994_Sultan_Qaboos_Grand_Mosque_0bcbc1c5a9.webp"
+        }
+      ]
+    },
+    {
+      "id": "iyb1e47bnq2ybyqjuafv1atj",
+      "name": "Naples",
+      "info": "Naples is a city in southern Italy, known for its rich history, art, architecture, and as the birthplace of pizza.",
+      "history": "Naples is a historic city in southern Italy, known for its rich history, vibrant culture, and as the birthplace of pizza. It has a history dating back to ancient Greek and Roman times and remains a significant cultural and economic center.",
+      "latitude": 40.85,
+      "longitude": 14.27,
+      "travels": [
+        {
+          "id": "beqclgrrm86rs71sreyx8lpq",
+          "name": "Mount Vesuvius",
+          "imageUrl": "/image_famous/travel_1723005599349_Mount_Vesuvius_dd3eda1d59.webp"
+        },
+        {
+          "id": "zqfhgfxfv6h0wbpckpd6pwo4",
+          "name": "Pompeii",
+          "imageUrl": "/image_famous/travel_1723005621289_Pompeii_4c1c4f1dc4.webp"
+        },
+        {
+          "id": "xxbrg1o6sb81rdfbv8kvkp2m",
+          "name": "Naples National Archaeological Museum",
+          "imageUrl": "/image_famous/travel_1723005606043_Naples_National_Archaeological_Museum_8fb746d458.webp"
+        }
+      ]
+    },
+    {
+      "id": "ec91pfc32j2mx2sblh8q13es",
+      "name": "Naypyidaw",
+      "info": "Naypyidaw is the capital city of Myanmar, distinguished by its modernist architecture and expansive layout. It is a planned city with wide boulevards, government buildings, and large parks.",
+      "history": "Naypyidaw has been the capital of Myanmar since 2006. It was built to replace Yangon as the administrative capital and is known for its planned layout and large government complexes.",
+      "latitude": 19.76,
+      "longitude": 96.08,
+      "travels": [
+        {
+          "id": "cv7pdlfaav5p4myb7v3x3ay1",
+          "name": "Water Fountain Park",
+          "imageUrl": "/image_famous/travel_1723001984070_Water_Fountain_Park_698bb33ccd.webp"
+        },
+        {
+          "id": "lj6ysbnlirhdw1f5fkc1iqia",
+          "name": "National Museum",
+          "imageUrl": "/image_famous/travel_1723002094043_National_Museum_f6d9f69546.webp"
+        },
+        {
+          "id": "xhp8wq7xqlipub7n4t6sbv9y",
+          "name": "National Museum",
+          "imageUrl": "/image_famous/travel_1723001968912_National_Museum_524663ebf6.webp"
+        },
+        {
+          "id": "ky3o38n02pxpsc9ecpgkzgm8",
+          "name": "Uppatasanti Pagoda",
+          "imageUrl": "/image_famous/travel_1723001976946_Uppatasanti_Pagoda_07979400ef.webp"
+        },
+        {
+          "id": "q5kz3tdfn947ovdeiurn2eru",
+          "name": "Uppatasanti Pagoda",
+          "imageUrl": "/image_famous/travel_1723002103190_Uppatasanti_Pagoda_be87eebfe3.webp"
+        },
+        {
+          "id": "zluue7y71oij9hh8o1x3dehq",
+          "name": "Water Fountain Park",
+          "imageUrl": "/image_famous/travel_1723002111116_Water_Fountain_Park_943f6f6933.webp"
+        },
+        {
+          "id": "mwmv265c085gi3ca7ph54h7o",
+          "name": "New Delhi",
+          "info": "New Delhi is the capital city of India, known for its wide boulevards, Mughal architecture, and vibrant street markets.",
+          "history": "New Delhi is the capital of India and part of the larger metropolis of Delhi. It was built as the new capital of British India in 1911 and has grown into a vibrant cultural and political center.",
+          "latitude": 28.61,
+          "longitude": 77.21,
+          "travels": [
+            {
+              "id": "zunirwwm8oe1mydjx2qs0oom",
+              "name": "India Gate",
+              "imageUrl": "/image_famous/travel_1722936613079_India_Gate_bc28fd0b58.webp"
+            },
+            {
+              "id": "fb4gxbs6v9nrnt5kp4hcokfv",
+              "name": "Red Fort",
+              "imageUrl": "/image_famous/travel_1722936627351_Red_Fort_8df5894607.webp"
+            }
+          ]
+        },
+        {
+          "id": "jzd82t1bv1l9mqfoi4cm6s1m",
+          "name": "Nicosia",
+          "info": "Nicosia is the capital city of Cyprus, known for its history, divided status, and cultural heritage.",
+          "history": "Nicosia is the capital of Cyprus and the last divided capital in Europe. Its history spans over 4,500 years, marked by various rulers including the Byzantines, Lusignans, Venetians, Ottomans, and British. Today, it remains a cultural and economic center.",
+          "latitude": 35.19,
+          "longitude": 33.38,
+          "travels": [
+            {
+              "id": "wepq89q4vcvmh6ucm8xtzn7h",
+              "name": "Archbishop's Palace",
+              "imageUrl": "/image_famous/travel_1723003860963_Archbishop_s_Palace_b39e35795b.webp"
+            },
+            {
+              "id": "yyf0mh6x1kb7zut1rgvp6fek",
+              "name": "Cyprus Museum",
+              "imageUrl": "/image_famous/travel_1723003868557_Cyprus_Museum_ee33e8c2d6.webp"
+            },
+            {
+              "id": "uvcrtwuvc02a5umxmgw64w5w",
+              "name": "Kyrenia Gate",
+              "imageUrl": "/image_famous/travel_1723003875582_Kyrenia_Gate_13e5cb457d.webp"
+            }
+          ]
+        },
+        {
+          "id": "u9l5ga0g0lyylelmbrfevog5",
+          "name": "Niš",
+          "info": "Niš is a city in Serbia, known for its historical significance, including the Niš Fortress and the Skull Tower.",
+          "history": "Niš is one of the oldest cities in Serbia, known for its historical significance and as the birthplace of the Roman Emperor Constantine the Great. It remains an important cultural and economic center.",
+          "latitude": 43.32,
+          "longitude": 21.9,
+          "travels": [
+            {
+              "id": "x4gjmr50eg4qx40v549rq81q",
+              "name": "Niš Fortress",
+              "imageUrl": "/image_famous/travel_1723003709248_Nis_Fortress_d96fe7c7eb.webp"
+            },
+            {
+              "id": "vlos8c5dvfw66pfjnko5rzbu",
+              "name": "Skull Tower",
+              "imageUrl": "/image_famous/travel_1723003718433_Skull_Tower_94d1c087e7.webp"
+            },
+            {
+              "id": "evab4oq0frtbbyd6jscennti",
+              "name": "Mediana",
+              "imageUrl": "/image_famous/travel_1723003698926_Mediana_07c46d17bc.webp"
+            }
+          ]
+        },
+        {
+          "id": "mjun2qm8fbjesflvqdv5vm8m",
+          "name": "Novi Sad",
+          "info": "Novi Sad is a city in Serbia, known for its Petrovaradin Fortress, cultural festivals, and vibrant arts scene.",
+          "history": "Novi Sad is a major city in Serbia, known for its cultural events, including the EXIT music festival, and as an economic and educational center. It has a history dating back to the 17th century.",
+          "latitude": 45.27,
+          "longitude": 19.83,
+          "travels": [
+            {
+              "id": "bu5ptwiqipbz4671jcdjt4iz",
+              "name": "Dunavska Street",
+              "imageUrl": "/image_famous/travel_1723003737343_Dunavska_Street_32094efc47.webp"
+            },
+            {
+              "id": "hyueyvuf768aqxek2hja5epb",
+              "name": "Petrovaradin Fortress",
+              "imageUrl": "/image_famous/travel_1723003751450_Petrovaradin_Fortress_0916b8a6c6.webp"
+            },
+            {
+              "id": "ntka3vp4nzgxf6xngjtwdf6r",
+              "name": "Novi Sad Synagogue",
+              "imageUrl": "/image_famous/travel_1723003744369_Novi_Sad_Synagogue_540a00700f.webp"
+            }
+          ]
+        },
+        {
+          "id": "hbtd8dbwsltu4ft71ptchmi2",
+          "name": "Nur-Sultan",
+          "info": "Nur-Sultan, formerly known as Astana, is the capital city of Kazakhstan, known for its futuristic skyline and modern architecture.",
+          "history": "Nur-Sultan, formerly known as Astana, is the capital of Kazakhstan. It became the capital in 1997, replacing Almaty. The city is known for its futuristic architecture and rapid development as part of Kazakhstan's modernization efforts.",
+          "latitude": 51.17,
+          "longitude": 71.45,
+          "travels": [
+            {
+              "id": "bsdx76zmvrp42ceagnh5y0xc",
+              "name": "Palace of Peace and Reconciliation",
+              "imageUrl": "/image_famous/travel_1723000729248_Palace_of_Peace_and_Reconciliation_a2173f0017.webp"
+            },
+            {
+              "id": "y4n9vf1mjwz3zgrx3h0uzj01",
+              "name": "Khan Shatyr",
+              "imageUrl": "/image_famous/travel_1723000719524_Khan_Shatyr_42530073b5.webp"
+            },
+            {
+              "id": "p0cmq5y3p8inphj4ksomfyfq",
+              "name": "Bayterek Tower",
+              "imageUrl": "/image_famous/travel_1723000712110_Bayterek_Tower_6232263be1.webp"
+            }
+          ]
+        },
+        {
+          "id": "j3sla9d7uqwyc6ql4ivpnyxg",
+          "name": "Ny-Ålesund",
+          "info": "Ny-Ålesund is a research settlement in Svalbard, known for its scientific research, Arctic landscape, and unique wildlife.",
+          "history": "Ny-Ålesund is a research town in Svalbard, known for its Arctic research facilities and extreme environment. It has a history dating back to early 20th-century coal mining and is now a major center for polar research.",
+          "latitude": 78.92,
+          "longitude": 11.92,
+          "travels": [
+            {
+              "id": "wlbbbit0s1n13bha8ae7tt3f",
+              "name": "Arctic Research Station",
+              "imageUrl": "/image_famous/travel_1723004133989_Arctic_Research_Station_23a56a6ed6.jpeg"
+            },
+            {
+              "id": "nhzxlrv73pwyox18pta0mcka",
+              "name": "Zeppelin Hangar",
+              "imageUrl": "/image_famous/travel_1723004149282_Zeppelin_Hangar_23f4f70b03.webp"
+            },
+            {
+              "id": "lmic38x1lmvms7zu10e1i6f1",
+              "name": "Ny-Ålesund Museum",
+              "imageUrl": "/image_famous/travel_1723004142143_Ny_A_lesund_Museum_a14fc74fde.webp"
+            }
+          ]
+        },
+        {
+          "id": "r8fdyt7wymvdw0hlks99m977",
+          "name": "Odessa",
+          "info": "Odessa is a port city on the Black Sea in southern Ukraine, known for its beaches, 19th-century architecture, and the Potemkin Stairs.",
+          "history": "Odessa is a major port city on the Black Sea in Ukraine. Founded in the late 18th century, it has been a significant trade and cultural center. Known for its architecture and beaches, Odessa is a popular tourist destination.",
+          "latitude": 46.48,
+          "longitude": 30.72,
+          "travels": [
+            {
+              "id": "mhzg8sa6lyix8m4uqdnxj466",
+              "name": "Potemkin Stairs",
+              "imageUrl": "/image_famous/travel_1723005228095_Potemkin_Stairs_ccfe8897e2.webp"
+            },
+            {
+              "id": "w7xsuv9hcrmdamcdvca34z8k",
+              "name": "Odessa Opera and Ballet Theater",
+              "imageUrl": "/image_famous/travel_1723005221804_Odessa_Opera_and_Ballet_Theater_fafc52f29d.webp"
+            },
+            {
+              "id": "ur81jcru5g9fzhrjamqcrp4p",
+              "name": "Arcadia Beach",
+              "imageUrl": "/image_famous/travel_1723005215487_Arcadia_Beach_792e381102.webp"
+            }
+          ]
+        },
+        {
+          "id": "uxw7ukaybwjw3hsl4xfb5t85",
+          "name": "Osaka",
+          "info": "Osaka is a large port city and commercial center in Japan, known for its modern architecture, nightlife, and hearty street food.",
+          "history": "Osaka is one of Japan's largest cities and has been an important economic hub for centuries. It was the center of the rice trade during the Edo period and is known for its modern architecture, nightlife, and hearty street food.",
+          "latitude": 34.69,
+          "longitude": 135.5,
+          "travels": [
+            {
+              "id": "flku50csjpiwca3t35jusr3g",
+              "name": "Osaka Castle",
+              "imageUrl": "/image_famous/travel_1723002597696_Osaka_Castle_8592170255.webp"
+            },
+            {
+              "id": "gbicnbiyltn76yp58iwe3nwc",
+              "name": "Universal Studios Japan",
+              "imageUrl": "/image_famous/travel_1723002604599_Universal_Studios_Japan_d9ca182f75.webp"
+            },
+            {
+              "id": "pu3d6x5x5tet535ytx7ly39t",
+              "name": "Dotonbori",
+              "imageUrl": "/image_famous/travel_1723002589519_Dotonbori_5012206993.webp"
+            }
+          ]
+        },
+        {
+          "id": "jsxojpg6kukeppay9kd12tp1",
+          "name": "Oslo",
+          "info": "Oslo is the capital city of Norway, known for its green spaces, museums, and waterfront.",
+          "history": "Oslo, the capital of Norway, is known for its green spaces, modern architecture, and rich history. Founded around 1000 AD, it has grown into a major cultural and economic center, known for its maritime industry and cultural institutions.",
+          "latitude": 59.91,
+          "longitude": 10.75,
+          "travels": [
+            {
+              "id": "fadh1agzouelrlt17a16etbs",
+              "name": "Oslo Opera House",
+              "imageUrl": "/image_famous/travel_1723002300867_Oslo_Opera_House_8900e4a3ae.webp"
+            },
+            {
+              "id": "hh85v0gcvnfkqlbeb21vx3sp",
+              "name": "Vigeland Sculpture Park",
+              "imageUrl": "/image_famous/travel_1723002312580_Vigeland_Sculpture_Park_jpg_Product_Image_49a683eef1.webp"
+            },
+            {
+              "id": "xkoa9bnnty6d5clxlsei6q9z",
+              "name": "Akershus Fortress",
+              "imageUrl": "/image_famous/travel_1723002281335_Akershus_Fortress_1b4b57313d.webp"
+            }
+          ]
+        },
+        {
+          "id": "lmw1mp2khnvmax41j2lkni7t",
+          "name": "Ostrava",
+          "info": "Ostrava is a city in the Czech Republic, known for its industrial heritage, vibrant cultural scene, and the Stodolní Street.",
+          "history": "Ostrava is a major industrial city in the Czech Republic, known for its coal mining history and vibrant cultural scene. It has undergone significant revitalization in recent years.",
+          "latitude": 49.82,
+          "longitude": 18.26,
+          "travels": [
+            {
+              "id": "t93r4odchvuq4rxv0tx3dfa6",
+              "name": "New City Hall",
+              "imageUrl": "/image_famous/travel_1722998485761_New_City_Hall_0ec3c67b54.webp"
+            },
+            {
+              "id": "u7zl5nbt6m4jy46obdq5au37",
+              "name": "Landek Park",
+              "imageUrl": "/image_famous/travel_1722998476653_Landek_Park_1ae32e1f7a.webp"
+            },
+            {
+              "id": "uiobcxf1ye552wm6lq7ckpcr",
+              "name": "Ostrava Zoo",
+              "imageUrl": "/image_famous/travel_1722998495311_Ostrava_Zoo_2cdacfeb22.webp"
+            }
+          ]
+        },
+        {
+          "id": "hmd3j6j6go56iqaj6vlmrd5l",
+          "name": "Pakse",
+          "info": "Pakse is a city in southern Laos, known for its coffee plantations and proximity to the Bolaven Plateau, which is famous for its waterfalls and trekking opportunities.",
+          "history": "Pakse is a city in southern Laos, founded by the French in 1905 as an administrative outpost. It became the capital of the Kingdom of Champasak and played an important role in the region. Today, Pakse is a gateway to the Bolaven Plateau and the ancient Kh",
+          "latitude": 15.12,
+          "longitude": 105.82,
+          "travels": [
+            {
+              "id": "dkogfw8l99qr5j8ktrbshifq",
+              "name": "Bolaven Plateau",
+              "imageUrl": "/image_famous/travel_1723000987848_Bolaven_Plateau_46a06ce6ac.webp"
+            },
+            {
+              "id": "p3zqyo1kwtnsetja1bnlnu83",
+              "name": "Champasak Historical Heritage",
+              "imageUrl": "/image_famous/travel_1723000998418_Champasak_Historical_Heritage_cd69231eb9.avif"
+            },
+            {
+              "id": "v78teldkaya8254w1hlpdso7",
+              "name": "Wat Phou",
+              "imageUrl": "/image_famous/travel_1723001007115_Wat_Phou_2c1abe331b.webp"
+            }
+          ]
+        },
+        {
+          "id": "qgqsobe5uyr2pnxibupnswif",
+          "name": "Paris",
+          "info": "Paris is the capital city of France, known for its art, fashion, and culture. Key landmarks include the Eiffel Tower, Notre-Dame Cathedral, and the Louvre Museum.",
+          "history": "Paris, the capital of France, is renowned for its history, art, fashion, and culture. It has been a major European center since Roman times and continues to be one of the world's most visited cities, known for landmarks like the Eiffel Tower and the Louvr",
+          "latitude": 48.86,
+          "longitude": 2.35,
+          "travels": [
+            {
+              "id": "th2jztswljihn9s0pbl62760",
+              "name": "Notre-Dame Cathedral",
+              "imageUrl": "/image_famous/travel_1723003270667_Notre_Dame_Cathedral_1d126a1007.avif"
+            },
+            {
+              "id": "rrp5w74dq2h7h9h8yw33cb9p",
+              "name": "Eiffel Tower",
+              "imageUrl": "/image_famous/travel_1723003245825_Eiffel_Tower_0064855089.webp"
+            },
+            {
+              "id": "kyg6qd04kg3az5crexlmtclz",
+              "name": "Louvre Museum",
+              "imageUrl": "/image_famous/travel_1723003252700_Louvre_Museum_ea2a5c293b.webp"
+            }
+          ]
+        },
+        {
+          "id": "jyhvvrhid5wx3mxakdwo6mmy",
+          "name": "Patras",
+          "info": "Patras is a city in western Greece, known for its port, the Patras Carnival, and historical sites.",
+          "history": "Patras is a major port city in western Greece, known for its carnival, cultural events, and historical significance. It has a history dating back to ancient times and remains an important economic and cultural center.",
+          "latitude": 38.25,
+          "longitude": 21.73,
+          "travels": [
+            {
+              "id": "z99nytre8kjwq376b1vdah7p",
+              "name": "Rio-Antirrio Bridge",
+              "imageUrl": "/image_famous/travel_1722999923495_Rio_Antirrio_Bridge_5b5e82194c.webp"
+            },
+            {
+              "id": "h7qv34g1wld9ym9f5z0t4slm",
+              "name": "Saint Andrew_s Cathedral",
+              "imageUrl": "/image_famous/travel_1722999934157_Saint_Andrew_s_Cathedral_a5c2a6f098.webp"
+            },
+            {
+              "id": "p8laew9kgzxa4ykho6wr1ef0",
+              "name": "Patras Castle",
+              "imageUrl": "/image_famous/travel_1722999915022_Patras_Castle_fc6e485929.webp"
+            }
+          ]
+        },
+        {
+          "id": "gqnwg0gl5smu465uxchij1fv",
+          "name": "Pattaya",
+          "info": "Pattaya is a resort city on Thailand’s eastern Gulf coast, known for its beaches, nightlife, and shopping. It also offers family-friendly attractions such as water parks and cultural shows.",
+          "history": "Pattaya, a city on Thailand's eastern Gulf coast, has transformed from a small fishing village in the 1960s into a major tourist destination. It is known for its beaches, nightlife, and tourist attractions such as the Sanctuary of Truth and Pattaya Floati",
+          "latitude": 12.92,
+          "longitude": 100.87,
+          "travels": [
+            {
+              "id": "evk2v61qwgw8ayc6xgwlv23c",
+              "name": "Walking Street",
+              "imageUrl": "/image_famous/travel_1723004516655_Walking_Street_2140d5d84f.webp"
+            },
+            {
+              "id": "coq2z36mya4cr0fmhukjndf6",
+              "name": "Nong Nooch Tropical Garden",
+              "imageUrl": "/image_famous/travel_1723004495319_Nong_Nooch_Tropical_Garden_1b328f8835.webp"
+            },
+            {
+              "id": "vfuc3mfeafovq21kga92aor1",
+              "name": "Sanctuary of Truth",
+              "imageUrl": "/image_famous/travel_1723004501686_Sanctuary_of_Truth_330504e80c.webp"
+            }
+          ]
+        },
+        {
+          "id": "mr9gqkc2mxru4gajjx9y39uw",
+          "name": "Phnom Penh",
+          "info": "Phnom Penh is the capital and largest city of Cambodia, known for its beautiful riverside location, historical sites like the Royal Palace, and the poignant Tuol Sleng Genocide Museum.",
+          "history": "Phnom Penh, the capital of Cambodia, was founded in the 15th century after King Ponhea Yat moved the capital from Angkor. It became the permanent capital in the 19th century during French colonial rule. Phnom Penh is known for its historic sites such as t",
+          "latitude": 11.56,
+          "longitude": 104.93,
+          "travels": [
+            {
+              "id": "gpenylrb7474035331ylu85m",
+              "name": "Royal Palace",
+              "imageUrl": "/image_famous/travel_1722481931277_Royal_Palace_f07cb04b13.webp"
+            },
+            {
+              "id": "u2811s19ppfqp0c0oholm7bf",
+              "name": "Tuol Sleng Genocide Museum",
+              "imageUrl": "/image_famous/travel_1722481966861_Tuol_Sleng_Genocide_Museum_9d72d30538.webp"
+            },
+            {
+              "id": "f21ud1zlekixsti6gcfdj31x",
+              "name": "Royal Palace",
+              "imageUrl": "/image_famous/travel_1722997880355_Royal_Palace_a4016d0373.webp"
+            },
+            {
+              "id": "yhjvskka3pkbl8f283ph021z",
+              "name": "Tuol_Sleng",
+              "imageUrl": "/image_famous/travel_1722481976078_Tuol_Sleng_c65ae722f1.webp"
+            },
+            {
+              "id": "epur51vzzi9txs0qmbn51tl1",
+              "name": "Tuol Sleng Genocide Museum\n",
+              "imageUrl": "/image_famous/travel_1722997897267_Tuol_Sleng_Genocide_Museum_00c18fe3eb.webp"
+            },
+            {
+              "id": "l9gho5ar60qfya67yjm80s4n",
+              "name": "Tuol_Sleng",
+              "imageUrl": "/image_famous/travel_1722997907793_Tuol_Sleng_6d8539013d.webp"
+            }
+          ]
+        },
+        {
+          "id": "q1arkoztjpd8903c3j2qgar6",
+          "name": "Phuket",
+          "info": "Phuket is Thailand’s largest island, famous for its stunning beaches, luxury resorts, and vibrant nightlife. The island is a top destination for water sports, including diving and snorkeling.",
+          "history": "Phuket is Thailand's largest island and has a history that dates back to ancient trade routes between India and China. It was an important trading post and later became famous for its tin mining. Today, Phuket is a world-renowned tourist destination known",
+          "latitude": 7.88,
+          "longitude": 98.39,
+          "travels": [
+            {
+              "id": "hfgt74xlbajbv5grfi89y3qh",
+              "name": "Patong Beach",
+              "imageUrl": "/image_famous/travel_1723004555304_Patong_Beach_7b56da4392.webp"
+            },
+            {
+              "id": "eptmytr0ov7206gain0y9pvj",
+              "name": "Phuket Old Town",
+              "imageUrl": "/image_famous/travel_1723004563258_Phuket_Old_Town_be7a697200.webp"
+            },
+            {
+              "id": "i2v4v1arnb8z76gbpkr6dori",
+              "name": "Big Buddha",
+              "imageUrl": "/image_famous/travel_1723004543788_Big_Buddha_67e71c1144.webp"
+            }
+          ]
+        },
+        {
+          "id": "kz0lnymkkjpgiz9hbnv8rspq",
+          "name": "Porto",
+          "info": "Porto is a city in Portugal, known for its stately bridges, port wine production, and historical center.",
+          "history": "Porto is a historic city in northern Portugal, known for its wine, historic center, and as an economic and cultural hub. It has a history dating back to Roman times and remains an important city in Portugal.",
+          "latitude": 41.15,
+          "longitude": -8.61,
+          "travels": [
+            {
+              "id": "q4j72jkn3iflh04l5fr23fma",
+              "name": "Dom Luís I Bridge",
+              "imageUrl": "/image_famous/travel_1722941291530_Dom_Lu_A_s_I_Bridge_183785b27e.webp"
+            },
+            {
+              "id": "ukbjggevuhxu36f6nxumb59s",
+              "name": "Clérigos Tower",
+              "imageUrl": "/image_famous/travel_1722941281019_Cl_A_rigos_Tower_4f455a35de.webp"
+            },
+            {
+              "id": "gyusw7348l90qy2zslckuwhs",
+              "name": "Livraria Lello",
+              "imageUrl": "/image_famous/travel_1722941305120_Livraria_Lello_48ce9c7f97.png"
+            }
+          ]
+        },
+        {
+          "id": "b2q3iv1jknjj5u5kuyk6wbic",
+          "name": "Prague",
+          "info": "Prague is the capital city of the Czech Republic, known for its Old Town Square, Charles Bridge, and the Prague Castle.",
+          "history": "Prague, the capital of the Czech Republic, is known for its stunning medieval architecture, historic old town, and vibrant cultural scene. It has a rich history as a political, cultural, and economic center in Central Europe.",
+          "latitude": 50.08,
+          "longitude": 14.44,
+          "travels": [
+            {
+              "id": "i8azl6kgs8wl7drnqdt8kntm",
+              "name": "Prague Castle",
+              "imageUrl": "/image_famous/travel_1722998551270_Prague_Castle_5655c172e2.jpeg"
+            },
+            {
+              "id": "hzm14vh63h6rt65sw2jc12ql",
+              "name": "Old Town Square",
+              "imageUrl": "/image_famous/travel_1722998542629_Old_Town_Square_bbe3811bb4.webp"
+            },
+            {
+              "id": "s67g4j8lebp16gpc8fbbztcq",
+              "name": "Charles Bridge",
+              "imageUrl": "/image_famous/travel_1722998532925_Charles_Bridge_eeeda09711.webp"
+            }
+          ]
+        },
+        {
+          "id": "n8ssmyvdrwtc2dughgx01ear",
+          "name": "Ramallah",
+          "info": "Ramallah is a Palestinian city, known as the administrative capital of the Palestinian National Authority and its cultural scene.",
+          "history": "Ramallah is a significant political and cultural center in the West Bank. It has grown from a small village to a bustling city, known for its vibrant cultural scene and as the administrative hub of the Palestinian Authority.",
+          "latitude": 31.9,
+          "longitude": 35.2,
+          "travels": [
+            {
+              "id": "gba2xkbg4f9etks7aud4cqeq",
+              "name": "Yasser Arafat Museum",
+              "imageUrl": "/image_famous/travel_1723003011816_Yasser_Arafat_Museum_a6e73768c0.webp"
+            },
+            {
+              "id": "hi9j6t4hs9620i99kou8sbqs",
+              "name": "Al-Manara Square",
+              "imageUrl": "/image_famous/travel_1723002997282_Al_Manara_Square_792acaddca.webp"
+            },
+            {
+              "id": "r102cj21dzbrlyhq2dey4z5m",
+              "name": "Arafat_s Mausoleum",
+              "imageUrl": "/image_famous/travel_1723003004942_Arafat_s_Mausoleum_328ccbdbac.webp"
+            }
+          ]
+        },
+        {
+          "id": "kyh4fj08mfmdl8f2ex1pf6wh",
+          "name": "Reykjavik",
+          "info": "Reykjavik is the capital city of Iceland, known for its modernist architecture, vibrant cultural scene, and as a gateway to explore Iceland’s natural wonders.",
+          "history": "Reykjavik, the capital of Iceland, is known for its modernist architecture, vibrant cultural scene, and as the northernmost capital of a sovereign state. It has grown significantly since its founding in the 18th century.",
+          "latitude": 64.14,
+          "longitude": -21.9,
+          "travels": [
+            {
+              "id": "j5nj03y8cxfsh2smgod11nzs",
+              "name": "Blue Lagoon",
+              "imageUrl": "/image_famous/travel_1723000093757_Blue_Lagoon_f1dd13c2c3.webp"
+            },
+            {
+              "id": "cit8imvyhzjawqrlhb1limn8",
+              "name": "Hallgrímskirkja",
+              "imageUrl": "/image_famous/travel_1723000103290_Hallgr_A_mskirkja_4d4f934e91.webp"
+            },
+            {
+              "id": "a87n61fitae6phy9qzax93y4",
+              "name": "Harpa Concert Hall",
+              "imageUrl": "/image_famous/travel_1723000110458_Harpa_Concert_Hall_52a6d87367.webp"
+            }
+          ]
+        },
+        {
+          "id": "k454mq0bisni8rkjyrs6ji6w",
+          "name": "Riga",
+          "info": "Riga is the capital city of Latvia, known for its Art Nouveau architecture, medieval Old Town, and vibrant cultural scene.",
+          "history": "Riga, the capital of Latvia, is known for its Art Nouveau architecture, historic old town, and vibrant cultural scene. It has a rich history as a major trade center in the Baltic region.",
+          "latitude": 56.95,
+          "longitude": 24.11,
+          "travels": [
+            {
+              "id": "vo9cgv95n9fqsezpumlx7u6p",
+              "name": "Freedom Monument",
+              "imageUrl": "/image_famous/travel_1723001214473_Freedom_Monument_024e6db9e1.webp"
+            },
+            {
+              "id": "jjn8h3ui7fujwldxsuw42vwr",
+              "name": "Riga Cathedral",
+              "imageUrl": "/image_famous/travel_1723001231080_Riga_Cathedral_4d10c4fee1.webp"
+            },
+            {
+              "id": "b1gkleds4gzo79acwkwjbvmj",
+              "name": "House of the Blackheads",
+              "imageUrl": "/image_famous/travel_1723001222390_House_of_the_Blackheads_b2a7830e12.webp"
+            }
+          ]
+        },
+        {
+          "id": "o4c0rqpe91q0giqg4tnrr08n",
+          "name": "Rijeka",
+          "info": "Rijeka is a port city in Croatia, known for its maritime heritage, vibrant cultural scene, and the Trsat Castle.",
+          "history": "Rijeka is a major port city in Croatia, known for its maritime history, cultural heritage, and vibrant music scene. It has a history dating back to the Roman period and remains an important economic center.",
+          "latitude": 45.33,
+          "longitude": 14.44,
+          "travels": [
+            {
+              "id": "dgexguzav9ob9cz9qsjt09lb",
+              "name": "Trsat Castle",
+              "imageUrl": "/image_famous/travel_1722998609731_Trsat_Castle_32084482d8.webp"
+            },
+            {
+              "id": "zmpjc54a3b4hiyq41y11lj0m",
+              "name": "Rijeka Cathedral",
+              "imageUrl": "/image_famous/travel_1722998601093_Rijeka_Cathedral_e35e571db8.webp"
+            },
+            {
+              "id": "e6cnyv9p2a8mimv5m69yep5o",
+              "name": "Korzo",
+              "imageUrl": "/image_famous/travel_1722998592460_Korzo_426dc0fa7b.webp"
+            }
+          ]
+        },
+        {
+          "id": "nq43e19wo16rdatci9nocp9f",
+          "name": "Rome",
+          "info": "Rome is the capital city of Italy, known for its nearly 3,000 years of globally influential art, architecture, and culture. Key landmarks include the Colosseum and the Vatican City.",
+          "history": "Rome, the capital of Italy, is known for its unparalleled history as the heart of the Roman Empire, the Renaissance, and the Catholic Church. It is a city of ancient ruins, art, and culture, with landmarks like the Colosseum and Vatican City.",
+          "latitude": 41.9,
+          "longitude": 12.5,
+          "travels": [
+            {
+              "id": "it6855yo9xmbkxuzb3xv5xnt",
+              "name": "Colosseum",
+              "imageUrl": "/image_famous/travel_1723005656355_Colosseum_f9d206e0b5.webp"
+            },
+            {
+              "id": "uhmladr83twn1sy1dcxmmwvk",
+              "name": "Trevi Fountain",
+              "imageUrl": "/image_famous/travel_1723005664566_Trevi_Fountain_d97f975331.webp"
+            },
+            {
+              "id": "jocngxv25z55k7q4xh5p0eda",
+              "name": "Vatican City",
+              "imageUrl": "/image_famous/travel_1723005670975_Vatican_City_c484ce9d9a.webp"
+            }
+          ]
+        },
+        {
+          "id": "cj48y8p5azssyuds1n7xt9hi",
+          "name": "Sana'a",
+          "info": "Sana'a is the capital city of Yemen, known for its unique architecture, historic sites, and cultural heritage.",
+          "history": "Sana'a, the capital of Yemen, is one of the oldest continuously inhabited cities in the world. It is known for its unique architectural style with multi-story buildings made of rammed earth and its rich historical significance in the Arabian Peninsula.",
+          "latitude": 15.37,
+          "longitude": 44.19,
+          "travels": [
+            {
+              "id": "wbccfm1p4guwi7gkn2lotyh4",
+              "name": "Bab al-Yemen",
+              "imageUrl": "/image_famous/travel_1723005705381_Bab_al_Yemen_89b68bdfa2.webp"
+            },
+            {
+              "id": "zido3ffs31f8gr7vd9n4119c",
+              "name": "Old City of Sana'a",
+              "imageUrl": "/image_famous/travel_1723005720784_Old_City_of_Sana_a_9998c05ca1.webp"
+            },
+            {
+              "id": "ntherw7kh90q2baumbmbejph",
+              "name": "Al Saleh Mosque",
+              "imageUrl": "/image_famous/travel_1723005697981_Al_Saleh_Mosque_79812adebf.webp"
+            },
+            {
+              "id": "uydzt69td8avbi9phxn3lox3",
+              "name": "Old City of Sana'a",
+              "imageUrl": "/image_famous/travel_1723005714664_Old_City_of_Sana_a_20d0b129cc.webp"
+            }
+          ]
+        },
+        {
+          "id": "o7u5ye4uui5k9vn3c6yuc074",
+          "name": "Sarajevo",
+          "info": "Sarajevo is the capital city of Bosnia and Herzegovina, known for its cultural diversity, historic landmarks, and as the site of the 1984 Winter Olympics.",
+          "history": "Sarajevo, the capital of Bosnia and Herzegovina, is known for its diverse cultural heritage, historical significance, and as a site of significant events in 20th-century history. It has a history dating back to the Ottoman period.",
+          "latitude": 43.86,
+          "longitude": 18.41,
+          "travels": [
+            {
+              "id": "vw0xtzgzrei5qrbl5tv4iqud",
+              "name": "Baščaršija",
+              "imageUrl": "/image_famous/travel_1722941517211_Bascarsija_f59292d398.webp"
+            },
+            {
+              "id": "frt3z7a0ec9zcvv0jidpvnzq",
+              "name": "Gazi Husrev-beg Mosque",
+              "imageUrl": "/image_famous/travel_1722941532519_Gazi_Husrev_beg_Mosque_94c2e86f1e.webp"
+            },
+            {
+              "id": "iuduejs2ixp5q5vvorwxrrai",
+              "name": "Latin Bridge",
+              "imageUrl": "/image_famous/travel_1722941541446_Latin_Bridge_24dbbedc5b.webp"
+            }
+          ]
+        },
+        {
+          "id": "k00wnj5wx40l4s8be6ty4dfe",
+          "name": "Seoul",
+          "info": "Seoul is the capital city of South Korea, known for its modern skyscrapers, high-tech subways, and pop culture.",
+          "history": "Seoul, the capital of South Korea, has a history dating back over 2,000 years. It became the capital of the Joseon dynasty in 1394 and has developed into a leading global city, known for its technology and pop culture.",
+          "latitude": 37.57,
+          "longitude": 126.98,
+          "travels": [
+            {
+              "id": "elbd0nx5baxixqd1lbq1g50p",
+              "name": "Bukchon Hanok Village",
+              "imageUrl": "/image_famous/travel_1722999506231_Bukchon_Hanok_Village_66c9cf83f8.avif"
+            },
+            {
+              "id": "ceixmgdinwdez55yqq9jm68u",
+              "name": "Gyeongbokgung Palace",
+              "imageUrl": "/image_famous/travel_1722999517415_Gyeongbokgung_Palace_da1804640b.webp"
+            },
+            {
+              "id": "e1c7v4lsg4vv1nlgeiys4o3s",
+              "name": "N Seoul Tower",
+              "imageUrl": "/image_famous/travel_1722999530957_N_Seoul_Tower_65c16588f5.avif"
+            }
+          ]
+        },
+        {
+          "id": "o67xoigaiqrnly2d6rtf6zhz",
+          "name": "Shanghai",
+          "info": "Shanghai is China’s largest city, known for its skyline, the Bund, and its role as a global financial center.",
+          "history": "Thượng Hải, or Shanghai, is China's largest city and a global financial hub. It began as a fishing village and market town and grew rapidly after it was opened to foreign trade in the 19th century.",
+          "latitude": 31.23,
+          "longitude": 121.47,
+          "travels": [
+            {
+              "id": "fthjarvmgqk14980hsq74ght",
+              "name": "The Bund",
+              "imageUrl": "/image_famous/travel_1723005050850_The_Bund_c846b9612f.webp"
+            },
+            {
+              "id": "c0q5tf9x7qmxqsoz0vwncftw",
+              "name": "Oriental Pearl Tower",
+              "imageUrl": "/image_famous/travel_1723005043401_Oriental_Pearl_Tower_b2a2ea695e.webp"
+            },
+            {
+              "id": "kgfxo7u65jb9l77x60nhfe4c",
+              "name": "Yuyuan Garden",
+              "imageUrl": "/image_famous/travel_1723005057401_Yuyuan_Garden_4495435d96.webp"
+            }
+          ]
+        },
+        {
+          "id": "vohwy3alwuijytd225awhh0f",
+          "name": "Shenzhen",
+          "info": "Shenzhen is a major city in China’s Guangdong province, known for its rapid growth, technology industry, and modern skyline.",
+          "history": "Shenzhen was a small market town until it was designated as China's first Special Economic Zone in 1980. It has since grown into a major financial and technology center.",
+          "latitude": 22.54,
+          "longitude": 114.06,
+          "travels": [
+            {
+              "id": "lhrvcs4tb84x9lrj1zlmlhh9",
+              "name": "Splendid China Folk Village",
+              "imageUrl": "/image_famous/travel_1723005015074_Splendid_China_Folk_Village_245d5c7966.webp"
+            },
+            {
+              "id": "gsnerwdd2dfgn7gho3khdm7m",
+              "name": "Window of the World",
+              "imageUrl": "/image_famous/travel_1723005021384_Window_of_the_World_7f589e2b9a.webp"
+            },
+            {
+              "id": "f0gpuappdph1bd2g25unvwzf",
+              "name": "Shenzhen Bay Park",
+              "imageUrl": "/image_famous/travel_1723005008510_Shenzhen_Bay_Park_9d6f45f412.webp"
+            }
+          ]
+        },
+        {
+          "id": "k4nxa09a9gx2pdm8wxames3l",
+          "name": "Siem Reap",
+          "info": "Siem Reap is a resort town in Cambodia, best known as the gateway to the Angkor Wat temple complex, a UNESCO World Heritage Site and one of the most important archaeological sites in Southeast Asia.",
+          "history": "Siem Reap is a city in northwestern Cambodia, best known as the gateway to the Angkor temples. The city has grown rapidly due to tourism, with many visitors coming to explore Angkor Wat, Bayon Temple, and Ta Prohm. Siem Reap itself has a blend of colonial",
+          "latitude": 13.37,
+          "longitude": 103.84,
+          "travels": [
+            {
+              "id": "g4htcenrw4w069nywvkitgoz",
+              "name": "Angkor Wat",
+              "imageUrl": "/image_famous/travel_1722998245408_Angkor_Wat_63aa688657.webp"
+            },
+            {
+              "id": "obpio9rbe6fm0oek8vbv0n1c",
+              "name": "Ta Prohm",
+              "imageUrl": "/image_famous/travel_1722998271421_Ta_Prohm_5bb9387e2f.webp"
+            },
+            {
+              "id": "lhomi0bwhd8jwp5p4pwgeinm",
+              "name": "Bayon Temple",
+              "imageUrl": "/image_famous/travel_1722998257054_Bayon_Temple_24be22c18c.webp"
+            }
+          ]
+        },
+        {
+          "id": "fweqzemi2axwdfreiy2a43ey",
+          "name": "Sihanoukville",
+          "info": "Sihanoukville is a coastal city in Cambodia, popular for its beaches and as a gateway to nearby islands. It is also an important port city and has seen significant development in recent years.",
+          "history": "Sihanoukville, a coastal city in Cambodia, was established in 1964 as the country's primary deep-water port. It was named after King Norodom Sihanouk and has since developed into a popular tourist destination known for its beaches and islands.",
+          "latitude": 10.63,
+          "longitude": 103.52,
+          "travels": [
+            {
+              "id": "j274ykae1uuyczhjf6j8pq02",
+              "name": "Ream National Park",
+              "imageUrl": "/image_famous/travel_1722998332705_Ream_National_Park_a92e20a04c.webp"
+            },
+            {
+              "id": "tfqc1lr18okl6oyidpxq1ogz",
+              "name": "Independence Beach",
+              "imageUrl": "/image_famous/travel_1722998308830_Independence_Beach_6e9a2efd87.webp"
+            },
+            {
+              "id": "hil32ett42inshbgmbzw0u4r",
+              "name": "Ochheuteal Beach",
+              "imageUrl": "/image_famous/travel_1722998319823_Ochheuteal_Beach_d9019e41bb.webp"
+            }
+          ]
+        },
+        {
+          "id": "yas52n9ty7uol0caw937wx5s",
+          "name": "Singapore",
+          "info": "Singapore is a global financial hub and island city-state known for its multicultural population, modern architecture, and lush green spaces. Key attractions include Marina Bay Sands, Gardens by the Bay, and Sentosa Island.",
+          "history": "Singapore was founded as a British trading colony in 1819 by Sir Stamford Raffles. It became an independent republic in 1965 and is known for its rapid development and as a global financial hub.",
+          "latitude": 1.35,
+          "longitude": 103.82,
+          "travels": [
+            {
+              "id": "z9lfr3dmxdbsupzffhk135g7",
+              "name": "Gardens by the Bay",
+              "imageUrl": "/image_famous/travel_1723003813874_Gardens_by_the_Bay_2240ed851c.webp"
+            },
+            {
+              "id": "nr4mz89pctvp9o7ajuvyjgp4",
+              "name": "Sentosa Island",
+              "imageUrl": "/image_famous/travel_1723003829565_Sentosa_Island_0ddc8089ae.webp"
+            },
+            {
+              "id": "ywvpm95umym5tl46fb2v5r45",
+              "name": "Marina Bay Sands",
+              "imageUrl": "/image_famous/travel_1723003822575_Marina_Bay_Sands_d56fe7555c.webp"
+            }
+          ]
+        },
+        {
+          "id": "dj25x40v23zfwozb0ulbjbv7",
+          "name": "Split",
+          "info": "Split is a coastal city in Croatia, known for its Roman-era Diocletian's Palace, vibrant cultural scene, and beautiful Adriatic coastline.",
+          "history": "Split is a historic city in Croatia, known for its Roman heritage, including the Diocletian's Palace, and vibrant cultural scene. It has a history dating back to ancient times and is a major tourist destination.",
+          "latitude": 43.51,
+          "longitude": 16.44,
+          "travels": [
+            {
+              "id": "z2tad252v2gebtaufaa4jcsc",
+              "name": "Cathedral of Saint Domnius",
+              "imageUrl": "/image_famous/travel_1722998637900_Cathedral_of_Saint_Domnius_05f2de7115.webp"
+            },
+            {
+              "id": "d5oyy2r3qfdynnpvdvtpupuv",
+              "name": "Marjan Hill",
+              "imageUrl": "/image_famous/travel_1722998658714_Marjan_Hill_96e9318a3f.jpeg"
+            },
+            {
+              "id": "elz1pvox99h9h8l4szanyvbf",
+              "name": "Diocletian_s Palace",
+              "imageUrl": "/image_famous/travel_1722998649895_Diocletian_s_Palace_0d5af09545.webp"
+            }
+          ]
+        },
+        {
+          "id": "an887ryzvo4lk9qvlvw6d3ec",
+          "name": "Stepanakert",
+          "info": "Stepanakert is the capital city of Nagorno-Karabakh, known for its cultural landmarks and mountainous landscape.",
+          "history": "Stepanakert is the capital of the Nagorno-Karabakh region, also known as Artsakh, which has a complex political status. The city has grown significantly since the Soviet era and is the cultural and administrative center of the region.",
+          "latitude": 39.82,
+          "longitude": 46.75,
+          "travels": [
+            {
+              "id": "u1m8sfcaof2g96r78l3vocxl",
+              "name": "Shushi Cathedral",
+              "imageUrl": "/image_famous/travel_1723002396693_Shushi_Cathedral_63e2a95727.webp"
+            },
+            {
+              "id": "m9j8uex7b2cbs626b6cbedcm",
+              "name": "Stepanakert Market",
+              "imageUrl": "/image_famous/travel_1723002403005_Stepanakert_Market_4174ae0790.webp"
+            },
+            {
+              "id": "jmxrvp2mq6lnh1xjwpw19nec",
+              "name": "Weeping Cross",
+              "imageUrl": "/image_famous/travel_1723002410120_Weeping_Cross_8938537f98.webp"
+            }
+          ]
+        },
+        {
+          "id": "r0urdsid25fuqgpd7dcv334c",
+          "name": "Stockholm",
+          "info": "Stockholm is the capital city of Sweden, known for its archipelago, historical sites, and vibrant cultural scene.",
+          "history": "Stockholm, the capital of Sweden, is known for its stunning archipelago, historic old town (Gamla Stan), and as a major cultural, political, and economic center. The city has a rich history dating back to the 13th century.",
+          "latitude": 59.33,
+          "longitude": 18.07,
+          "travels": [
+            {
+              "id": "mp5wwpkcxua11rxgw9zkovki",
+              "name": "Gamla Stan",
+              "imageUrl": "/image_famous/travel_1723004818366_Gamla_Stan_827e170242.png"
+            },
+            {
+              "id": "y3d7bc4nyqwufp4yr4p7r8uk",
+              "name": "Skansen",
+              "imageUrl": "/image_famous/travel_1723004824669_Skansen_d70b5d5c99.webp"
+            },
+            {
+              "id": "o7yg81xi5cxr03ftupptc97b",
+              "name": "Vasa Museum",
+              "imageUrl": "/image_famous/travel_1723004831609_Vasa_Museum_eb68f5309f.webp"
+            }
+          ]
+        },
+        {
+          "id": "whpzn7d2ski01u8jqe19dsib",
+          "name": "Sukhumi",
+          "info": "Sukhumi is the capital city of Abkhazia, known for its beaches, botanical gardens, and Soviet-era architecture.",
+          "history": "Sukhumi is the capital of Abkhazia, a region in Georgia with a complex political status. The city has a long history, having been a significant site since ancient times, and is known for its subtropical climate and historical landmarks.",
+          "latitude": 43,
+          "longitude": 41.02,
+          "travels": [
+            {
+              "id": "v17rqtyovbvl068yj0u7s29p",
+              "name": "Abkhazia State Museum",
+              "imageUrl": "/image_famous/travel_1722936286297_Abkhazia_State_Museum_03eedd257e.webp"
+            },
+            {
+              "id": "ud76hjaknak7o2ri9wnn1n0p",
+              "name": "Sukhumi Botanical Garden",
+              "imageUrl": "/image_famous/travel_1722936305013_Sukhumi_Botanical_Garden_97547f5a01.webp"
+            },
+            {
+              "id": "lvb3nwisnmkk3s3z6cz6zmtv",
+              "name": "Besleti Bridge",
+              "imageUrl": "/image_famous/travel_1722936296645_Besleti_Bridge_eacd9b3c9a.webp"
+            }
+          ]
+        },
+        {
+          "id": "zftothfmffwh7el2c5l20457",
+          "name": "Surabaya",
+          "info": "Surabaya is a major port city in Indonesia, known for its colonial architecture, vibrant street markets, and as a gateway to the iconic Mount Bromo. It is the second largest city in Indonesia and an important industrial center.",
+          "history": "Surabaya, Indonesia's second-largest city, has a history dating back to the 10th century. It played a significant role during the Indonesian National Revolution and is a major port city.",
+          "latitude": -7.26,
+          "longitude": 112.75,
+          "travels": [
+            {
+              "id": "znmgzewxotjcqfvqu0y68oi6",
+              "name": "Mount Bromo",
+              "imageUrl": "/image_famous/travel_1723000238952_Mount_Bromo_b5e905b470.webp"
+            },
+            {
+              "id": "rtsww15725h2xldxcfppaodq",
+              "name": "House of Sampoerna",
+              "imageUrl": "/image_famous/travel_1723000230914_House_of_Sampoerna_f5e1b49950.webp"
+            },
+            {
+              "id": "iefabirhai454kvy3euih4yw",
+              "name": "Suramadu Bridge",
+              "imageUrl": "/image_famous/travel_1723000247417_Suramadu_Bridge_5e04ad3720.webp"
+            }
+          ]
+        },
+        {
+          "id": "bxvkxg9cm5m7ibaiqpnfdhyg",
+          "name": "Szeged",
+          "info": "Szeged is a city in southern Hungary, known for its vibrant cultural scene, university, and beautiful architecture.",
+          "history": "Szeged is a historic city in southern Hungary, known for its vibrant cultural scene, universities, and as a center of paprika production. It has a rich history dating back to ancient times.",
+          "latitude": 46.25,
+          "longitude": 20.14,
+          "travels": [
+            {
+              "id": "ud97cor8lboha2h12vddexzq",
+              "name": "Votive Church",
+              "imageUrl": "/image_famous/travel_1722999726869_Votive_Church_c73601bc9d.webp"
+            },
+            {
+              "id": "zqoi8gkjk6sj9brwojzjw8dc",
+              "name": "Széchenyi Square",
+              "imageUrl": "/image_famous/travel_1722999709362_Sz_A_chenyi_Square_b50bb4909b.avif"
+            },
+            {
+              "id": "c1ydaa0ui799wo3wc8pcrau9",
+              "name": "Szeged Cathedral",
+              "imageUrl": "/image_famous/travel_1722999718695_Szeged_Cathedral_66523bb7e6.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jnxa7ydfe93p31w4p7a0alla",
+      "name": "Tampere",
+      "info": "Tampere is a city in southern Finland, known for its industrial heritage, cultural festivals, and beautiful lakes.",
+      "history": "Tampere is an industrial city in Finland, known for its historical significance in the Finnish industrial revolution. Today, it is a major cultural and educational center, known for its vibrant cultural scene and technology sector.",
+      "latitude": 61.5,
+      "longitude": 23.76,
+      "travels": [
+        {
+          "id": "wahyfyz7by9mrsgox7q8zdt7",
+          "name": "Pyynikki Observation Tower",
+          "imageUrl": "/image_famous/travel_1723003118602_Pyynikki_Observation_Tower_ee2bd2b1b7.avif"
+        },
+        {
+          "id": "z77dpthlnt1s5groebhm4cps",
+          "name": "Vapriikki Museum Centre",
+          "imageUrl": "/image_famous/travel_1723003141923_Vapriikki_Museum_Centre_46f8fdcc5f.avif"
+        },
+        {
+          "id": "yjc1rttdz3qels5uc3x59334",
+          "name": "Tampere Cathedral",
+          "imageUrl": "/image_famous/travel_1723003128146_Tampere_Cathedral_6cb9731732.avif"
+        }
+      ]
+    },
+    {
+      "id": "cg8e7nyzwytngeos660hq2s6",
+      "name": "Tashkent",
+      "info": "Tashkent is the capital city of Uzbekistan, known for its mix of modern and Soviet-era architecture and its lively cultural scene.",
+      "history": "Tashkent is the capital and largest city of Uzbekistan. With a history dating back to ancient times, it was a major trade center on the Silk Road. Tashkent is known for its blend of Soviet-era architecture and Islamic heritage.",
+      "latitude": 41.3,
+      "longitude": 69.24,
+      "travels": [
+        {
+          "id": "w9zbmegr73l7pmlmkizig3gj",
+          "name": "Chorsu Bazaar",
+          "imageUrl": "/image_famous/travel_1723005261387_Chorsu_Bazaar_8581b9e90f.webp"
+        },
+        {
+          "id": "fowr2q2wdtzkctcf8jv3qb2p",
+          "name": "Kukeldash Madrasah",
+          "imageUrl": "/image_famous/travel_1723005267594_Kukeldash_Madrasah_8d91b876ec.webp"
+        },
+        {
+          "id": "ntrnh3gwa3dxuqx3tjfoh7rx",
+          "name": "Registan Square",
+          "imageUrl": "/image_famous/travel_1723005274548_Registan_Square_8b790b84a6.webp"
+        }
+      ]
+    },
+    {
+      "id": "lll7d0pzouyr0poumi6rbwmg",
+      "name": "Tbilisi",
+      "info": "Tbilisi is the capital city of Georgia, known for its historic architecture, vibrant arts scene, and scenic river setting.",
+      "history": "Tbilisi, the capital of Georgia, has a rich history dating back to the 5th century. It has been a strategic location due to its position on the crossroads of Europe and Asia, and it is known for its diverse architecture and vibrant cultural scene.",
+      "latitude": 41.72,
+      "longitude": 44.83,
+      "travels": [
+        {
+          "id": "ilzsugpdm7iudfefxu0e0rxg",
+          "name": "Holy Trinity Cathedral",
+          "imageUrl": "/image_famous/travel_1722999266150_Holy_Trinity_Cathedral_cb32fe1802.webp"
+        },
+        {
+          "id": "br73zaxd22o3orst85e7flyt",
+          "name": "Narikala Fortress",
+          "imageUrl": "/image_famous/travel_1722999279285_Narikala_Fortress_fc301b62d4.webp"
+        },
+        {
+          "id": "th9kpc78g8b5dcjnuol9chs0",
+          "name": "Freedom Square",
+          "imageUrl": "/image_famous/travel_1722999257738_Freedom_Square_e9f6c3cbc7.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "rk67qgbaf35m0o2cbgez7ohb",
+      "name": "Tehran",
+      "info": "Tehran is the capital city of Iran, known for its rich history, cultural landmarks, and bustling bazaars.",
+      "history": "Tehran is the capital and largest city of Iran. It became the capital in 1796 under the Qajar dynasty and has since grown into a major cultural, economic, and political center. Tehran is known for its historical sites, museums, and bustling urban life.",
+      "latitude": 35.69,
+      "longitude": 51.39,
+      "travels": [
+        {
+          "id": "sklksayn0ho9j6ql73xehndq",
+          "name": "Milad Tower",
+          "imageUrl": "/image_famous/travel_1723000423565_Milad_Tower_71855a61d8.webp"
+        },
+        {
+          "id": "cly5txzbnzkgjb1g068idr04",
+          "name": "Azadi Tower",
+          "imageUrl": "/image_famous/travel_1723000406596_Azadi_Tower_811d0dda79.webp"
+        },
+        {
+          "id": "fsehmo1vtauhbnb5h0oww2vu",
+          "name": "Golestan Palace",
+          "imageUrl": "/image_famous/travel_1723000414267_Golestan_Palace_877805bdb7.webp"
+        }
+      ]
+    },
+    {
+      "id": "v8rf9bcwjc97okndtwzk6ceo",
+      "name": "Thessaloniki",
+      "info": "Thessaloniki is a city in northern Greece, known for its Byzantine walls, White Tower, and vibrant cultural life.",
+      "history": "Thessaloniki is Greece's second-largest city, known for its rich history, vibrant cultural scene, and as a major economic and educational center. It has been an important city since ancient times.",
+      "latitude": 40.64,
+      "longitude": 22.94,
+      "travels": [
+        {
+          "id": "hlc729uj0vbbriyil2rl6mr5",
+          "name": "White Tower",
+          "imageUrl": "/image_famous/travel_1722999976841_White_Tower_b2020abeda.webp"
+        },
+        {
+          "id": "b83m7uwvs8oq0b2tzhdg40ba",
+          "name": "Aristotelous Square",
+          "imageUrl": "/image_famous/travel_1722999957014_Aristotelous_Square_4b6e568aea.webp"
+        },
+        {
+          "id": "oew5uwzi6r561t9lbw3wailp",
+          "name": "Rotunda of Galerius",
+          "imageUrl": "/image_famous/travel_1722999964868_Rotunda_of_Galerius_096f58258b.webp"
+        }
+      ]
+    },
+    {
+      "id": "ec97vhuroorpm16sbp1f7x8v",
+      "name": "Thimphu",
+      "info": "Thimphu is the capital city of Bhutan, known for its traditional architecture and monasteries.",
+      "history": "Thimphu is the capital and largest city of Bhutan. It became the capital in 1961, replacing Punakha. Thimphu is known for its unique blend of modern development and traditional Bhutanese culture, with no traffic lights and preserved Buddhist architecture.",
+      "latitude": 27.51,
+      "longitude": 89.54,
+      "travels": [
+        {
+          "id": "roytiq099p0ud3eirjt8qvbr",
+          "name": "Buddha Dordenma",
+          "imageUrl": "/image_famous/travel_1722937900335_Buddha_Dordenma_e919affd5f.webp"
+        },
+        {
+          "id": "d0f032fpncpzi55hd8686do7",
+          "name": "National Memorial Chorten",
+          "imageUrl": "/image_famous/travel_1722937906404_National_Memorial_Chorten_3f0c156670.webp"
+        },
+        {
+          "id": "wtsovf0y5fau4jf6miczi2ca",
+          "name": "Tashichho Dzong",
+          "imageUrl": "/image_famous/travel_1722937913203_Tashichho_Dzong_19158ddcc1.webp"
+        }
+      ]
+    },
+    {
+      "id": "p02adlydc5mlmt2my3tazn1i",
+      "name": "Thành phố Hồ Chí Minh",
+      "info": "Ho Chi Minh City, also known as Saigon, is the largest city in Vietnam and its economic hub. It is known for its French colonial landmarks, including the Notre-Dame Cathedral and the 19th-century Central Post Office.",
+      "history": "Ho Chi Minh City, formerly known as Saigon, has a rich history dating back to the 17th century. It was originally a small fishing village called Prey Nokor before becoming an important trade center under the Khmer Empire. The city was renamed Saigon by th",
+      "latitude": 10.82,
+      "longitude": 106.63,
+      "travels": [
+        {
+          "id": "fq8vohuxv8pwbhqo05u2qq40",
+          "name": "Notre Dame Cathedral Basilica",
+          "imageUrl": "/image_famous/travel_1723005536902_Notre_Dame_Cathedral_Basilica_a67051c34b.webp"
+        },
+        {
+          "id": "q0hzqt81uism9ry84ujjyjni",
+          "name": "Ben Thanh Market",
+          "imageUrl": "/image_famous/travel_1723005516981_Ben_Thanh_Market_2914bf5e19.webp"
+        },
+        {
+          "id": "mdihkbim97l0sjlm7qlwxpi4",
+          "name": "Cu Chi Tunnels",
+          "imageUrl": "/image_famous/travel_1723005524210_Cu_Chi_Tunnels_c5e42eaa7f.webp"
+        }
+      ]
+    },
+    {
+      "id": "roogymgjs2zrgrwanuv61r26",
+      "name": "Timișoara",
+      "info": "Timișoara is a city in western Romania, known for its historical architecture, cultural festivals, and as a starting point of the Romanian Revolution.",
+      "history": "Timișoara is a historic city in western Romania, known for its diverse architecture and cultural heritage. It was the first city in Romania to be freed from communist rule in 1989 and is known for its vibrant cultural life.",
+      "latitude": 45.75,
+      "longitude": 21.21,
+      "travels": [
+        {
+          "id": "rlpj3zbvh62pot7kt3cle968",
+          "name": "Huniade Castle",
+          "imageUrl": "/image_famous/travel_1723003559342_Huniade_Castle_88aea6d50f.webp"
+        },
+        {
+          "id": "j5hcgp867xalewrcv3wcwotk",
+          "name": "Union Square",
+          "imageUrl": "/image_famous/travel_1723003573057_Union_Square_d7ce3cbf4a.webp"
+        },
+        {
+          "id": "hp0y3lv9k6t9f4pjlapkr7ad",
+          "name": "Timișoara Orthodox Cathedral",
+          "imageUrl": "/image_famous/travel_1723003565819_Timisoara_Orthodox_Cathedral_5fccf6b6bb.webp"
+        }
+      ]
+    },
+    {
+      "id": "g3tc43bwi7vf7mnmzy7thjkp",
+      "name": "Tokyo",
+      "info": "Tokyo is the capital city of Japan, known for its blend of traditional and modern culture, skyscrapers, and historic temples.",
+      "history": "Tokyo, the capital of Japan, was originally a small fishing village named Edo. It became the political center of Japan in 1603 and was renamed Tokyo when Emperor Meiji moved the capital there in 1868.",
+      "latitude": 35.69,
+      "longitude": 139.69,
+      "travels": [
+        {
+          "id": "re7lzihyva2xbvx7vbepeam7",
+          "name": "Senso-ji Temple",
+          "imageUrl": "/image_famous/travel_1723002719209_Senso_ji_Temple_78a4ffa227.webp"
+        },
+        {
+          "id": "fjfxda65nfre03j5kit8vvwm",
+          "name": "Shibuya Crossing",
+          "imageUrl": "/image_famous/travel_1723002726427_Shibuya_Crossing_20d4ff7fb4.webp"
+        },
+        {
+          "id": "p0fcsm7nlhmrfo3l50b5f5r6",
+          "name": "Tokyo Tower",
+          "imageUrl": "/image_famous/travel_1723002734176_Tokyo_Tower_4db4293a6a.webp"
+        }
+      ]
+    },
+    {
+      "id": "kiwu86csc4hlstc52f3zla1r",
+      "name": "Trondheim",
+      "info": "Trondheim is a city in central Norway, known for its university, historical architecture, and as the original capital of Norway.",
+      "history": "Trondheim is a historic city in central Norway, known for its medieval Nidaros Cathedral and as a former capital of Norway. It has a rich history dating back to the Viking Age and remains an important cultural and educational center.",
+      "latitude": 63.43,
+      "longitude": 10.4,
+      "travels": [
+        {
+          "id": "fm2r35pq4qmfydcapwd1n3xp",
+          "name": "Rockheim",
+          "imageUrl": "/image_famous/travel_1723002353624_Rockheim_805fd403e7.webp"
+        },
+        {
+          "id": "dvyyx9ftg6v0baz0y63ujwxp",
+          "name": "Nidaros Cathedral",
+          "imageUrl": "/image_famous/travel_1723002339174_Nidaros_Cathedral_4f0f17c262.webp"
+        },
+        {
+          "id": "za63idi2ioxiv3bpu5qsi505",
+          "name": "Old Town Bridge",
+          "imageUrl": "/image_famous/travel_1723002346526_Old_Town_Bridge_09d059953d.webp"
+        }
+      ]
+    },
+    {
+      "id": "s75iqod0dpouy4098zbvf6zs",
+      "name": "Tskhinvali",
+      "info": "Tskhinvali is the capital city of South Ossetia, known for its mountainous scenery and historical significance.",
+      "history": "Tskhinvali is the capital of the disputed region of South Ossetia in Georgia. The city has experienced significant conflict but remains an important cultural and administrative center for the region.",
+      "latitude": 42.24,
+      "longitude": 43.97,
+      "travels": [
+        {
+          "id": "iwj28vg0umjsekm9240jv9b8",
+          "name": "Church of the Nativity of the Blessed Virgin",
+          "imageUrl": "/image_famous/travel_1723002440063_Church_of_the_Nativity_of_the_Blessed_Virgin_10630dd4b9.webp"
+        },
+        {
+          "id": "d0liqhr2jp3p32gedkidxjhw",
+          "name": "Ossetian State Theatre",
+          "imageUrl": "/image_famous/travel_1723002447394_Ossetian_State_Theatre_22160a6af7.webp"
+        },
+        {
+          "id": "inu5wmudkealsxvy1r8b9imu",
+          "name": "Tskhinvali Art Gallery",
+          "imageUrl": "/image_famous/travel_1723002454967_Tskhinvali_Art_Gallery_5ce106e94e.webp"
+        }
+      ]
+    },
+    {
+      "id": "go46v7vr5ifabefvn5c6msvp",
+      "name": "Ulaanbaatar",
+      "info": "Ulaanbaatar is the capital city of Mongolia, known for its Soviet-era buildings and as a gateway to the Gobi Desert.",
+      "history": "Ulaanbaatar, the capital of Mongolia, was founded in 1639 as a movable Buddhist monastic center. It became a permanent settlement in the 18th century and is now the political, cultural, and economic heart of Mongolia.",
+      "latitude": 47.89,
+      "longitude": 106.91,
+      "travels": [
+        {
+          "id": "rh3pbcqydcg06ao5bkaihdst",
+          "name": "National Museum of Mongolia",
+          "imageUrl": "/image_famous/travel_1723001879537_National_Museum_of_Mongolia_4282b6ead5.webp"
+        },
+        {
+          "id": "yuv4k7x4s9wmnflidow4zx2e",
+          "name": "Sukhbaatar Square",
+          "imageUrl": "/image_famous/travel_1723001887065_Sukhbaatar_Square_da79b8d627.webp"
+        },
+        {
+          "id": "ly6tb1rt908ek87ephicax1b",
+          "name": "Gandan Monastery",
+          "imageUrl": "/image_famous/travel_1723001871572_Gandan_Monastery_960e17c48f.webp"
+        }
+      ]
+    },
+    {
+      "id": "rnchsd5wm7abrqkqefvuzwnz",
+      "name": "Valencia",
+      "info": "A city in central Venezuela, known for its industrial activities and historical significance.",
+      "history": "Valencia, a city in Venezuela, has a history as an industrial and commercial hub. It is known for its diverse economy and cultural institutions.",
+      "latitude": 10.16,
+      "longitude": -68.01,
+      "travels": [
+        {
+          "id": "ikqbetctrv9z7r2dyqst5myc",
+          "name": "Oceanogràfic",
+          "imageUrl": "/image_famous/travel_1723004389933_L_Oceanogr_A_fic_095046d52c.webp"
+        },
+        {
+          "id": "q7d57qk8u9k44glo4am9gwsd",
+          "name": "Valencia Cathedral",
+          "imageUrl": "/image_famous/travel_1723004397610_Valencia_Cathedral_ed664f4258.webp"
+        },
+        {
+          "id": "t77jmf8fvav6tw5h4tlzgief",
+          "name": "City of Arts and Sciences",
+          "imageUrl": "/image_famous/travel_1723004377110_City_of_Arts_and_Sciences_544a318cdb.avif"
+        }
+      ]
+    },
+    {
+      "id": "gvp3yh092djg3e114mv6ggwq",
+      "name": "Vienna",
+      "info": "Vienna is the capital city of Austria, known for its artistic and intellectual legacy, imperial palaces, and vibrant cultural scene.",
+      "history": "Vienna, the capital of Austria, is known for its classical music, imperial history, and vibrant cultural scene. It has been a major cultural, political, and economic center in Europe for centuries.",
+      "latitude": 48.21,
+      "longitude": 16.37,
+      "travels": [
+        {
+          "id": "v59a2cyqyvy6eqsbppmelrr1",
+          "name": "St. Stephen_s Cathedral",
+          "imageUrl": "/image_famous/travel_1722937274469_St_Stephen_s_Cathedral_86f94d7971.webp"
+        },
+        {
+          "id": "tqyaobofhe0vdknri2q9s945",
+          "name": "Schönbrunn Palace",
+          "imageUrl": "/image_famous/travel_1722937268016_Sch_A_nbrunn_Palace_d93c5fb4c6.webp"
+        },
+        {
+          "id": "hd28ac3pdlno47qeuz327xrf",
+          "name": "Hofburg Palace",
+          "imageUrl": "/image_famous/travel_1722937261192_Hofburg_Palace_f7b5d73e89.webp"
+        }
+      ]
+    },
+    {
+      "id": "zpvcfthh2svnn5vmltdo1ztn",
+      "name": "Vilnius",
+      "info": "Vilnius is the capital city of Lithuania, known for its baroque architecture, vibrant cultural scene, and the historic Old Town.",
+      "history": "Vilnius, the capital of Lithuania, is known for its Baroque architecture, historic old town, and vibrant cultural scene. It has a rich history as a major center in the Grand Duchy of Lithuania.",
+      "latitude": 54.69,
+      "longitude": 25.28,
+      "travels": [
+        {
+          "id": "iro6rvam0o4py2dppjap1v4k",
+          "name": "Gediminas Tower",
+          "imageUrl": "/image_famous/travel_1723001548362_Gediminas_Tower_cbc6e5caed.webp"
+        },
+        {
+          "id": "pvq1qbmjfn19ah985cdrwe7t",
+          "name": "Gate of Dawn",
+          "imageUrl": "/image_famous/travel_1723001538593_Gate_of_Dawn_38488df988.webp"
+        },
+        {
+          "id": "j3otdiqrivm1mtbi0p5x3l3u",
+          "name": "Vilnius Cathedral",
+          "imageUrl": "/image_famous/travel_1723001557269_Vilnius_Cathedral_76ef6e5fae.webp"
+        }
+      ]
+    },
+    {
+      "id": "qftktfwiyeya3nywc2ll8hkn",
+      "name": "Viêng Chăn",
+      "info": "Vientiane is the capital city of Laos, characterized by its laid-back atmosphere and French colonial architecture. It is home to important Buddhist temples such as Pha That Luang and Wat Si Saket.",
+      "history": "Vientiane, the capital of Laos, has a history that dates back to the 9th century. It became the capital of the Kingdom of Lan Xang in the 16th century. Vientiane fell under Siamese control in the 18th century and later became a French protectorate in the ",
+      "latitude": 17.98,
+      "longitude": 102.63,
+      "travels": [
+        {
+          "id": "q2438ctjosf6selhupj5oaa9",
+          "name": "Patuxai",
+          "imageUrl": "/image_famous/travel_1723001029997_Patuxai_233803292c.webp"
+        },
+        {
+          "id": "vr5zzamt4x3v2b70vwbndijt",
+          "name": "Pha That Luang",
+          "imageUrl": "/image_famous/travel_1723001041042_Pha_That_Luang_a4ef53b8e7.webp"
+        },
+        {
+          "id": "lni3cbubkpa1a9b93jkjn2it",
+          "name": "Wat Si Saket",
+          "imageUrl": "/image_famous/travel_1723001048121_Wat_Si_Saket_d475c2d103.webp"
+        }
+      ]
+    },
+    {
+      "id": "ej6oc65olztk0pu5g2sqx6yh",
+      "name": "Warsaw",
+      "info": "Warsaw is the capital city of Poland, known for its modern skyline, historical sites, and vibrant cultural scene.",
+      "history": "Warsaw, the capital of Poland, has a history marked by resilience, including its near-total destruction during World War II and subsequent reconstruction. It is now a vibrant cultural, political, and economic center in Poland.",
+      "latitude": 52.23,
+      "longitude": 21.01,
+      "travels": [
+        {
+          "id": "y2p83tm9nw06o7ldxfhpyb2j",
+          "name": "Warsaw Uprising Museum",
+          "imageUrl": "/image_famous/travel_1722937630324_Warsaw_Uprising_Museum_b53657e3d7.webp"
+        },
+        {
+          "id": "ep22jc6kapw29osgdi5vihn2",
+          "name": "Wilanów Palace",
+          "imageUrl": "/image_famous/travel_1722937636602_Wilan_A_w_Palace_7eec7d83c8.webp"
+        },
+        {
+          "id": "h8ricbcbtgvnqn56glnrb7bv",
+          "name": "Royal Castle",
+          "imageUrl": "/image_famous/travel_1722937624143_Royal_Castle_3f1cc43189.webp"
+        }
+      ]
+    },
+    {
+      "id": "oep38csexqk07i7xjzqbv0yh",
+      "name": "Yangon",
+      "info": "Yangon, also known as Rangoon, is the largest city in Myanmar, noted for its colonial-era buildings, bustling markets, and the iconic Shwedagon Pagoda, one of Buddhism's most sacred sites.",
+      "history": "Yangon, formerly known as Rangoon, was the capital of Myanmar until 2006. The city was founded in the 11th century and became a significant commercial center during the British colonial period. It is known for the Shwedagon Pagoda, a historic Buddhist tem",
+      "latitude": 16.87,
+      "longitude": 96.2,
+      "travels": [
+        {
+          "id": "m8n41s62a2qhhv7eo368copi",
+          "name": "Shwedagon Pagoda",
+          "imageUrl": "/image_famous/travel_1723002200785_Shwedagon_Pagoda_27b9fcee5b.webp"
+        },
+        {
+          "id": "c5k6eonpnfuvuojlbn9adj84",
+          "name": "Bogyoke Aung San Market",
+          "imageUrl": "/image_famous/travel_1723002191910_Bogyoke_Aung_San_Market_84bf1ec422.webp"
+        },
+        {
+          "id": "ynok0wr6u1sueem6vy1a3243",
+          "name": "Sule Pagoda",
+          "imageUrl": "/image_famous/travel_1723002208660_Sule_Pagoda_0f738a46d7.webp"
+        }
+      ]
+    },
+    {
+      "id": "f2qe9atmhjdkugn8nd3qms19",
+      "name": "Yerevan",
+      "info": "Yerevan is the capital city of Armenia, known for its Soviet-era architecture, cultural landmarks, and Mount Ararat views.",
+      "history": "Yerevan, the capital of Armenia, is one of the world's oldest continuously inhabited cities, with a history dating back to the 8th century BC. It is known for its historical architecture, vibrant cultural scene, and as the political and economic center of",
+      "latitude": 40.18,
+      "longitude": 44.5,
+      "travels": [
+        {
+          "id": "ii3ng6sxrxhzp7gnf48oli0s",
+          "name": "Cascade Complex",
+          "imageUrl": "/image_famous/travel_1722937299799_Cascade_Complex_071f026a20.webp"
+        },
+        {
+          "id": "x7284jbjwhpbe6gybqppym1j",
+          "name": "Republic Square",
+          "imageUrl": "/image_famous/travel_1722937314779_Republic_Square_6df84ed66b.webp"
+        },
+        {
+          "id": "d9x868k1677399okbuipsl0a",
+          "name": "Matenadaran",
+          "imageUrl": "/image_famous/travel_1722937308751_Matenadaran_f9380c7d85.webp"
+        }
+      ]
+    },
+    {
+      "id": "xyc41nwfeu5gexn4zvfe9zv7",
+      "name": "Yokohama",
+      "info": "Yokohama is a major city in Japan, known for its port, modern architecture, and the beautiful Minato Mirai waterfront area.",
+      "history": "Yokohama is Japan's second-largest city and a major commercial hub. It was one of the first Japanese ports opened to foreign trade in 1859 and has grown into a significant industrial center.",
+      "latitude": 35.44,
+      "longitude": 139.64,
+      "travels": [
+        {
+          "id": "p8p39bbicq6ay1tfuil6zt3r",
+          "name": "Minato Mirai 21",
+          "imageUrl": "/image_famous/travel_1723002754051_Minato_Mirai_21_56df961677.webp"
+        },
+        {
+          "id": "f6zy0tfye3tlg8lb4x7yewqg",
+          "name": "Yokohama Chinatown",
+          "imageUrl": "/image_famous/travel_1723002761069_Yokohama_Chinatown_652d4a80d1.webp"
+        },
+        {
+          "id": "kdxypr4nz78cs3jfw5q8yezn",
+          "name": "Yokohama Landmark Tower",
+          "imageUrl": "/image_famous/travel_1723002768125_Yokohama_Landmark_Tower_636c3b242e.webp"
+        }
+      ]
+    },
+    {
+      "id": "ldbnaof1jrzbcqzpq1baejlt",
+      "name": "Zagreb",
+      "info": "Zagreb is the capital city of Croatia, known for its historic architecture, vibrant cultural scene, and the medieval Gornji Grad (Upper Town).",
+      "history": "Zagreb, the capital of Croatia, is known for its historic architecture, cultural events, and vibrant cultural scene. It has a history dating back to Roman times and remains a major cultural and economic center.",
+      "latitude": 45.82,
+      "longitude": 15.98,
+      "travels": [
+        {
+          "id": "ymmmo1gkugbqfj8xv2svjpt3",
+          "name": "St. Mark_s Church",
+          "imageUrl": "/image_famous/travel_1722998855805_St_Mark_s_Church_8c75775200.webp"
+        },
+        {
+          "id": "md40h4kytojplatbwfpj12dw",
+          "name": "Zagreb Cathedral",
+          "imageUrl": "/image_famous/travel_1722998866048_Zagreb_Cathedral_54ed4155f7.webp"
+        },
+        {
+          "id": "n352v3ifvkd0x60b2gsqg3d2",
+          "name": "Ban Jelačić Square",
+          "imageUrl": "/image_famous/travel_1722998840023_Ban_Jelacic_Square_c240fcc59c.webp"
+        }
+      ]
+    },
+    {
+      "id": "rgkj93glw8gwbpfnf3wueycm",
+      "name": "Đài Bắc",
+      "info": "Taipei is the capital city of Taiwan, known for Taipei 101, modern shopping streets, and lively night markets.",
+      "history": "Đài Bắc, or Taipei, is the capital of Taiwan. It developed rapidly after becoming the temporary capital of the Republic of China in 1949 and is known for its bustling markets, modern shopping malls, and Taipei 101 skyscraper.",
+      "latitude": 25.03,
+      "longitude": 121.56,
+      "travels": [
+        {
+          "id": "ucr28dwldfpmqpdgp4azf7y6",
+          "name": "Chiang Kai-shek Memorial Hal",
+          "imageUrl": "/image_famous/travel_1722998912524_Chiang_Kai_shek_Memorial_Hal_23f9e00a05.avif"
+        },
+        {
+          "id": "myssdp190upxtjn8xge4dhit",
+          "name": "Shilin Night Market",
+          "imageUrl": "/image_famous/travel_1722998921977_Shilin_Night_Market_ed06b3b16c.webp"
+        },
+        {
+          "id": "ipvfq9enno2pq5tmekw5xr92",
+          "name": "Taipei 101",
+          "imageUrl": "/image_famous/travel_1722998938468_Taipei_101_927f32cc04.webp"
+        }
+      ]
+    },
+    {
+      "id": "roglprwopdcczeprp2muvd5k",
+      "name": "Łódź",
+      "info": "Łódź is a city in central Poland, known for its film industry, vibrant cultural scene, and the Manufaktura complex.",
+      "history": "Łódź is an industrial city in central Poland, known for its 19th-century textile industry. It has undergone significant revitalization in recent years and is now a cultural center, known for its film industry and vibrant arts scene.",
+      "latitude": 51.76,
+      "longitude": 19.46,
+      "travels": [
+        {
+          "id": "jgo5b2p3r8bno1wy4fq2pbxn",
+          "name": "Piotrkowska Street",
+          "imageUrl": "/image_famous/travel_1722937605721_Piotrkowska_Street_3b44957ade.webp"
+        },
+        {
+          "id": "vh5qboogw807dszpt95k2i7z",
+          "name": "Manufaktura",
+          "imageUrl": "/image_famous/travel_1722937596870_Manufaktura_ab94f73cdb.webp"
+        },
+        {
+          "id": "evden3vsw5z6vb59ck03674x",
+          "name": " Łódź Film School",
+          "imageUrl": "/image_famous/travel_1722937590661_Lodz_Film_School_491f9a53db.webp"
+        }
+      ]
+    },
+    {
+      "id": "dm4lpwh0fkg7sh2f6gd126zy",
+      "name": "Đà Nẵng",
+      "info": "Da Nang is a coastal city in central Vietnam known for its sandy beaches, French colonial history, and as a gateway to the ancient city of Hoi An. It is also famous for the Marble Mountains and Ba Na Hills.",
+      "history": "Da Nang is a coastal city in central Vietnam with a history that stretches back over 2,000 years. It was an important port city during the Champa Kingdom and later became part of Đại Việt. During the French colonial period, Da Nang, known as Tourane, was ",
+      "latitude": 16.05,
+      "longitude": 108.2,
+      "travels": [
+        {
+          "id": "f5x84cg3w5arav74a5q1oovz",
+          "name": "Marble Mountains",
+          "imageUrl": "/image_famous/travel_1723005319165_Marble_Mountains_78449b585c.webp"
+        },
+        {
+          "id": "rdsv5noqut5guwz5x02qm6jo",
+          "name": "Da Nang Beach",
+          "imageUrl": "/image_famous/travel_1723005393760_Marble_Mountains_27081f5389.webp"
+        },
+        {
+          "id": "zv9gzft6kucc2fgfxui5c8ia",
+          "name": "Dragon Bridge",
+          "imageUrl": "/image_famous/travel_1723005299434_Dragon_Bridge_e2b2097fd2.webp"
+        },
+        {
+          "id": "eaputkksd4djzhykzk65qb5e",
+          "name": "Dragon Bridge",
+          "imageUrl": "/image_famous/travel_1723005377778_Dragon_Bridge_0d87a80d09.webp"
+        },
+        {
+          "id": "d7tcwfj1g9lgy65qiz9xafcz",
+          "name": "Marble Moutains",
+          "imageUrl": "/image_famous/travel_1723005414871marble_moutains_3_1701683633_1a2f4b1867.webp"
+        }
+      ]
+    },
+    {
+      "id": "q1av3qo7u8hbvjdh2rf7ikp4",
+      "name": "Cluj-Napoca",
+      "info": "Cluj-Napoca is a city in northwestern Romania, known for its universities, vibrant nightlife, and historical landmarks.",
+      "history": "Cluj-Napoca is a major city in Romania, known for its universities, vibrant cultural scene, and historical significance. It has a rich history dating back to Roman times and remains an important cultural and economic center.",
+      "latitude": 46.77,
+      "longitude": 23.62,
+      "travels": [
+        {
+          "id": "pkss2rwnlpcjdv0y0rkpqkku",
+          "name": "Central Park",
+          "imageUrl": "/image_famous/travel_1723003519084_Central_Park_8df59476bb.webp"
+        },
+        {
+          "id": "lakn457rukz1purlymwoudzh",
+          "name": "Cluj-Napoca Botanical Garden",
+          "imageUrl": "/image_famous/travel_1723003526818_Cluj_Napoca_Botanical_Garden_f5f115345a.webp"
+        },
+        {
+          "id": "toccjydad39q873fin602ifb",
+          "name": "St. Michael_s Church",
+          "imageUrl": "/image_famous/travel_1723003534270_St_Michael_s_Church_b23ed7ff1e.webp"
+        }
+      ]
+    },
+    {
+      "id": "w2w5iirnrzyy46931ig8p1k3",
+      "name": "Amman",
+      "info": "Amman is the capital city of Jordan, known for its ancient ruins, modern culture, and as a gateway to Petra.",
+      "history": "Amman, the capital of Jordan, has a history that dates back to ancient times, being part of the Roman, Byzantine, and Islamic empires. Today, it is a modern city known for its historical sites and as a center of political and economic activity in Jordan.",
+      "latitude": 31.95,
+      "longitude": 35.91,
+      "travels": [
+        {
+          "id": "vaf75mysrza72gzkz5heeyc4",
+          "name": "Roman Amphitheater",
+          "imageUrl": "/image_famous/travel_1723000679599_Roman_Amphitheater_5a68d4b6ae.webp"
+        },
+        {
+          "id": "qi7fc3x80ad0p2gpom8kdii6",
+          "name": "Amman Citadel",
+          "imageUrl": "/image_famous/travel_1723000664389_Amman_Citadel_7af22007fe.webp"
+        },
+        {
+          "id": "ix5hf0sxsmsigh6ipfutty1l",
+          "name": "King Abdullah I Mosque",
+          "imageUrl": "/image_famous/travel_1723000672135_King_Abdullah_I_Mosque_da6eeff962.webp"
+        }
+      ]
+    },
+    {
+      "id": "x0oxhqv97oc2s57yvckzevnz",
+      "name": "Ankara",
+      "info": "Ankara is the capital city of Turkey, known for its modernist architecture, government buildings, and cultural institutions.",
+      "history": "Ankara is the capital of Turkey. It became the capital in 1923, replacing Istanbul, as part of Atatürk's modernization efforts. It is known for its government institutions, universities, and historical sites dating back to ancient Anatolian civilizations.",
+      "latitude": 39.93,
+      "longitude": 32.86,
+      "travels": [
+        {
+          "id": "z9l4d94t89wdf593tdn6igbe",
+          "name": "Anıtkabir",
+          "imageUrl": "/image_famous/travel_1723004625001_Anitkabir_2439bb5eb7.webp"
+        },
+        {
+          "id": "epd7liwdajfax3l5iw2lmsc4",
+          "name": "Kocatepe Mosque",
+          "imageUrl": "/image_famous/travel_1723004639067_Kocatepe_Mosque_1cdee6e74c.webp"
+        },
+        {
+          "id": "ufcu171sz5cd5t62ixdb69ab",
+          "name": "Atakule",
+          "imageUrl": "/image_famous/travel_1723004632160_Atakule_0faea28bc3.webp"
+        }
+      ]
+    },
+    {
+      "id": "uo6r7041xkgqd3nkdjwmms4e",
+      "name": "Ashgabat",
+      "info": "Ashgabat is the capital city of Turkmenistan, known for its white marble buildings and grandiose national monuments.",
+      "history": "Ashgabat is the capital and largest city of Turkmenistan. Founded in the late 19th century, it has been rebuilt several times due to earthquakes. Ashgabat is known for its white marble buildings and grandiose national monuments.",
+      "latitude": 37.96,
+      "longitude": 58.33,
+      "travels": [
+        {
+          "id": "axofaln5ldr55up2bv6hzret",
+          "name": "Turkmenbashi Ruhy Mosque",
+          "imageUrl": "/image_famous/travel_1723005102158_Turkmenbashi_Ruhy_Mosque_a0878f5837.webp"
+        },
+        {
+          "id": "pdqjk1mgy675g9vxxc4nuwjl",
+          "name": "Monument of Neutrality",
+          "imageUrl": "/image_famous/travel_1723005094430_Monument_of_Neutrality_33f51f1dc5.webp"
+        },
+        {
+          "id": "kwab29kb3tbkvhg31uawy3fn",
+          "name": "Ashgabat National Museum of History",
+          "imageUrl": "/image_famous/travel_1723005086914_Ashgabat_National_Museum_of_History_4e6fdafd8d.webp"
+        }
+      ]
+    },
+    {
+      "id": "ctt2d09uzpmmn6taquibfk6f",
+      "name": "Athens",
+      "info": "Athens is the capital city of Greece, known for its ancient landmarks, including the Acropolis and the Parthenon, and its vibrant cultural scene.",
+      "history": "Athens, the capital of Greece, is one of the world's oldest cities, known for its ancient history, including landmarks like the Acropolis and Parthenon. It has been a significant cultural, political, and economic center for millennia.",
+      "latitude": 37.98,
+      "longitude": 23.73,
+      "travels": [
+        {
+          "id": "l1106rcv9wuma2zptwdd89o2",
+          "name": "Plaka",
+          "imageUrl": "/image_famous/travel_1722999886184_Plaka_c844a78416.webp"
+        },
+        {
+          "id": "dfjif7pqt5gyvifyqnu5ka2m",
+          "name": "Acropolis",
+          "imageUrl": "/image_famous/travel_1722999870835_Acropolis_22991c9d22.jpeg"
+        },
+        {
+          "id": "xkchiwrghzqlwat2w5pul3f0",
+          "name": "Parthenon",
+          "imageUrl": "/image_famous/travel_1722999877548_Parthenon_085886504a.webp"
+        }
+      ]
+    },
+    {
+      "id": "l79te6tcur30n3sj1sqyx6jh",
+      "name": "Baku",
+      "info": "Baku is the capital city of Azerbaijan, known for its modern architecture, historic sites, and the Caspian Sea coastline.",
+      "history": "Baku, the capital of Azerbaijan, is known for its unique blend of ancient and modern architecture. It has a history as a major trade and oil center in the Caspian Sea region. Today, it is a vibrant city known for its economic development and cultural heri",
+      "latitude": 40.41,
+      "longitude": 49.87,
+      "travels": [
+        {
+          "id": "r362oajj4xzngt30kr3ya00k",
+          "name": "Flame Towers",
+          "imageUrl": "/image_famous/travel_1722937370598_Flame_Towers_219408a434.webp"
+        },
+        {
+          "id": "pnfzttnndccjlf857v94nfqo",
+          "name": "Maiden Tower",
+          "imageUrl": "/image_famous/travel_1722937379726_Maiden_Tower_c83d98aca3.webp"
+        },
+        {
+          "id": "gbu51ee8d8mmd1t9nz7fvwbi",
+          "name": "Baku Boulevard",
+          "imageUrl": "/image_famous/travel_1722937364883_Baku_Boulevard_c7c150e5a1.webp"
+        }
+      ]
+    },
+    {
+      "id": "mzeg8dkw4ss28hqdw3baiqvq",
+      "name": "Bandar Seri Begawan",
+      "info": "Bandar Seri Begawan is the capital city of Brunei, known for its opulent mosques and the Istana Nurul Iman palace.",
+      "history": "Bandar Seri Begawan is the capital of Brunei and has been the center of administration since the 16th century. It is known for its mosques, including the Sultan Omar Ali Saifuddien Mosque.",
+      "latitude": 4.9,
+      "longitude": 114.94,
+      "travels": [
+        {
+          "id": "q6x49bhprz70wr79fkcc47f5",
+          "name": "Sultan Omar Ali Saifuddien Mosque",
+          "imageUrl": "/image_famous/travel_1722941612533_Sultan_Omar_Ali_Saifuddien_Mosque_04967cdb11.webp"
+        },
+        {
+          "id": "fucl0lixo4o8ez6uoptcqa25",
+          "name": "Kampong Ayer",
+          "imageUrl": "/image_famous/travel_1722941593249_Kampong_Ayer_0fa9f346df.webp"
+        },
+        {
+          "id": "c6hiu7wy8aglqgu50myq0y2j",
+          "name": "Royal Regalia Museum",
+          "imageUrl": "/image_famous/travel_1722941602916_Royal_Regalia_Museum_7315d92011.webp"
+        }
+      ]
+    },
+    {
+      "id": "wa8ewr9b1ruwo9se6v4dv8nw",
+      "name": "Bandung",
+      "info": "Bandung is a city in Indonesia, known for its universities, colonial architecture, and as a shopping destination for fashion.",
+      "history": "Bandung, the capital of West Java in Indonesia, was founded in 1810 by the Dutch. It is known for its colonial and art deco architecture and as a center for education.",
+      "latitude": -6.92,
+      "longitude": 107.62,
+      "travels": [
+        {
+          "id": "yj3leia0qvs54mct0f0gpwml",
+          "name": "Braga Street",
+          "imageUrl": "/image_famous/travel_1723000145557_Braga_Street_b06d797b5f.webp"
+        },
+        {
+          "id": "lngynkx97gqauhl89cwte2hu",
+          "name": "Trans Studio Bandung",
+          "imageUrl": "/image_famous/travel_1723000160278_Trans_Studio_Bandung_1c2ffb88d9.webp"
+        },
+        {
+          "id": "k02b0t6keosqhvqynfsjxnuk",
+          "name": "Tangkuban Perahu",
+          "imageUrl": "/image_famous/travel_1723000152793_Tangkuban_Perahu_8ce336dcd2.webp"
+        }
+      ]
+    },
+    {
+      "id": "nsn4g8et8zacnen7zf231heh",
+      "name": "Bangalore",
+      "info": "Bangalore is a city in India, known as the center of India’s tech industry and for its parks and nightlife.",
+      "history": "Bangalore, now known as Bengaluru, is India's IT capital. The city is renowned for its fast-growing economy and as a major center for education and research. Bangalore's history is linked with the Vijayanagara Empire and later British colonial rule.",
+      "latitude": 12.97,
+      "longitude": 77.59,
+      "travels": [
+        {
+          "id": "c0vghh7x72tvf3gnkpjoh6s5",
+          "name": "Lalbagh Botanical Garden",
+          "imageUrl": "/image_famous/travel_1722936461286_Lalbagh_Botanical_Garden_e39bb31756.webp"
+        },
+        {
+          "id": "zjoow75bm191ii46dwa4ai2r",
+          "name": "Vidhana Soudha",
+          "imageUrl": "/image_famous/travel_1722936470025_Vidhana_Soudha_79426fa6ed.webp"
+        },
+        {
+          "id": "sb4i98v1tt3b1bpx416euof1",
+          "name": "Bangalore Palace",
+          "imageUrl": "/image_famous/travel_1722936451762_Bangalore_Palace_5ac378b604.webp"
+        }
+      ]
+    },
+    {
+      "id": "h1oxwp49wnh3niuj7ws5al6q",
+      "name": "Bangkok",
+      "info": "Bangkok is the capital and largest city of Thailand, known for its vibrant street life, ornate shrines, and bustling markets. Key attractions include the Grand Palace, Wat Arun, and the floating markets.",
+      "history": "Bangkok, the capital of Thailand, was established in 1782 by King Rama I as the capital of the Rattanakosin Kingdom. It has since grown into a major metropolitan area and cultural hub. Bangkok is known for its vibrant street life, grand palaces, and templ",
+      "latitude": 13.76,
+      "longitude": 100.5,
+      "travels": [
+        {
+          "id": "lv7843sez7wgzxy68q1u6682",
+          "name": "Chatuchak Market",
+          "imageUrl": "/image_famous/travel_1723004430255_Chatuchak_Market_94f4758a7b.jpeg"
+        },
+        {
+          "id": "t9oype92dyvyzskldzkkzffy",
+          "name": "Grand Palace",
+          "imageUrl": "/image_famous/travel_1723004437549_Grand_Palace_9885f208d7.webp"
+        },
+        {
+          "id": "d444xg8c20q4218agxdmzg0y",
+          "name": "Wat Arun",
+          "imageUrl": "/image_famous/travel_1723004444115_Wat_Arun_c949450a35.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "ujolas05044yin26pk5yj1a4",
+      "name": "Banja Luka",
+      "info": "Banja Luka is a city in Bosnia and Herzegovina, known for its tree-lined avenues, vibrant cultural scene, and the Kastel Fortress.",
+      "history": "Banja Luka is the second-largest city in Bosnia and Herzegovina, known for its historical significance, cultural events, and as an important regional center. It has a history dating back to medieval times.",
+      "latitude": 44.77,
+      "longitude": 17.19,
+      "travels": [
+        {
+          "id": "fz02yska8sfk7vdf751ngpw8",
+          "name": "Ferhat Pasha Mosque",
+          "imageUrl": "/image_famous/travel_1722939713322_Ferhat_Pasha_Mosque_cac0a1590c.webp"
+        },
+        {
+          "id": "xfb8ypc3vcqukneuds1v5nmk",
+          "name": "Cathedral of Christ the Saviour",
+          "imageUrl": "/image_famous/travel_1722939678919_Cathedral_of_Christ_the_Saviour_925e67e6ac.webp"
+        },
+        {
+          "id": "p5oaknm6cu65tnpl08ot3n7o",
+          "name": "Kastel Fortress",
+          "imageUrl": "/image_famous/travel_1722939732728_Kastel_Fortress_775c826a38.webp"
+        }
+      ]
+    },
+    {
+      "id": "u46o1ijos6lonfs8kbk9hqd6",
+      "name": "Barcelona",
+      "info": "Barcelona is a city in Spain’s Catalonia region, known for its art and architecture. Key landmarks include the Sagrada Família and Park Güell.",
+      "history": "Barcelona is the capital of Catalonia and one of Spain's major cities. Known for its unique architecture by Antoni Gaudí, vibrant arts scene, and historic significance, it has been a center of trade and culture for centuries.",
+      "latitude": 41.39,
+      "longitude": 2.17,
+      "travels": [
+        {
+          "id": "bz0le9iy2oega7h0ct9ysboa",
+          "name": "La Rambla",
+          "imageUrl": "/image_famous/travel_1723004285282_La_Rambla_bd5781719d.webp"
+        },
+        {
+          "id": "ajaxczom4cbvbud1kxt70gtj",
+          "name": "Park Güell",
+          "imageUrl": "/image_famous/travel_1723004298287_Park_GA_ell_4e39a099ee.webp"
+        },
+        {
+          "id": "zhtl7b1wjh7b9ms8sbflg05m",
+          "name": "Sagrada Família",
+          "imageUrl": "/image_famous/travel_1723004307952_Sagrada_Fam_A_lia_055910923f.webp"
+        }
+      ]
+    },
+    {
+      "id": "hh35v5ndcvq2qzy4onsa14xg",
+      "name": "Beijing",
+      "info": "Beijing is the capital city of China, known for its modern architecture as well as historical sites such as the Forbidden City and Tiananmen Square.",
+      "history": "Bắc Kinh, or Beijing, is the capital of China and has a history spanning over 3,000 years. It has been the political center of China for most of the past eight centuries and is known for landmarks such as the Forbidden City and the Great Wall of China.",
+      "latitude": 39.9,
+      "longitude": 116.41,
+      "travels": [
+        {
+          "id": "plia5dld3f7gbfexuuq4u2t7",
+          "name": "Temple of Heaven",
+          "imageUrl": "/image_famous/travel_1723004930568_Temple_of_Heaven_3ab72b9ac9.avif"
+        },
+        {
+          "id": "vryw6nvmcoczfal6ikwm3ngo",
+          "name": "Forbidden City",
+          "imageUrl": "/image_famous/travel_1723004902794_Forbidden_City_2210bd71a9.webp"
+        },
+        {
+          "id": "j31dlo98jiaanwqx7ahy7s17",
+          "name": "Great Wall of China",
+          "imageUrl": "/image_famous/travel_1723004910774_Great_Wall_of_China_dcb534d86e.webp"
+        }
+      ]
+    },
+    {
+      "id": "xoxyjf2cm4cjo7efl0rfxfjy",
+      "name": "Beirut",
+      "info": "Beirut is the capital city of Lebanon, known for its historic architecture, vibrant nightlife, and cultural diversity.",
+      "history": "Beirut, the capital of Lebanon, is known for its rich history, cultural diversity, and resilience. It has been a major port and cultural center for centuries and remains a vibrant, cosmopolitan city despite periods of conflict.",
+      "latitude": 33.89,
+      "longitude": 35.5,
+      "travels": [
+        {
+          "id": "gpo1jbmgyen037qmk2ov5989",
+          "name": "National Museum of Beirut",
+          "imageUrl": "/image_famous/travel_1723001275631_National_Museum_of_Beirut_13dc6ae879.webp"
+        },
+        {
+          "id": "fmnh982diy5cnn1ov43au2hq",
+          "name": "Martyrs Square",
+          "imageUrl": "/image_famous/travel_1723001264888_Martyrs_Square_804eb7b72b.webp"
+        },
+        {
+          "id": "d9ormp9v8xzb5hjye5vyze6f",
+          "name": "Pigeon Rocks",
+          "imageUrl": "/image_famous/travel_1723001283478_Pigeon_Rocks_ba32751872.webp"
+        }
+      ]
+    },
+    {
+      "id": "o0h04m499dypgchgow7fx1n0",
+      "name": "Belgrade",
+      "info": "Belgrade is the capital city of Serbia, known for its historical landmarks, vibrant nightlife, and the confluence of the River Sava and Danube.",
+      "history": "Belgrade, the capital of Serbia, is known for its strategic location at the confluence of the Danube and Sava rivers. It has a rich history, having been an important city in various empires, and is now a vibrant cultural and economic center.",
+      "latitude": 44.79,
+      "longitude": 20.46,
+      "travels": [
+        {
+          "id": "ay9q2n41voa6303vgwww7qun",
+          "name": "Skadarlija",
+          "imageUrl": "/image_famous/travel_1723003634834_Skadarlija_97bedf8106.webp"
+        },
+        {
+          "id": "kjaj3aw2f4q201nwmhn2mkyr",
+          "name": "Kalemegdan Fortress",
+          "imageUrl": "/image_famous/travel_1723003628025_Kalemegdan_Fortress_a756b2b461.webp"
+        },
+        {
+          "id": "rr4lfs4b1brjj3koldfghq9t",
+          "name": "Church of Saint Sava",
+          "imageUrl": "/image_famous/travel_1723003621207_Church_of_Saint_Sava_bc53130540.webp"
+        }
+      ]
+    },
+    {
+      "id": "k43coaakk9caambe3dvf7v3o",
+      "name": "Budapest",
+      "info": "Budapest is the capital city of Hungary, known for its architectural landmarks, thermal baths, and vibrant cultural scene.",
+      "history": "Budapest, the capital of Hungary, is known for its stunning architecture, thermal baths, and rich history. Formed by the unification of Buda, Pest, and Óbuda in 1873, it is now a major cultural and economic hub in Central Europe.",
+      "latitude": 47.5,
+      "longitude": 19.04,
+      "travels": [
+        {
+          "id": "cdspw42xet8g69038ei6lnme",
+          "name": "Buda Castle",
+          "imageUrl": "/image_famous/travel_1722999629348_Buda_Castle_1b13f57d4f.cms"
+        },
+        {
+          "id": "zyfsvtkiqs3md5sgqyacuho8",
+          "name": "Fisherman_s Bastion",
+          "imageUrl": "/image_famous/travel_1722999617361_Fisherman_s_Bastion_7b9cc3551d.webp"
+        },
+        {
+          "id": "xlgqp3fjoqm3g1798ij6f775",
+          "name": "Parliament Building",
+          "imageUrl": "/image_famous/travel_1722999639886_Parliament_Building_30bdd6eabb.webp"
+        }
+      ]
+    },
+    {
+      "id": "gnu3hvrix3z2ls75gzpqx9tk",
+      "name": "Busan",
+      "info": "Busan is a large port city in South Korea, known for its beaches, mountains, and temples.",
+      "history": "Busan is South Korea's second-largest city and the largest port. It has a history as a trading port dating back to the 15th century and is known for its beaches, mountains, and temples.",
+      "latitude": 35.18,
+      "longitude": 129.08,
+      "travels": [
+        {
+          "id": "pvix6jxu1z2w0iumptvr077j",
+          "name": "Jagalchi Fish Market",
+          "imageUrl": "/image_famous/travel_1722999368057_Jagalchi_Fish_Market_6d1d2a9290.webp"
+        },
+        {
+          "id": "jzyi0h0gffdsgfw6bm0hgfqc",
+          "name": "Haeundae Beach",
+          "imageUrl": "/image_famous/travel_1722999358351_Haeundae_Beach_53ce2daeab.webp"
+        },
+        {
+          "id": "rtw9lemyxn2f26kasackfauh",
+          "name": "Gamcheon Culture Village",
+          "imageUrl": "/image_famous/travel_1722999347561_Gamcheon_Culture_Village_bf22ff9945.webp"
+        }
+      ]
+    },
+    {
+      "id": "ukqwv4yn279vlmoddxbb84f3",
+      "name": "Bình Nhưỡng",
+      "info": "Pyongyang is the capital city of North Korea, known for its monumental architecture and the Juche Tower.",
+      "history": "Bình Nhưỡng, or Pyongyang, is the capital of North Korea and one of the oldest cities in Korea, with a history that dates back to 1122 BC. It is the political, industrial, and cultural center of North Korea.",
+      "latitude": 39.04,
+      "longitude": 125.76,
+      "travels": [
+        {
+          "id": "p4pthvrr0o04m6bc95emrfu4",
+          "name": "Juche Tower",
+          "imageUrl": "/image_famous/travel_1722998380799_Juche_Tower_622ee3ea4a.webp"
+        },
+        {
+          "id": "brfndbm9jvn1ztqer6a5cpex",
+          "name": "Arch of Triumph",
+          "imageUrl": "/image_famous/travel_1722998369205_Arch_of_Triumph_6d35c147a0.jpeg"
+        },
+        {
+          "id": "rrztb8j9xnptv66j2ackenjb",
+          "name": "Kumsusan Palace of the Sun",
+          "imageUrl": "/image_famous/travel_1722998388799_Kumsusan_Palace_of_the_Sun_c6c1f1131b.webp"
+        }
+      ]
+    },
+    {
+      "id": "wuz0kp9clzqq8somtmny38lt",
+      "name": "Cebu",
+      "info": "Cebu is a city in the Philippines, known for its historic Spanish colonial buildings and as a major port.",
+      "history": "Cebu City, located in the Philippines, is the oldest city in the country, founded in 1565 by the Spanish. It is known for its significant role in the spread of Christianity in the Philippines and its vibrant port.",
+      "latitude": 10.32,
+      "longitude": 123.89,
+      "travels": [
+        {
+          "id": "neait3a7zb5e413rbto3x0ha",
+          "name": "Basilica del Santo Niño",
+          "imageUrl": "/image_famous/travel_1723003299612_Basilica_del_Santo_Ni_A_o_d1170d834d.webp"
+        },
+        {
+          "id": "grmvsgdu7gbhlmujo0sfvcfp",
+          "name": "Cebu Taoist Temple",
+          "imageUrl": "/image_famous/travel_1723003307770_Cebu_Taoist_Temple_41ea615e6a.webp"
+        },
+        {
+          "id": "v0znrf57nyilb3fbmxo8ce83",
+          "name": "Magellan_s Cross",
+          "imageUrl": "/image_famous/travel_1723003313814_Magellan_s_Cross_e763bd9711.webp"
+        }
+      ]
+    },
+    {
+      "id": "avblo10x1dj95xzd8f6edt5i",
+      "name": "Chiang Mai",
+      "info": "Chiang Mai is a city in northern Thailand, known for its historic temples, lush landscapes, and as a center of the arts and culture. It is a popular destination for trekking and exploring hill tribe villages.",
+      "history": "Chiang Mai, in northern Thailand, was founded in 1296 as the capital of the Lanna Kingdom. It became an important cultural and religious center. Today, Chiang Mai is famous for its ancient temples, such as Wat Phra Singh and Wat Chedi Luang, and its beaut",
+      "latitude": 18.79,
+      "longitude": 98.99,
+      "travels": [
+        {
+          "id": "t30qpifvtd7dc25qsc3gb8b6",
+          "name": "Wat Chedi Luang",
+          "imageUrl": "/image_famous/travel_1723004478196_Wat_Chedi_Luang_42783445e2.webp"
+        },
+        {
+          "id": "qgcg3mkrn1zbmihxg4kxk0mv",
+          "name": "Doi Suthep",
+          "imageUrl": "/image_famous/travel_1723004471848_Doi_Suthep_022e7871aa.webp"
+        },
+        {
+          "id": "xndkmujtwgjijhdobvw9vjai",
+          "name": "Chiang Mai Night Bazaar",
+          "imageUrl": "/image_famous/travel_1723004464121_Chiang_Mai_Night_Bazaar_b46a1e1e40.webp"
+        }
+      ]
+    },
+    {
+      "id": "cqqan9d976gskn7u3x73lbw4",
+      "name": "Bergen",
+      "info": "Bergen is a city on Norway’s southwestern coast, known for its beautiful setting among fjords, mountains, and colorful wooden houses on the old wharf, Bryggen.",
+      "history": "Bergen is a historic port city on the west coast of Norway, known for its picturesque harbor, medieval buildings, and as a gateway to the fjords. It has a history dating back to the Viking Age and has been an important trade center.",
+      "latitude": 60.39,
+      "longitude": 5.32,
+      "travels": [
+        {
+          "id": "bsm5f2w6ettmlsrap91bxb6m",
+          "name": "Mount Fløyen",
+          "imageUrl": "/image_famous/travel_1723002259594_Mount_Fl_A_yen_24c63a9b9a.webp"
+        },
+        {
+          "id": "hah1i0gqs79db5ry0o55cidi",
+          "name": "Bryggen",
+          "imageUrl": "/image_famous/travel_1723002251635_Bryggen_96de50d77a.webp"
+        },
+        {
+          "id": "p2a96uuzk10jplq5xhml5qld",
+          "name": "Bergen Aquarium",
+          "imageUrl": "/image_famous/travel_1723002244152_Bergen_Aquarium_50c76bbf50.webp"
+        }
+      ]
+    },
+    {
+      "id": "u6rxr2rx7gbi16nq21q35xsc",
+      "name": "Berlin",
+      "info": "Berlin is the capital city of Germany, known for its history, cultural scene, and landmarks such as the Brandenburg Gate and the Berlin Wall.",
+      "history": "Berlin, the capital of Germany, has a rich history, from being the capital of the Prussian Empire, the Weimar Republic, Nazi Germany, divided during the Cold War, and now a reunified cultural and political hub known for its history, arts, and nightlife.",
+      "latitude": 52.52,
+      "longitude": 13.4,
+      "travels": [
+        {
+          "id": "bd0bvk535rjw60xpwdw5h001",
+          "name": "Berlin Wall",
+          "imageUrl": "/image_famous/travel_1722999065549_Berlin_Wall_a7394ec330.webp"
+        },
+        {
+          "id": "x3ce1ckdycegctottqmxhv5p",
+          "name": "Reichstag Building",
+          "imageUrl": "/image_famous/travel_1722999083964_Reichstag_Building_27fd6a6885.webp"
+        },
+        {
+          "id": "uxdsc34botdgingorww0pi5u",
+          "name": "Brandenburg Gate",
+          "imageUrl": "/image_famous/travel_1722999074163_Brandenburg_Gate_ae7662ca75.webp"
+        }
+      ]
+    },
+    {
+      "id": "wjrq3f3x2iomzb7t0jnvyan4",
+      "name": "Birmingham",
+      "info": "Birmingham is a major city in England’s West Midlands region, known for its industrial heritage, cultural institutions, and vibrant nightlife.",
+      "history": "Birmingham is a major city in the United Kingdom, known for its role in the Industrial Revolution. It has a rich industrial heritage and is now a vibrant cultural and economic center.",
+      "latitude": 52.49,
+      "longitude": -1.89,
+      "travels": [
+        {
+          "id": "t40xh66gpy721gql0nws457i",
+          "name": "Birmingham Museum and Art Gallery",
+          "imageUrl": "/image_famous/travel_1723001317606_Birmingham_Museum_and_Art_Gallery_4ecc14be37.webp"
+        },
+        {
+          "id": "lh24a3xzgbbka3d38lgm98ir",
+          "name": "Cadbury World",
+          "imageUrl": "/image_famous/travel_1723001332617_Cadbury_World_ab7e1c1385.webp"
+        },
+        {
+          "id": "u5pa70dnukm6xn0iy3vtt6dw",
+          "name": "Bullring",
+          "imageUrl": "/image_famous/travel_1723001325421_Bullring_600e6c903d.webp"
+        }
+      ]
+    },
+    {
+      "id": "qk5ybj0aajcajxtg5f1vamwb",
+      "name": "Bishkek",
+      "info": "Bishkek is the capital city of Kyrgyzstan, known for its wide boulevards, Soviet architecture, and beautiful mountain backdrop.",
+      "history": "Bishkek is the capital and largest city of Kyrgyzstan. It was founded as a fortress in 1825 and later developed under Soviet rule. Bishkek is known for its wide boulevards, Soviet-style buildings, and vibrant markets.",
+      "latitude": 42.87,
+      "longitude": 74.57,
+      "travels": [
+        {
+          "id": "f9utbutce275ykxs8xgg3u3y",
+          "name": "Ala-Too Square",
+          "imageUrl": "/image_famous/travel_1723000831692_Ala_Too_Square_f2fcd52347.webp"
+        },
+        {
+          "id": "dcoae1d5zegaqfsgozkswug3",
+          "name": "Kyrgyz State Historical Museum",
+          "imageUrl": "/image_famous/travel_1723000842786_Kyrgyz_State_Historical_Museum_ec4a2ec565.webp"
+        },
+        {
+          "id": "pst8jojt85e6wcdudw85n4uk",
+          "name": "Osh Bazaar",
+          "imageUrl": "/image_famous/travel_1723000851967_Osh_Bazaar_19747cd65c.webp"
+        }
+      ]
+    },
+    {
+      "id": "mnm2g2up6boea9yli9cb6q5x",
+      "name": "Braga",
+      "info": "Braga is a city in Portugal, known for its religious heritage, historical architecture, and vibrant cultural scene.",
+      "history": "Braga is one of the oldest cities in Portugal, known for its religious significance, historical architecture, and vibrant cultural scene. It has a history dating back to Roman times.",
+      "latitude": 41.55,
+      "longitude": -8.43,
+      "travels": [
+        {
+          "id": "s8gjl94gkrs63qpvaw143md0",
+          "name": "Arco da Porta Nova",
+          "imageUrl": "/image_famous/travel_1722941067923_Arco_da_Porta_Nova_65fa9797f7.webp"
+        },
+        {
+          "id": "w3z4adnx15ne89tr8kp1eq44",
+          "name": "Bom Jesus do Monte",
+          "imageUrl": "/image_famous/travel_1722941113859_Bom_Jesus_do_Monte_fb9cebbe90.webp"
+        },
+        {
+          "id": "ulktezfw90gfdp3hsldrmi15",
+          "name": "Braga Cathedral",
+          "imageUrl": "/image_famous/travel_1722941134188_Braga_Cathedral_0c30771a83.webp"
+        }
+      ]
+    },
+    {
+      "id": "msfocwdq1usz6qgp43mv7cjv",
+      "name": "Brno",
+      "info": "Brno is a city in the Czech Republic, known for its modernist buildings, historical sites, and vibrant cultural scene.",
+      "history": "Brno is the second-largest city in the Czech Republic, known for its universities, modernist architecture, and vibrant cultural scene. It has a history dating back to medieval times and remains an important regional center.",
+      "latitude": 49.2,
+      "longitude": 16.61,
+      "travels": [
+        {
+          "id": "y7af5bjrz9ekoa0gcreu7slg",
+          "name": "Villa Tugendhat",
+          "imageUrl": "/image_famous/travel_1722998450277_Villa_Tugendhat_5632f08d29.webp"
+        },
+        {
+          "id": "gi5ynwpify9407snjy0ecvy6",
+          "name": "St. Peter and Paul Cathedral",
+          "imageUrl": "/image_famous/travel_1722998441370_St_Peter_and_Paul_Cathedral_48396721b6.webp"
+        },
+        {
+          "id": "l86tdh24e4hvotrzmaru1hm7",
+          "name": "Špilberk Castle",
+          "imageUrl": "/image_famous/travel_1722998432850_Spilberk_Castle_0c2a17ebc0.webp"
+        }
+      ]
+    },
+    {
+      "id": "iq1nk9zgy1kdzv9ihbrtgug6",
+      "name": "Bucharest",
+      "info": "Bucharest is the capital city of Romania, known for its Belle Époque buildings, the enormous Palace of the Parliament, and vibrant cultural scene.",
+      "history": "Bucharest is the capital of Romania, known for its wide, tree-lined boulevards and Belle Époque buildings. It has a complex history and has been the political and cultural center of Romania since the 19th century.",
+      "latitude": 44.43,
+      "longitude": 26.1,
+      "travels": [
+        {
+          "id": "wc3t4on0w58cmpwqdlowwxhh",
+          "name": "Palace of the Parliament",
+          "imageUrl": "/image_famous/travel_1723003487168_Palace_of_the_Parliament_ef15ec09c7.webp"
+        },
+        {
+          "id": "pcxm6wvoyt7pucw6g252eosd",
+          "name": "Herăstrău Park",
+          "imageUrl": "/image_famous/travel_1723003478609_Herastrau_Park_3b68d2939c.png"
+        },
+        {
+          "id": "kxiqtsdb9qys0rhlb7ch3mc9",
+          "name": "Romanian Athenaeum",
+          "imageUrl": "/image_famous/travel_1723003494895_Romanian_Athenaeum_8d2ed6bd58.webp"
+        }
+      ]
+    },
+    {
+      "id": "at0g3u8ofzuko5e68r9pyuzp",
+      "name": "Colombo",
+      "info": "Colombo is the capital city of Sri Lanka, known for its colonial buildings, beaches, and vibrant street life.",
+      "history": "Colombo is the commercial capital and largest city of Sri Lanka. With a history of over 2,000 years, it has been an important port city for various traders, including Arabs, Portuguese, Dutch, and British. Colombo is known for its colonial architecture an",
+      "latitude": 6.93,
+      "longitude": 79.86,
+      "travels": [
+        {
+          "id": "k8bg36ryq6yixz0cuqckie1k",
+          "name": "Temple of the Tooth",
+          "imageUrl": "/image_famous/travel_1723004064863_Temple_of_the_Tooth_11bd4bebc4.webp"
+        },
+        {
+          "id": "fo283burmtervwlqsc987th9",
+          "name": "Colombo National Museum",
+          "imageUrl": "/image_famous/travel_1723004048623_Colombo_National_Museum_6e3ad49bbc.webp"
+        },
+        {
+          "id": "b6nbp9j2uxvu24t0mt9ab0v3",
+          "name": "Galle Face Green",
+          "imageUrl": "/image_famous/travel_1723004056301_Galle_Face_Green_ea20996545.webp"
+        }
+      ]
+    },
+    {
+      "id": "kf4t2aufh4in54pzw9bs8qaw",
+      "name": "Cork",
+      "info": "Cork is a city in Ireland, known for its vibrant cultural scene, historical architecture, and as a gateway to the scenic County Cork.",
+      "history": "Cork is a major city in Ireland, known for its cultural events, historical significance, and as a major economic and educational center. It has a history dating back to the 6th century.",
+      "latitude": 51.9,
+      "longitude": -8.48,
+      "travels": [
+        {
+          "id": "ntd2dvngg3u2w3ksb8uhn8uc",
+          "name": "Cork City Gaol",
+          "imageUrl": "/image_famous/travel_1723000476935_Cork_City_Gaol_de384e2f38.webp"
+        },
+        {
+          "id": "kxaopqq7ycr63s4mrzf6idsi",
+          "name": "Blarney Castle",
+          "imageUrl": "/image_famous/travel_1723000457356_Blarney_Castle_83af28be74.webp"
+        },
+        {
+          "id": "qt5s1x0s1f2z7et9mbae1yyx",
+          "name": "St. Fin Barre_s Cathedral",
+          "imageUrl": "/image_famous/travel_1723000484038_St_Fin_Barre_s_Cathedral_046d7676bc.webp"
+        }
+      ]
+    },
+    {
+      "id": "s64k2kxfa215tp2w17vt50ut",
+      "name": "Daegu",
+      "info": "Daegu is a city in South Korea, known for its fashion industry and historic sites.",
+      "history": "Daegu is one of South Korea's major cities, with a history that dates back to ancient times. It was a center of Confucian learning during the Joseon dynasty and is now a major industrial city.",
+      "latitude": 35.8,
+      "longitude": 128.58,
+      "travels": [
+        {
+          "id": "hkem0ljux3hi544aberp2msu",
+          "name": "Apsan Park",
+          "imageUrl": "/image_famous/travel_1722999399389_Apsan_Park_bf9387fc59.webp"
+        },
+        {
+          "id": "j0gxmp0ff7xsyncu2jydy9og",
+          "name": "Donghwasa Temple",
+          "imageUrl": "/image_famous/travel_1722999421267_Donghwasa_Temple_045818e1e7.webp"
+        },
+        {
+          "id": "qcsid73a4ixmkmhutl3hk29l",
+          "name": "Daegu Duryu Park",
+          "imageUrl": "/image_famous/travel_1722999410386_Daegu_Duryu_Park_dbc586c1b4.webp"
+        }
+      ]
+    },
+    {
+      "id": "y3z4tp87583b8dnwcow7l9ru",
+      "name": "Damascus",
+      "info": "Damascus is the capital city of Syria, known as one of the oldest continuously inhabited cities in the world, with rich historical and cultural landmarks.",
+      "history": "Damascus, the capital of Syria, is one of the oldest continuously inhabited cities in the world. It has a rich history as a major center of culture and trade in the Middle East and remains an important political and cultural center despite recent conflict",
+      "latitude": 33.51,
+      "longitude": 36.28,
+      "travels": [
+        {
+          "id": "p3appk1l8k0vnonx1tpf5kx5",
+          "name": "Damascus Citadel",
+          "imageUrl": "/image_famous/travel_1723004190525_Damascus_Citadel_c5b41aa62c.webp"
+        },
+        {
+          "id": "e8dsqrixq852bnvs2thyjn7i",
+          "name": "Umayyad Mosque",
+          "imageUrl": "/image_famous/travel_1723004197509_Umayyad_Mosque_fd1c7191f1.webp"
+        },
+        {
+          "id": "srhr3a051e4ptq09zrqyyqnz",
+          "name": "Al-Hamidiyah Souq",
+          "imageUrl": "/image_famous/travel_1723004183298_Al_Hamidiyah_Souq_2f9f365234.webp"
+        }
+      ]
+    },
+    {
+      "id": "jopw4jf4yfzavqlr3f5dccud",
+      "name": "Daugavpils",
+      "info": "Daugavpils is a city in Latvia, known for its historical fortresses, vibrant cultural scene, and the Mark Rothko Art Centre.",
+      "history": "Daugavpils is the second-largest city in Latvia, known for its cultural diversity, historical significance, and as an important industrial center. It has a history dating back to the medieval period.",
+      "latitude": 55.88,
+      "longitude": 26.53,
+      "travels": [
+        {
+          "id": "f5iiymnbgl0y4upvvbwfqzvd",
+          "name": "Daugavpils Fortress",
+          "imageUrl": "/image_famous/travel_1723001090583_Daugavpils_Fortress_85aff48a16.webp"
+        },
+        {
+          "id": "apzsn2oksf3g0cpodh82cxld",
+          "name": "Dubrovin Park",
+          "imageUrl": "/image_famous/travel_1723001098154_Dubrovin_Park_f9d9c7c779.webp"
+        },
+        {
+          "id": "g67ywwmubbn13ccn43fgjgbj",
+          "name": "Church Hill",
+          "imageUrl": "/image_famous/travel_1723001083800_Church_Hill_92460e26ec.webp"
+        }
+      ]
+    },
+    {
+      "id": "p1k80pu9w97whou7uijuys01",
+      "name": "Davao",
+      "info": "Davao is a city in the Philippines, known for its natural parks and as the home of Mount Apo, the highest mountain in the country.",
+      "history": "Davao is one of the largest cities in the Philippines and was established in the mid-19th century. It has grown to become an important regional center for trade, commerce, and industry.",
+      "latitude": 7.19,
+      "longitude": 125.46,
+      "travels": [
+        {
+          "id": "gejlbevdc5c8c0iwzhv18bpk",
+          "name": "Davao Crocodile Park",
+          "imageUrl": "/image_famous/travel_1723003331820_Davao_Crocodile_Park_191f81b649.webp"
+        },
+        {
+          "id": "serhkb1hy3pbkf6otasof0oq",
+          "name": "Philippine Eagle Center",
+          "imageUrl": "/image_famous/travel_1723003346292_Philippine_Eagle_Center_37bd20bbdd.webp"
+        },
+        {
+          "id": "nn1jjt5yp1jnq7zz1288txpi",
+          "name": "Mount Apo",
+          "imageUrl": "/image_famous/travel_1723003338961_Mount_Apo_48a875dc01.webp"
+        }
+      ]
+    },
+    {
+      "id": "yu1g1h7e224oxlwt5eb3mkuc",
+      "name": "Debrecen",
+      "info": "Debrecen is a city in eastern Hungary, known for its historical architecture, cultural institutions, and as a center of the Reformed Church.",
+      "history": "Debrecen is a major city in Hungary, known for its historical significance, universities, and as a cultural center. It has a history dating back to the medieval period and remains an important regional center.",
+      "latitude": 47.53,
+      "longitude": 21.63,
+      "travels": [
+        {
+          "id": "zsx4oth38d5tbkcemattiku8",
+          "name": "Great Church",
+          "imageUrl": "/image_famous/travel_1722999675854_Great_Church_22df9ae144.webp"
+        },
+        {
+          "id": "n7y8v30vehbetuc6svj20c68",
+          "name": "Déri Museum",
+          "imageUrl": "/image_famous/travel_1722999668214_DA_ri_Museum_10b87edd5a.webp"
+        },
+        {
+          "id": "g8k12fvx7olzptmx3tydfn87",
+          "name": "Nagyerdei Park",
+          "imageUrl": "/image_famous/travel_1722999683155_Nagyerdei_Park_79ed144ccc.webp"
+        }
+      ]
+    },
+    {
+      "id": "xzs4twyyyhc6ukocnxti3qd7",
+      "name": "Dhaka",
+      "info": "Dhaka is the capital city of Bangladesh, known for its vibrant culture, bustling markets, and historic mosques.",
+      "history": "Dhaka is the capital and largest city of Bangladesh. Historically a center of the muslin trade in the Mughal Empire, it has grown into a bustling metropolis. Dhaka is known for its vibrant culture, historical sites, and as the economic center of Banglades",
+      "latitude": 23.81,
+      "longitude": 90.41,
+      "travels": [
+        {
+          "id": "n7ychrzfugir6labt1fl11cq",
+          "name": "Ahsan Manzil",
+          "imageUrl": "/image_famous/travel_1722937791548_Ahsan_Manzil_96fc7ae09e.webp"
+        },
+        {
+          "id": "b3wr7u17jgvklvfyh34y9x7q",
+          "name": "Jatiyo Sangsad Bhaban",
+          "imageUrl": "/image_famous/travel_1722937815423_Jatiyo_Sangsad_Bhaban_34bfab53ae.webp"
+        },
+        {
+          "id": "sl5r7a7peo7qmkdr9rh8nu60",
+          "name": "Lalbagh Fort",
+          "imageUrl": "/image_famous/travel_1722937822615_Lalbagh_Fort_8bb81f1fcd.webp"
+        }
+      ]
+    },
+    {
+      "id": "kzr84avxnxtk1vn3n2xlt8wc",
+      "name": "Diego Garcia",
+      "info": "Diego Garcia is an atoll in the British Indian Ocean Territory, known for its strategic military base.",
+      "history": "Diego Garcia is a strategically important atoll in the Indian Ocean, leased by the United Kingdom to the United States for military purposes. It has no permanent civilian population, and its history is tied to military and geopolitical activities.",
+      "latitude": -7.31,
+      "longitude": 72.41,
+      "travels": [
+        {
+          "id": "ipcsrukqiiadx5coo2sqvd16",
+          "name": "Defense Support Center",
+          "imageUrl": "/image_famous/travel_1723000887565_Defense_Support_Center_b344e45133.webp"
+        },
+        {
+          "id": "o1c6tewlulgdm21s98us4i38",
+          "name": "Diego Garcia Naval Support Facility",
+          "imageUrl": "/image_famous/travel_1723000896861_Diego_Garcia_Naval_Support_Facility_1db40cb489.webp"
+        },
+        {
+          "id": "vro9wyzd5abhtzvntm7lubdx",
+          "name": "Lagoon",
+          "imageUrl": "/image_famous/travel_1723000905442_Lagoon_423adc580e.webp"
+        }
+      ]
+    },
+    {
+      "id": "l1cfonv0wr2s5f13npky5rym",
+      "name": "Dili",
+      "info": "Dili is the capital city of East Timor, known for its waterfront and role in the country’s struggle for independence.",
+      "history": "Dili is the capital of East Timor and was a Portuguese colony until 1975. It became the capital of an independent East Timor in 2002 and is known for its waterfront and Portuguese-era buildings.",
+      "latitude": -8.56,
+      "longitude": 125.56,
+      "travels": [
+        {
+          "id": "j8aysxfriyxzpa6pvm2zh0u2",
+          "name": "Timor Plaza",
+          "imageUrl": "/image_famous/travel_1722999030318_Timor_Plaza_233d55ba2b.webp"
+        },
+        {
+          "id": "bcduai3f48bwuazob63xfx9n",
+          "name": "Tais Market",
+          "imageUrl": "/image_famous/travel_1722999021511_Tais_Market_a931d431d8.webp"
+        },
+        {
+          "id": "lvephqop2qb3zndxb5r2djas",
+          "name": "Cristo Rei of Dili",
+          "imageUrl": "/image_famous/travel_1722999011115_Cristo_Rei_of_Dili_d1fb8f9c8f.webp"
+        }
+      ]
+    },
+    {
+      "id": "wxl5qkp60d74a72ztfdwsfp5",
+      "name": "Doha",
+      "info": "Doha is the capital city of Qatar, known for its modern skyline, cultural landmarks, and as a host of the 2022 FIFA World Cup.",
+      "history": "Doha, the capital of Qatar, has rapidly developed into a modern city with significant economic and cultural influence. It is known for its futuristic skyline, vibrant cultural scene, and being a major global energy producer.",
+      "latitude": 25.28,
+      "longitude": 51.52,
+      "travels": [
+        {
+          "id": "ksnie44gstgwl12sa03c7jy9",
+          "name": "Museum of Islamic Art",
+          "imageUrl": "/image_famous/travel_1723003442248_Museum_of_Islamic_Art_23fdd244e8.webp"
+        },
+        {
+          "id": "sgky13q3o0gb863cbdo7v1hb",
+          "name": "Katara Cultural Village",
+          "imageUrl": "/image_famous/travel_1723003434197_Katara_Cultural_Village_9853dba8be.webp"
+        },
+        {
+          "id": "ngfglmpyuipxypjamywzcq4v",
+          "name": "Souq Waqif",
+          "imageUrl": "/image_famous/travel_1723003450432_Souq_Waqif_2cc4bffe63.webp"
+        }
+      ]
+    },
+    {
+      "id": "kg2ideldrbchxk5vmj47v0fk",
+      "name": "Dubai",
+      "info": "Dubai is a major city in the UAE, known for its ultramodern architecture, luxury shopping, and vibrant nightlife.",
+      "history": "Dubai is known for its futuristic architecture, luxury shopping, and vibrant nightlife. It has transformed from a small fishing village into a global city and business hub, largely due to its strategic location and economic diversification efforts.",
+      "latitude": 25.28,
+      "longitude": 55.3,
+      "travels": [
+        {
+          "id": "njuf6grb95phdsko02em3tc4",
+          "name": "Palm Jumeirah",
+          "imageUrl": "/image_famous/travel_1722941927404_Palm_Jumeirah_bd1899482a.avif"
+        },
+        {
+          "id": "v0pju91yvi2pip8mycvtsart",
+          "name": "Burj Khalifa",
+          "imageUrl": "/image_famous/travel_1722941914271_Burj_Khalifa_5479c87863.webp"
+        },
+        {
+          "id": "q9bsb7v3uvp4t1g3i5mhug47",
+          "name": "The Dubai Mall",
+          "imageUrl": "/image_famous/travel_1722941938129_The_Dubai_Mall_b37f57be40.webp"
+        }
+      ]
+    },
+    {
+      "id": "er68oc4rllo1d6uv0z7dtoay",
+      "name": "Dublin",
+      "info": "Dublin is the capital city of Ireland, known for its literary history, vibrant cultural scene, and landmarks such as Trinity College and Dublin Castle.",
+      "history": "Dublin, the capital of Ireland, is known for its literary history, vibrant cultural scene, and historical landmarks. It has a rich history dating back to Viking times and remains a major cultural and economic center.",
+      "latitude": 53.35,
+      "longitude": -6.26,
+      "travels": [
+        {
+          "id": "wz9rbiwvgfnfs4i64dsc34qb",
+          "name": "Trinity College",
+          "imageUrl": "/image_famous/travel_1723000536174_Trinity_College_032537b0de.webp"
+        },
+        {
+          "id": "pk4474v016wl13vcxtwnr0od",
+          "name": "Dublin Castle",
+          "imageUrl": "/image_famous/travel_1723000508138_Dublin_Castle_ba1fd5b72f.webp"
+        },
+        {
+          "id": "xdrro0fdr5uvaciwg0hw096z",
+          "name": "Guinness Storehouse",
+          "imageUrl": "/image_famous/travel_1723000522031_Guinness_Storehouse_b2e17c7317.webp"
+        }
+      ]
+    },
+    {
+      "id": "tnopmng3s64ceosa15l8z7ry",
+      "name": "Dushanbe",
+      "info": "Dushanbe is the capital city of Tajikistan, known for its Soviet-era architecture and vibrant cultural life.",
+      "history": "Dushanbe is the capital and largest city of Tajikistan. It became the capital in 1924 and has grown from a small village into a major city. Dushanbe is known for its Soviet-era architecture and cultural institutions.",
+      "latitude": 38.56,
+      "longitude": 68.79,
+      "travels": [
+        {
+          "id": "db4n4c52tgaig0yfkpphli1q",
+          "name": "National Museum of Tajikistan",
+          "imageUrl": "/image_famous/travel_1723004237648_National_Museum_of_Tajikistan_722e030580.webp"
+        },
+        {
+          "id": "budu6eqrpidwodypuvh4o3jc",
+          "name": "Rudaki Park",
+          "imageUrl": "/image_famous/travel_1723004254888_Rudaki_Park_fcebd4fe8d.avif"
+        },
+        {
+          "id": "fm6gkili75ipa44f2oraezfx",
+          "name": "Ismaili Centre",
+          "imageUrl": "/image_famous/travel_1723004230454_Ismaili_Centre_a440cf7767.webp"
+        }
+      ]
+    },
+    {
+      "id": "sn27ynkmxhau7nvjqxkgspum",
+      "name": "Espoo",
+      "info": "Espoo is a city in Finland, known for its technology industry, green spaces, and proximity to Helsinki.",
+      "history": "Espoo is a major city in the Helsinki metropolitan area, known for its technology and innovation sector, including the headquarters of many Finnish companies. It has grown rapidly in recent decades.",
+      "latitude": 60.21,
+      "longitude": 24.66,
+      "travels": [
+        {
+          "id": "qzkowlq8thyx0m0uyrdgqhl1",
+          "name": "Espoo Museum of Modern Art",
+          "imageUrl": "/image_famous/travel_1723003042720_Espoo_Museum_of_Modern_Art_4876370253.webp"
+        },
+        {
+          "id": "hbdpz5ls351baq4xyznv95k5",
+          "name": "Nuuksio National Park",
+          "imageUrl": "/image_famous/travel_1723003054434_Nuuksio_National_Park_eca6448e98.webp"
+        },
+        {
+          "id": "t5kvkijnwp4wlwa7b09n2shf",
+          "name": "Otaniemi Campus",
+          "imageUrl": "/image_famous/travel_1723003063076_Otaniemi_Campus_b1f536b42d.webp"
+        }
+      ]
+    },
+    {
+      "id": "ynn8bjkkzwl7zqe243bg6vek",
+      "name": "George Town",
+      "info": "George Town, located on Penang Island, is known for its British colonial buildings, multicultural heritage, and vibrant arts scene. It is a UNESCO World Heritage Site, reflecting its historical significance.",
+      "history": "George Town, located on Penang Island, was established by the British East India Company in 1786. It became a major trading hub and is known for its well-preserved colonial architecture and cultural heritage.",
+      "latitude": 5.41,
+      "longitude": 100.33,
+      "travels": [
+        {
+          "id": "q1obyi3rau1cvud40ptpfx0j",
+          "name": "Penang Hill",
+          "imageUrl": "/image_famous/travel_1723001681180_Penang_Hill_f34d76a3a0.webp"
+        },
+        {
+          "id": "tch5klf4ksbmunbkdzb5tal0",
+          "name": "Kek Lok Si Temple",
+          "imageUrl": "/image_famous/travel_1723001673823_Kek_Lok_Si_Temple_587472f9da.webp"
+        },
+        {
+          "id": "llip6ozx2sirctu1x94p78co",
+          "name": "George Town Heritage Zone",
+          "imageUrl": "/image_famous/travel_1723001666241_George_Town_Heritage_Zone_47e82c9f0d.webp"
+        }
+      ]
+    },
+    {
+      "id": "m382get1dvteho862o4fjk7m",
+      "name": "Gomel",
+      "info": "Gomel is a city in southeastern Belarus, known for its cultural heritage, parks, and the Palace of the Rumyantsevs and the Paskeviches.",
+      "history": "Gomel is the second-largest city in Belarus, known for its historical significance and as an important industrial center. It has a rich history dating back to the 12th century.",
+      "latitude": 52.43,
+      "longitude": 30.98,
+      "travels": [
+        {
+          "id": "qadps5ns2d1pm555l1tzpqoy",
+          "name": "Rumyantsev-Paskevich Residence",
+          "imageUrl": "/image_famous/travel_1722937876608_Rumyantsev_Paskevich_Residence_d6985495c6.webp"
+        },
+        {
+          "id": "b2a7ckonslplqbexkjs0zlkc",
+          "name": "Gomel State Circus",
+          "imageUrl": "/image_famous/travel_1722937868246_Gomel_State_Circus_3d9eccbb1a.webp"
+        },
+        {
+          "id": "zwryfbs6us9cfr22rwondbfs",
+          "name": "Gomel Palace",
+          "imageUrl": "/image_famous/travel_1722937861591_Gomel_Palace_91ebdb75c9.webp"
+        }
+      ]
+    },
+    {
+      "id": "oumgmbi3ykzlepqv2dbkqrub",
+      "name": "Gothenburg",
+      "info": "Gothenburg is a major city in Sweden, known for its Dutch-style canals, green spaces, and maritime heritage.",
+      "history": "Gothenburg is Sweden's second-largest city, known for its Dutch-style canals, vibrant cultural scene, and major port. Founded in 1621, it has grown into a significant industrial and educational center.",
+      "latitude": 57.71,
+      "longitude": 11.97,
+      "travels": [
+        {
+          "id": "i3d2soj1x5xlumau91uc7w9i",
+          "name": "Universeum",
+          "imageUrl": "/image_famous/travel_1723004767015_Universeum_e5944949a2.webp"
+        },
+        {
+          "id": "irwkasrbnvlbrjtmu64alk4b",
+          "name": "Liseberg",
+          "imageUrl": "/image_famous/travel_1723004760113_Liseberg_bf29e9616f.webp"
+        },
+        {
+          "id": "hsiv70uglqlwa2anmcen732h",
+          "name": "Gothenburg Museum of Art",
+          "imageUrl": "/image_famous/travel_1723004753722_Gothenburg_Museum_of_Art_56b9697f43.webp"
+        }
+      ]
+    },
+    {
+      "id": "y46ja7ftmzwzrp5qb2faqbns",
+      "name": "Graz",
+      "info": "Graz is a city in Austria, known for its well-preserved medieval center, vibrant cultural scene, and as a UNESCO World Heritage Site.",
+      "history": "Graz is Austria's second-largest city, known for its well-preserved medieval old town and vibrant cultural scene. It has a rich history and is an important educational and economic center.",
+      "latitude": 47.07,
+      "longitude": 15.44,
+      "travels": [
+        {
+          "id": "wyylsp6kltr2yyrl6rw17hcp",
+          "name": "Graz Clock Tower",
+          "imageUrl": "/image_famous/travel_1722936770429_Graz_Clock_Tower_45c6f78a27.webp"
+        },
+        {
+          "id": "tasxew6cqpf1y29vfvvjzdjl",
+          "name": "Schlossberg",
+          "imageUrl": "/image_famous/travel_1722936784356_Schlossberg_0daeb7fd49.webp"
+        },
+        {
+          "id": "afszruwkxxvobak2qx7xixh7",
+          "name": "Kunsthaus Graz",
+          "imageUrl": "/image_famous/travel_1722936777786_Kunsthaus_Graz_a7acf95ea8.webp"
+        }
+      ]
+    },
+    {
+      "id": "lsimugp77ecudc69cfxjitpz",
+      "name": "Guangzhou",
+      "info": "Guangzhou is a major city in southern China, known for its trade fairs, skyscrapers, and vibrant food scene.",
+      "history": "Quảng Châu, or Guangzhou, is a major port city in southern China with a history of over 2,200 years. It was a key terminus of the maritime Silk Road and is now a major commercial and manufacturing hub.",
+      "latitude": 23.13,
+      "longitude": 113.26,
+      "travels": [
+        {
+          "id": "atsw83pznyn0ixsw2dt9gpvp",
+          "name": "Canton Tower",
+          "imageUrl": "/image_famous/travel_1723004949722_Canton_Tower_9bcf9b6662.webp"
+        },
+        {
+          "id": "mlu7wlxqhmvfhsa2tj293awi",
+          "name": "Chen Clan Ancestral Hall",
+          "imageUrl": "/image_famous/travel_1723004956365_Chen_Clan_Ancestral_Hall_48f1d48a93.webp"
+        },
+        {
+          "id": "gdp8u0nkgiaxgvw6i1ta18d3",
+          "name": "Shamian Island",
+          "imageUrl": "/image_famous/travel_1723004962910_Shamian_Island_6839bc47cb.webp"
+        }
+      ]
+    },
+    {
+      "id": "mz8d2e9hydl5agi6316834qr",
+      "name": "Hafnarfjordur",
+      "info": "Hafnarfjordur is a port town in Iceland, known for its Viking history, annual festivals, and beautiful lava fields.",
+      "history": "Hafnarfjordur is a port town in Iceland, known for its Viking history, lava fields, and as a cultural and economic center in the Reykjavik metropolitan area.",
+      "latitude": 64.07,
+      "longitude": -21.95,
+      "travels": [
+        {
+          "id": "ron0bk4eh4k07m6n5xvxk88y",
+          "name": "Hafnarfjordur Museum",
+          "imageUrl": "/image_famous/travel_1723000023150_Hafnarfjordur_Museum_065e2098be.webp"
+        },
+        {
+          "id": "br6c4y6j2sm3c1p3559dsbas",
+          "name": "Hellisgerdi Park",
+          "imageUrl": "/image_famous/travel_1723000030970_Hellisgerdi_Park_0c30544a6f.webp"
+        },
+        {
+          "id": "u6jt98shqqdck03n6i7rjobs",
+          "name": "Hafnarfjordur Harbour",
+          "imageUrl": "/image_famous/travel_1723000014976_Hafnarfjordur_Harbour_60db5bd039.webp"
+        }
+      ]
+    },
+    {
+      "id": "m6fxf3s0akuyv9eo1g5womas",
+      "name": "Hamburg",
+      "info": "Hamburg is a major port city in northern Germany, known for its harbor, the Elbphilharmonie concert hall, and its vibrant cultural scene.",
+      "history": "Hamburg is Germany's second-largest city and a major port. It has a history as a member of the medieval Hanseatic League and remains an important commercial and cultural center, known for its maritime heritage and vibrant arts scene.",
+      "latitude": 53.55,
+      "longitude": 9.99,
+      "travels": [
+        {
+          "id": "bee9jq5e2d36ehzqaqkj7jok",
+          "name": "Speicherstadt",
+          "imageUrl": "/image_famous/travel_1722999127224_Speicherstadt_3093cc0ca3.webp"
+        },
+        {
+          "id": "htps8f7yug7a0zvpymql2560",
+          "name": "Elbphilharmonie",
+          "imageUrl": "/image_famous/travel_1722999108990_Elbphilharmonie_ca227c03c5.webp"
+        },
+        {
+          "id": "p1escaywwz12pxzpebhc65ob",
+          "name": "Miniatur Wunderland",
+          "imageUrl": "/image_famous/travel_1722999118425_Miniatur_Wunderland_8aa6b43e73.webp"
+        }
+      ]
+    },
+    {
+      "id": "cm0zpaan3oe6bkk5dghhzpce",
+      "name": "Helsinki",
+      "info": "Helsinki is the capital city of Finland, known for its design, architecture, and vibrant cultural scene.",
+      "history": "Helsinki, the capital of Finland, is known for its modern architecture, design scene, and coastal beauty. Founded in 1550, it became the capital in 1812 and has since grown into a vibrant cultural and economic center.",
+      "latitude": 60.17,
+      "longitude": 24.94,
+      "travels": [
+        {
+          "id": "w1u9zkadq9kess0gg8in1pxr",
+          "name": "Suomenlinna",
+          "imageUrl": "/image_famous/travel_1723003088960_Suomenlinna_40babb82ab.webp"
+        },
+        {
+          "id": "ggien91x41ug3uu2lflzm0qz",
+          "name": "Temppeliaukio Church",
+          "imageUrl": "/image_famous/travel_1723003096075_Temppeliaukio_Church_c67372713d.webp"
+        },
+        {
+          "id": "s36u6wseknnpnibsz4i4wqvr",
+          "name": "Helsinki Cathedral",
+          "imageUrl": "/image_famous/travel_1723003082508_Helsinki_Cathedral_3907da9d00.webp"
+        }
+      ]
+    },
+    {
+      "id": "ruq2y11ikumb28dav8l9zykm",
+      "name": "Hong Kong",
+      "info": "Hong Kong is a Special Administrative Region of China, known for its skyline, deep natural harbor, and cultural mix.",
+      "history": "Hong Kong is a Special Administrative Region of China with a history as a British colony from 1842 to 1997. It is known for its skyline, deep natural harbor, and as an international financial center.",
+      "latitude": 22.32,
+      "longitude": 114.17,
+      "travels": [
+        {
+          "id": "zi0it4pmc340gvq7x8a3vkim",
+          "name": "Victoria Peak",
+          "imageUrl": "/image_famous/travel_1722999575791_Victoria_Peak_3f2457c692.webp"
+        },
+        {
+          "id": "u7ag1orqqhceffhxbr9syizo",
+          "name": "The Big Buddha",
+          "imageUrl": "/image_famous/travel_1722999567532_The_Big_Buddha_1547f80e04.webp"
+        },
+        {
+          "id": "hlbd8740999487634g8lumif",
+          "name": "Hong Kong Disneyland",
+          "imageUrl": "/image_famous/travel_1722999558329_Hong_Kong_Disneyland_dd828dae88.webp"
+        }
+      ]
+    },
+    {
+      "id": "m29miosr8eltfkoksndr6gfx",
+      "name": "Hà Nội",
+      "info": "Hanoi is the capital city of Vietnam, known for its centuries-old architecture and a rich culture that blends Southeast Asian, Chinese, and French influences. The city is famous for its lakes, temples, and vibrant street life.",
+      "history": "Hanoi is the capital of Vietnam with a history spanning over 1,000 years. The city has undergone many dynasties, from Đại La (during the Pre-Lý period) to Thăng Long (during the Lý, Trần, and Lê dynasties), and finally to Hanoi (during the Nguyễn dynasty ",
+      "latitude": 21.03,
+      "longitude": 105.8,
+      "travels": [
+        {
+          "id": "u9mwqy8qix3pk3go03g7fbwo",
+          "name": "Ho Chi Minh Mausoleum",
+          "imageUrl": "/image_famous/travel_1723005443125_Ho_Chi_Minh_Mausoleum_fd78fcd2f7.webp"
+        },
+        {
+          "id": "rofahkheg86ovsccv9xwxr11",
+          "name": "Hoan Kiem Lake",
+          "imageUrl": "/image_famous/travel_1723005450395_Hoan_Kiem_Lake_be47f8dc2f.webp"
+        },
+        {
+          "id": "ratzeyjx4rdcqksobqiphfz1",
+          "name": "Temple of Literature",
+          "imageUrl": "/image_famous/travel_1723005458523_Temple_of_Literature_c7f26671c3.webp"
+        }
+      ]
+    },
+    {
+      "id": "y500ryoya8tong7lx09k39zn",
+      "name": "Hải Phòng",
+      "info": "Hai Phong is a major port city in northern Vietnam, known for its industry and maritime economy. The city also offers access to the beautiful Cat Ba Island and Halong Bay.",
+      "history": "Hai Phong, a major port city in northern Vietnam, has a history dating back to the early Lý dynasty in the 11th century. It was an important trading hub and played a significant role during the French colonial period. The city is known for its colonial ar",
+      "latitude": 20.84,
+      "longitude": 106.69,
+      "travels": [
+        {
+          "id": "q43p44up6dd7urj5cl8c0a6k",
+          "name": "Cat Ba Island",
+          "imageUrl": "/image_famous/travel_1723005483308_Cat_Ba_Island_277fe16742.webp"
+        },
+        {
+          "id": "b2kk9toiukg04e90za1w4aml",
+          "name": "Do Son Beach",
+          "imageUrl": "/image_famous/travel_1723005489940_Do_Son_Beach_ce273aeaab.webp"
+        },
+        {
+          "id": "dqq2s16b5r3exaphrr68xz8i",
+          "name": "Hai Phong Opera House",
+          "imageUrl": "/image_famous/travel_1723005496284_Hai_Phong_Opera_House_d4e6240a98.webp"
+        }
+      ]
+    },
+    {
+      "id": "z0cl3aq5inoqfzf50hh8w99w",
+      "name": "Incheon",
+      "info": "Incheon is a major city in South Korea, known for its international airport and modern infrastructure.",
+      "history": "Incheon is a major port city in South Korea, known for its international airport. It has been an important commercial hub since its opening as a treaty port in 1883.",
+      "latitude": 37.46,
+      "longitude": 126.71,
+      "travels": [
+        {
+          "id": "vkppb11mbous26asrzxvrxfv",
+          "name": "Incheon Chinatown",
+          "imageUrl": "/image_famous/travel_1722999456800_Incheon_Chinatown_25c4fcac5f.webp"
+        },
+        {
+          "id": "u91phugqff1oasowqdnz4mny",
+          "name": "Songdo Central Park",
+          "imageUrl": "/image_famous/travel_1722999466989_Songdo_Central_Park_d40f0cb230.webp"
+        },
+        {
+          "id": "v17h3wfi33b2ih77wm0rmwmi",
+          "name": "Wolmido",
+          "imageUrl": "/image_famous/travel_1722999480160_Wolmido_af3a903416.webp"
+        }
+      ]
+    },
+    {
+      "id": "dh9c8e1vcli2kxeoljow9731",
+      "name": "Isfahan",
+      "info": "Isfahan is a city in Iran, known for its Persian architecture, beautiful bridges, and historic mosques.",
+      "history": "Isfahan is one of the most beautiful cities in Iran, known for its Persian architecture, grand boulevards, and historical bridges. During the Safavid era in the 16th century, it became the capital of Persia and a significant cultural center.",
+      "latitude": 32.66,
+      "longitude": 51.68,
+      "travels": [
+        {
+          "id": "r5buc83b7ssxq2vjwqalmtgi",
+          "name": "Naqsh-e Jahan Square",
+          "imageUrl": "/image_famous/travel_1723000329404_Naqsh_e_Jahan_Square_da02acaa74.webp"
+        },
+        {
+          "id": "ntfchea7if64wudv40xi6dz5",
+          "name": "Chehel Sotoun",
+          "imageUrl": "/image_famous/travel_1723000321845_Chehel_Sotoun_6f87f97f02.webp"
+        },
+        {
+          "id": "uhs91o8hcro7u4ucu0xr20x0",
+          "name": "Si-o-se-pol",
+          "imageUrl": "/image_famous/travel_1723000341110_Si_o_se_pol_50eaf3763e.png"
+        },
+        {
+          "id": "m46yfb6ma43aep2t74tqjqch",
+          "name": "Si-o-se-pol",
+          "imageUrl": "/image_famous/travel_1723000337852_Si_o_se_pol_d2197cc4dc.png"
+        }
+      ]
+    },
+    {
+      "id": "lm7ps8azi01sm4tqdfpx9nd6",
+      "name": "Islamabad",
+      "info": "Islamabad is the capital city of Pakistan, known for its modernist architecture and the Faisal Mosque.",
+      "history": "Islamabad, the capital of Pakistan, was built during the 1960s to replace Karachi as the capital. It is known for its modern architecture, planned city layout, and being the political and administrative center of the country.",
+      "latitude": 33.68,
+      "longitude": 73.05,
+      "travels": [
+        {
+          "id": "aoqhgk2clwjxvbkwra8x239o",
+          "name": "Pakistan Monument",
+          "imageUrl": "/image_famous/travel_1723002916115_Pakistan_Monument_bc827b9dc8.webp"
+        },
+        {
+          "id": "z9xowonseybw0q0imqy5bjsx",
+          "name": "Lok Virsa Museum",
+          "imageUrl": "/image_famous/travel_1723002909360_Lok_Virsa_Museum_e717db976d.webp"
+        },
+        {
+          "id": "ijryad9hhpymlzub03ktb6su",
+          "name": "Faisal Mosque",
+          "imageUrl": "/image_famous/travel_1723002884348_Faisal_Mosque_cc6b2487be.webp"
+        }
+      ]
+    },
+    {
+      "id": "rzm0pbh5g3s6hsvqmuo5917h",
+      "name": "Istanbul",
+      "info": "Istanbul is a major city in Turkey, known for its historic sites, cultural heritage, and as a bridge between Europe and Asia.",
+      "history": "Istanbul, formerly known as Byzantium and Constantinople, is a city of immense historical significance. It was the capital of the Roman, Byzantine, and Ottoman empires and remains Turkey's cultural and economic hub, known for its rich history and vibrant ",
+      "latitude": 41.01,
+      "longitude": 28.98,
+      "travels": [
+        {
+          "id": "p5k5dn60qvxvhwpmcj23vmpy",
+          "name": "Hagia Sophia",
+          "imageUrl": "/image_famous/travel_1723004675827_Hagia_Sophia_79a61afccb.webp"
+        },
+        {
+          "id": "fxuzq622pkefb10zqr4iokjt",
+          "name": "Blue Mosque",
+          "imageUrl": "/image_famous/travel_1723004668832_Blue_Mosque_99a17b94d1.avif"
+        },
+        {
+          "id": "v5s86ft3sgvbpk62angjtbum",
+          "name": "Topkapi Palace",
+          "imageUrl": "/image_famous/travel_1723004686176_Topkapi_Palace_2eff21a68e.avif"
+        }
+      ]
+    },
+    {
+      "id": "kla31b3xmgfp2wryppxcdpbb",
+      "name": "Izmir",
+      "info": "Izmir is a city in Turkey, known for its port, historic sites, and vibrant cultural scene.",
+      "history": "Izmir, historically known as Smyrna, is a major port city in Turkey with a history that spans millennia. It has been an important trade center in the Aegean region and is known for its vibrant culture and modern urban life.",
+      "latitude": 38.42,
+      "longitude": 27.13,
+      "travels": [
+        {
+          "id": "svn0o5xlbp1azug8wnuw3inu",
+          "name": "Kemeralti Market",
+          "imageUrl": "/image_famous/travel_1723004724586_Kemeralti_Market_b2511245f7.webp"
+        },
+        {
+          "id": "iftu591r9ubwign32331bisb",
+          "name": "Kadifekale",
+          "imageUrl": "/image_famous/travel_1723004711709_Kadifekale_121e1ae75b.webp"
+        },
+        {
+          "id": "h2cemvs21fc2czliwf18oazz",
+          "name": "İzmir Clock Tower",
+          "imageUrl": "/image_famous/travel_1723004704846_Izmir_Clock_Tower_8dcb01f9ee.webp"
+        }
+      ]
+    },
+    {
+      "id": "na7ga42jydi04l82hfa0e6mp",
+      "name": "Jakarta",
+      "info": "Jakarta is the capital city of Indonesia, known for its bustling urban life, cultural diversity, and as the economic heart of the country. The city blends modern skyscrapers with traditional markets and historic sites.",
+      "history": "Jakarta, the capital of Indonesia, has a history dating back to the 4th century as a trading port. It was known as Batavia during the Dutch colonial period and became the capital of independent Indonesia in 1949.",
+      "latitude": -6.21,
+      "longitude": 106.85,
+      "travels": [
+        {
+          "id": "a392khtjynrd1ow92xaramds",
+          "name": "Kota Tua (Old Town)",
+          "imageUrl": "/image_famous/travel_1723000192728_Kota_Tua_Old_Town_66c3beaac6.webp"
+        },
+        {
+          "id": "m5nixv5r4qgtlwoyd175ap2a",
+          "name": "Taman Mini Indonesia Indah",
+          "imageUrl": "/image_famous/travel_1723000207750_Taman_Mini_Indonesia_Indah_be41c2689f.webp"
+        },
+        {
+          "id": "ym63arlauw93q9ll050asdr8",
+          "name": "Monas (National Monument)",
+          "imageUrl": "/image_famous/travel_1723000200043_Monas_National_Monument_4168a3e7c9.webp"
+        }
+      ]
+    },
+    {
+      "id": "xtbp0q824ce7xl2nibxsmnwi",
+      "name": "Jerusalem",
+      "info": "Jerusalem is a city in Israel, known for its religious significance, historic sites, and cultural diversity.",
+      "history": "Jerusalem is a city with profound religious significance to Judaism, Christianity, and Islam. Its history spans thousands of years, making it a focal point of spiritual and historical importance. It remains a city of political and cultural complexity.",
+      "latitude": 31.77,
+      "longitude": 35.21,
+      "travels": [
+        {
+          "id": "xnujnibuumyirzh0dqi13j4b",
+          "name": "Church of the Holy Sepulchre",
+          "imageUrl": "/image_famous/travel_1723000616419_Church_of_the_Holy_Sepulchre_e851e6602b.webp"
+        },
+        {
+          "id": "jwa6gqb43k2dqufx09gd92kr",
+          "name": "Dome of the Rock",
+          "imageUrl": "/image_famous/travel_1723000623890_Dome_of_the_Rock_fdb92987b8.webp"
+        },
+        {
+          "id": "d6aizvlhlg1k2ikehth9fd4s",
+          "name": "Western Wall",
+          "imageUrl": "/image_famous/travel_1723000630727_Western_Wall_9e31802795.webp"
+        }
+      ]
+    },
+    {
+      "id": "wotfvy6d4hcsvqcho564fg77",
+      "name": "Johor Bahru",
+      "info": "Johor Bahru is a major city in southern Malaysia, known for its shopping, entertainment, and as a gateway to Singapore. The city has numerous theme parks and cultural attractions.",
+      "history": "Johor Bahru, the capital of the state of Johor in Malaysia, was founded in 1855 by Temenggong Daeng Ibrahim. It has grown rapidly as an industrial and commercial center.",
+      "latitude": 1.49,
+      "longitude": 103.74,
+      "travels": [
+        {
+          "id": "y29zujw2z8hg7tk0589bnpes",
+          "name": "Danga Bay",
+          "imageUrl": "/image_famous/travel_1723001703256_Danga_Bay_1f3c261747.webp"
+        },
+        {
+          "id": "ns2qn0jb7l9dgdedzz96e3a2",
+          "name": "Legoland Malaysia",
+          "imageUrl": "/image_famous/travel_1723001710223_Legoland_Malaysia_2df9a35a53.jpeg"
+        },
+        {
+          "id": "qwygn3w77magngoey5pruhtu",
+          "name": "Sultan Abu Bakar State Mosque",
+          "imageUrl": "/image_famous/travel_1723001718239_Sultan_Abu_Bakar_State_Mosque_011b2bf2c0.webp"
+        }
+      ]
+    },
+    {
+      "id": "izpp8k5bb0a4mosw98nxw71e",
+      "name": "Kabul",
+      "info": "Kabul is the capital city of Afghanistan, known for its historical sites and as a cultural and economic center.",
+      "history": "Kabul, the capital of Afghanistan, has a history spanning over 3,500 years. It has been an important city on the Silk Road and has seen various empires and invasions. Kabul remains a central point in Afghanistan's culture and politics.",
+      "latitude": 34.56,
+      "longitude": 69.21,
+      "travels": [
+        {
+          "id": "gz6xr4rqea1kk9ikllvca3tt",
+          "name": "Gardens of Babur",
+          "imageUrl": "/image_famous/travel_1722936391722_Gardens_of_Babur_3dce3bf6c3.webp"
+        },
+        {
+          "id": "mn0hv01kkpgkvgtnxtyxybu5",
+          "name": "Kabul Museum",
+          "imageUrl": "/image_famous/travel_1722936400213_Kabul_Museum_c5c7cce676.webp"
+        }
+      ]
+    },
+    {
+      "id": "sztkk6h2rs52hm71zxkvk05d",
+      "name": "Karachi",
+      "info": "Karachi is the largest city in Pakistan, known for its seaport, diverse culture, and bustling markets.",
+      "history": "Karachi is Pakistan's largest city and its main seaport. Historically a small fishing village, it grew rapidly under British rule to become a major port and commercial hub. Karachi remains the economic engine of Pakistan.",
+      "latitude": 24.86,
+      "longitude": 67,
+      "travels": [
+        {
+          "id": "c7xb6iysh5tv5qkj424mvo1x",
+          "name": "Clifton Beach",
+          "imageUrl": "/image_famous/travel_1723002946493_Clifton_Beach_ba9f6da1fa.webp"
+        },
+        {
+          "id": "c5gqc1xubwy11sfojwq9a55a",
+          "name": "Mohatta Palace",
+          "imageUrl": "/image_famous/travel_1723002961031_Mohatta_Palace_80ca9be7b9.webp"
+        },
+        {
+          "id": "i6qeux3bnorr5lfn3s241v08",
+          "name": "Mazar-e-Quaid",
+          "imageUrl": "/image_famous/travel_1723002953652_Mazar_e_Quaid_8e093d65fa.webp"
+        }
+      ]
+    },
+    {
+      "id": "qtowvdojnf3nrysmegd4yq08",
+      "name": "Kathmandu",
+      "info": "Kathmandu is the capital city of Nepal, known for its historic sites, including Durbar Square, and as a gateway to the Himalayas.",
+      "history": "Kathmandu is the capital and largest city of Nepal. With a history that dates back to ancient times, it has been a significant center for trade and culture. Kathmandu is renowned for its temples, palaces, and rich cultural traditions.",
+      "latitude": 27.72,
+      "longitude": 85.32,
+      "travels": [
+        {
+          "id": "vahtjcu15ksln89u451j7cka",
+          "name": "Swayambhunath",
+          "imageUrl": "/image_famous/travel_1723002517406_Swayambhunath_48c3479834.webp"
+        },
+        {
+          "id": "us5fhr6q7ryotcqrfximbai5",
+          "name": "Boudhanath Stupa",
+          "imageUrl": "/image_famous/travel_1723002499802_Boudhanath_Stupa_6f3a3eb8ab.webp"
+        },
+        {
+          "id": "jhocjdqhbk4aydq0quuffq3e",
+          "name": "Pashupatinath Temple",
+          "imageUrl": "/image_famous/travel_1723002507007_Pashupatinath_Temple_9cc3dd6b91.webp"
+        }
+      ]
+    },
+    {
+      "id": "qa6fhtjnml3ilvkgsh8qh9cz",
+      "name": "Kaunas",
+      "info": "Kaunas is a city in Lithuania, known for its interwar modernist architecture, vibrant cultural scene, and the Kaunas Castle.",
+      "history": "Kaunas is the second-largest city in Lithuania, known for its modernist architecture, historical significance, and vibrant cultural scene. It has a history dating back to medieval times.",
+      "latitude": 54.9,
+      "longitude": 23.89,
+      "travels": [
+        {
+          "id": "lgq674zqv6p9if76tgzuq7xr",
+          "name": "Pazaislis Monastery",
+          "imageUrl": "/image_famous/travel_1723001469839_Pazaislis_Monastery_731858c90a.webp"
+        },
+        {
+          "id": "t2eny1n3dnneh2soposv2a47",
+          "name": "Ninth Fort",
+          "imageUrl": "/image_famous/travel_1723001462203_Ninth_Fort_f16dbba21d.webp"
+        },
+        {
+          "id": "tbeeqz0l2b32qg1iy6gp9kfo",
+          "name": "Kaunas Castle",
+          "imageUrl": "/image_famous/travel_1723001454198_Kaunas_Castle_4c7e446d97.webp"
+        }
+      ]
+    },
+    {
+      "id": "uponpm8tzwq6yy156vmpzidk",
+      "name": "Kharkiv",
+      "info": "Kharkiv is the second-largest city in Ukraine, known for its Soviet architecture, educational institutions, and vibrant cultural life.",
+      "history": "Kharkiv is the second-largest city in Ukraine and an important industrial, cultural, and educational center. It was the first capital of the Ukrainian Soviet Socialist Republic and remains a major hub in eastern Ukraine.",
+      "latitude": 49.99,
+      "longitude": 36.23,
+      "travels": [
+        {
+          "id": "cj5683f5l3o9yd218jddt5z9",
+          "name": "Annunciation Cathedral",
+          "imageUrl": "/image_famous/travel_1723005129901_Annunciation_Cathedral_9ba3a64911.webp"
+        },
+        {
+          "id": "n6z0cr26watxvvwn5cyzz94y",
+          "name": "Freedom Square",
+          "imageUrl": "/image_famous/travel_1723005136267_Freedom_Square_ed462276a9.webp"
+        },
+        {
+          "id": "e9o0b4rjfh8hhvjg4ea6pbkg",
+          "name": "Kharkiv Historical Museum",
+          "imageUrl": "/image_famous/travel_1723005142953_Kharkiv_Historical_Museum_eb5f12d4bc.webp"
+        }
+      ]
+    },
+    {
+      "id": "ow29et08edhg88s3sslxb05o",
+      "name": "Klaipeda",
+      "info": "Klaipeda is a port city in Lithuania, known for its maritime heritage, vibrant cultural scene, and the annual Sea Festival.",
+      "history": "Klaipeda is a major port city in Lithuania, known for its maritime history, cultural heritage, and as an important economic center. It has a history dating back to the medieval period.",
+      "latitude": 55.7,
+      "longitude": 21.14,
+      "travels": [
+        {
+          "id": "tdwmgsdcp27z84uegl62g11a",
+          "name": "Klaipeda Old Town",
+          "imageUrl": "/image_famous/travel_1723001504634_Klaipeda_Old_Town_fa301a3010.webp"
+        },
+        {
+          "id": "w9d7hqbv7tn0uxy9kjyvrq75",
+          "name": "Lithuanian Sea Museum",
+          "imageUrl": "/image_famous/travel_1723001512470_Lithuanian_Sea_Museum_b950eb499a.webp"
+        },
+        {
+          "id": "udssrbykj0zrujdgxki09qzk",
+          "name": "Curonian Spit",
+          "imageUrl": "/image_famous/travel_1723001495817_Curonian_Spit_5849f3beb7.webp"
+        }
+      ]
+    },
+    {
+      "id": "lxldqc8e6tlahebibqudlosd",
+      "name": "Kolkata",
+      "info": "Kolkata is a city in India, known for its colonial architecture, art galleries, and cultural festivals.",
+      "history": "Kolkata, previously known as Calcutta, was the capital of British India until 1911. It is known for its colonial architecture, cultural heritage, and as the birthplace of the Indian independence movement. Kolkata remains a major cultural and intellectual ",
+      "latitude": 22.57,
+      "longitude": 88.36,
+      "travels": [
+        {
+          "id": "ytbm75hnr0ub163maap9k6w4",
+          "name": "Dakshineswar Kali Temple",
+          "imageUrl": "/image_famous/travel_1722936505473_Dakshineswar_Kali_Temple_eb28b54e65.webp"
+        },
+        {
+          "id": "jb2gty68bdxspxyqty2qx4w6",
+          "name": "Howrah Bridge",
+          "imageUrl": "/image_famous/travel_1722936513930_Howrah_Bridge_9c39d0d0bc.webp"
+        },
+        {
+          "id": "jhvz5hb31a1wv49w0cdge0ns",
+          "name": "Victoria Memorial",
+          "imageUrl": "/image_famous/travel_1722936523325_Victoria_Memorial_667cf3fd9d.webp"
+        }
+      ]
+    },
+    {
+      "id": "pudr54vk4hyy39f3e0zm6yjt",
+      "name": "Kopavogur",
+      "info": "Kopavogur is a city in Iceland, known for its modern architecture, cultural institutions, and proximity to Reykjavik.",
+      "history": "Kopavogur is a major city in the Reykjavik metropolitan area, known for its rapid development and modern amenities. It is one of the largest municipalities in Iceland.",
+      "latitude": 64.1,
+      "longitude": -21.86,
+      "travels": [
+        {
+          "id": "nfn9y03es2u2lmhlggnga667",
+          "name": "Viking World Museum",
+          "imageUrl": "/image_famous/travel_1723000071147_Viking_World_Museum_ba8c6a3887.webp"
+        },
+        {
+          "id": "f79dmafnv2tgjk3yz7682vrf",
+          "name": "Lake Ellidavatn",
+          "imageUrl": "/image_famous/travel_1723000062119_Lake_Ellidavatn_c8c7e76248.webp"
+        },
+        {
+          "id": "mreg7wn3zc7wj753hh60zoi4",
+          "name": "Kopavogur Art Museum",
+          "imageUrl": "/image_famous/travel_1723000053507_Kopavogur_Art_Museum_6bc38df9be.webp"
+        }
+      ]
+    },
+    {
+      "id": "mwx11sq3dnd1fiql30a5kkns",
+      "name": "Kraków",
+      "info": "Kraków is a city in southern Poland, known for its well-preserved medieval core and Jewish quarter, as well as the Wawel Castle.",
+      "history": "Kraków is one of Poland's oldest and most culturally significant cities. Known for its well-preserved medieval core and Jewish quarter, it was the capital of Poland until 1596 and remains a major cultural and academic hub.",
+      "latitude": 50.06,
+      "longitude": 19.94,
+      "travels": [
+        {
+          "id": "lyrh8utc35ibtj3ua5aszwdv",
+          "name": "Main Market Square",
+          "imageUrl": "/image_famous/travel_1722937456952_Main_Market_Square_5a2b443a8b.webp"
+        },
+        {
+          "id": "if93t0edow06vavdvldad9ei",
+          "name": "Wawel Castle",
+          "imageUrl": "/image_famous/travel_1722937479225_Wawel_Castle_0e2cb057f6.webp"
+        },
+        {
+          "id": "jbhv5yr7zzn1obyw4z6mt8o6",
+          "name": "St. Mary_s Basilica",
+          "imageUrl": "/image_famous/travel_1722937462897_St_Mary_s_Basilica_cdbd20965f.webp"
+        }
+      ]
+    },
+    {
+      "id": "eb8bemv84cxk9fpznycti1pf",
+      "name": "Kuala Lumpur",
+      "info": "Kuala Lumpur is the capital city of Malaysia, famous for its modern skyline dominated by the iconic Petronas Twin Towers. The city is a cultural melting pot, known for its diverse cuisine and vibrant street markets.",
+      "history": "Kuala Lumpur is the capital of Malaysia and was founded in 1857 as a tin mining settlement. It became the capital of the Federated Malay States in 1896 and later the capital of independent Malaysia. The city is known for the Petronas Twin Towers.",
+      "latitude": 3.14,
+      "longitude": 101.69,
+      "travels": [
+        {
+          "id": "vbzrv83wse1x9icxvpmsy81u",
+          "name": "Merdeka Square",
+          "imageUrl": "/image_famous/travel_1723001752647_Merdeka_Square_5377b4f267.cms"
+        },
+        {
+          "id": "f80mbbaomste6nvh5jr5o48i",
+          "name": "Petronas Twin Towers",
+          "imageUrl": "/image_famous/travel_1723001761503_Petronas_Twin_Towers_48cbb46c78.webp"
+        },
+        {
+          "id": "hdf4oytwhs7vk8l5pp0f3bgu",
+          "name": "Batu Caves",
+          "imageUrl": "/image_famous/travel_1723001738251_Batu_Caves_af798cd243.webp"
+        }
+      ]
+    },
+    {
+      "id": "qwrui5khb2axn3ysxhza5hp9",
+      "name": "Kuwait City",
+      "info": "Kuwait City is the capital of Kuwait, known for its modern architecture, waterfront, and cultural institutions.",
+      "history": "Kuwait City is the capital and largest city of Kuwait. It grew significantly during the 18th century as a key trading post. Today, it is known for its modern architecture, economic vitality, and cultural heritage.",
+      "latitude": 29.38,
+      "longitude": 47.98,
+      "travels": [
+        {
+          "id": "xeb0toyw2h7rhyuotylnmtep",
+          "name": "Grand Mosque",
+          "imageUrl": "/image_famous/travel_1723000785012_Grand_Mosque_ff0d38607d.webp"
+        },
+        {
+          "id": "o9f76g2vur15srpsh10cddho",
+          "name": "Kuwait Towers",
+          "imageUrl": "/image_famous/travel_1723000793155_Kuwait_Towers_43873a1d58.webp"
+        },
+        {
+          "id": "x49p28d8l7tt0361c94x3fgx",
+          "name": "The Avenues Mall",
+          "imageUrl": "/image_famous/travel_1723000800993_The_Avenues_Mall_179d1aefaf.webp"
+        }
+      ]
+    },
+    {
+      "id": "ipyrrnshzuddvamxhldlvulu",
+      "name": "Kyiv",
+      "info": "Kyiv is the capital city of Ukraine, known for its religious architecture, historical monuments, and vibrant arts scene. Key landmarks include the Kyiv Pechersk Lavra and Saint Sophia Cathedral.",
+      "history": "Kyiv, the capital of Ukraine, is one of the oldest cities in Eastern Europe, with a history dating back to the 5th century. It has been a cultural and political center for centuries, known for its historic churches and vibrant cultural scene.",
+      "latitude": 50.45,
+      "longitude": 30.52,
+      "travels": [
+        {
+          "id": "azys10sl71q6exopdune8c35",
+          "name": "Independence Square",
+          "imageUrl": "/image_famous/travel_1723005165321_Independence_Square_d6cb322fc9.webp"
+        },
+        {
+          "id": "snt94f43x4titop8t9zgcjpr",
+          "name": "Saint Sophia's Cathedral",
+          "imageUrl": "/image_famous/travel_1723005192259_Saint_Sophia_s_Cathedral_83753251a4.webp"
+        },
+        {
+          "id": "lmai35i0jhh5afi4g1evx6b4",
+          "name": "Kyiv Pechersk Lavra",
+          "imageUrl": "/image_famous/travel_1723005177492_Kyiv_Pechersk_Lavra_eb24683ae2.webp"
+        }
+      ]
+    },
+    {
+      "id": "zchab0xu7m2ra646hdvkn8yj",
+      "name": "Kyoto",
+      "info": "Kyoto is a city in Japan, known for its classical Buddhist temples, as well as gardens, imperial palaces, Shinto shrines, and traditional wooden houses.",
+      "history": "Kyoto was the capital of Japan for over a thousand years before the capital moved to Tokyo. It is famous for its classical Buddhist temples, as well as gardens, imperial palaces, Shinto shrines, and traditional wooden houses.",
+      "latitude": 35.01,
+      "longitude": 135.77,
+      "travels": [
+        {
+          "id": "x0rqnywmayqrzskbh2rrufb3",
+          "name": "Fushimi Inari Shrine",
+          "imageUrl": "/image_famous/travel_1723002552164_Fushimi_Inari_Shrine_a2c3dfd2f3.webp"
+        },
+        {
+          "id": "sh3v5biitg7ee4x4fyufxrcg",
+          "name": "Kinkaku-ji",
+          "imageUrl": "/image_famous/travel_1723002560690_Kinkaku_ji_9c0f60d14d.webp"
+        },
+        {
+          "id": "mfxs3l8q4gbqrapujt8keoox",
+          "name": "Arashiyama Bamboo Grove",
+          "imageUrl": "/image_famous/travel_1723002544619_Arashiyama_Bamboo_Grove_22e98236c7.webp"
+        }
+      ]
+    },
+    {
+      "id": "vd2te3ck6zi27gwo1gtt3l6v",
+      "name": "Liepaja",
+      "info": "Liepaja is a city in Latvia, known for its port, vibrant music scene, and beautiful beaches.",
+      "history": "Liepaja is a major port city in Latvia, known for its cultural heritage, maritime history, and vibrant music scene. It has a history dating back to the medieval period.",
+      "latitude": 56.51,
+      "longitude": 21.01,
+      "travels": [
+        {
+          "id": "ks1o3cz3b4vpz7wh353mz1zj",
+          "name": "Pludmale Karlis Volkovskis",
+          "imageUrl": "/image_famous/travel_1723001179574pludmale_1_karlis_volkovskis_800x450_358980e4ac.webp"
+        },
+        {
+          "id": "fhius8yjfc0pgf263327ed9y",
+          "name": "Karosta Prison",
+          "imageUrl": "/image_famous/travel_1723001120827_Karosta_Prison_72ee55e2ab.webp"
+        },
+        {
+          "id": "glnxw673rmwzc2xealno3l3c",
+          "name": "St. Nicholas Naval Cathedral",
+          "imageUrl": "/image_famous/travel_1723001191059_St_Nicholas_Naval_Cathedral_c55943c3bf.webp"
+        }
+      ]
+    }
+  ]
+}

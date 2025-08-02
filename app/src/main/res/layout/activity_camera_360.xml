@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
-   >
-
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white">
     <LinearLayout
         android:id="@+id/llAppBar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:paddingTop="@dimen/_26sdp"
         android:gravity="center_vertical"
         android:background="@drawable/bg_header"
-        android:paddingTop="@dimen/_26sdp"
-        android:paddingBottom="@dimen/_6sdp"
         android:orientation="horizontal"
+        android:paddingHorizontal="@dimen/_8sdp"
+        android:paddingBottom="@dimen/_8sdp"
         app:layout_constraintTop_toTopOf="parent">
 
         <androidx.appcompat.widget.AppCompatImageButton
@@ -24,7 +23,6 @@
             android:layout_height="wrap_content"
             android:background="@color/transparent"
             android:padding="@dimen/_5sdp"
-            android:visibility="gone"
             android:src="@drawable/ic_back" />
 
         <androidx.appcompat.widget.AppCompatTextView
@@ -33,33 +31,25 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/_12sdp"
             android:layout_weight="1"
-            android:text="@string/language"
+            android:text="@string/camera_360"
             android:textColor="@color/white"
-            android:textSize="@dimen/_15ssp" />
+            android:textSize="@dimen/_14ssp" />
 
-        <androidx.appcompat.widget.AppCompatImageButton
-            android:id="@+id/btnDone"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginEnd="@dimen/_7sdp"
-            android:background="@color/transparent"
-            android:padding="@dimen/_5sdp"
-            android:src="@drawable/ic_done"
-            android:visibility="gone"
-            tools:visibility="visible" />
     </LinearLayout>
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rcvLanguage"
+        android:id="@+id/rcvCameraImage"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_marginTop="@dimen/_3sdp"
-        android:layout_marginBottom="@dimen/_12sdp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        android:orientation="vertical"
-        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:layout_marginHorizontal="@dimen/_6sdp"
+        android:layout_marginVertical="@dimen/_13sdp"
+        android:paddingBottom="@dimen/_30sdp"
+        android:clipToPadding="false"
+        app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+        app:spanCount="2"
         app:layout_constraintTop_toBottomOf="@id/llAppBar"
-        tools:listitem="@layout/item_lfo_language" />
-
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:listitem="@layout/item_camera_360"
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

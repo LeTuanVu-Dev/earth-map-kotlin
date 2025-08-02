@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import androidx.lifecycle.lifecycleScope
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.base.BaseActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.language.LanguageActivity
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.main.MainActivity
 import com.earthmap.map.ltv.tracker.databinding.ActivitySplashBinding
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
@@ -34,6 +35,10 @@ class SplashActivity : BaseActivity<ActivitySplashBinding>() {
     private fun navigateToNextScreen() {
         if (isNextAction) return
         isNextAction = true
+        if (preferenceHelper.isFinishFirstFlow){
+            navigateTo(MainActivity::class.java, isFinish = true)
+            return
+        }
         navigateTo(LanguageActivity::class.java, isFinish = true)
     }
 

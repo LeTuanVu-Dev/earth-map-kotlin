@@ -30,4 +30,7 @@
     <string name="please_rate_us_5_star">Please rate us 5 stars</string>
     <string name="check_out_my_app_at">Hey check out my app at %s</string>
     <string name="the_best_we_can_get">The best we can get</string>
+    <string name="do_you_want_to_exit_the_app">Do you want to exit the app?</string>
+    <string name="_cancel">Cancel</string>
+    <string name="_exit">Exit</string>
 </resources>

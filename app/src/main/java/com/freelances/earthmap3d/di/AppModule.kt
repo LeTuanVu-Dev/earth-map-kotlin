@@ -9,6 +9,7 @@ import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.AirQualityA
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.WeatherApiService
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.air.GetAirQuality
 import com.earthmap.map.ltv.tracker.extensions.PreferenceHelper
+import com.freelances.earthmap3d.presentation.camera360.Camera360Loader
 import org.koin.android.ext.koin.androidApplication
 import org.koin.core.module.dsl.singleOf
 import org.koin.dsl.module
@@ -40,6 +41,7 @@ val appModule = module {
     // Inject fetchers
 //    singleOf(::WeatherFetcher)
 //    singleOf(::CityCodeFetcher)
+    singleOf(::Camera360Loader)
 
 
     single {

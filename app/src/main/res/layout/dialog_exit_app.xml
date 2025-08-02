@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingHorizontal="@dimen/_8sdp"
+    android:layoutDirection="locale"
+    android:textDirection="locale">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/ctlDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/bg_border_16dp"
+        android:backgroundTint="@color/white"
+        android:elevation="@dimen/_8sdp"
+        android:paddingHorizontal="@dimen/_18sdp"
+        android:paddingVertical="@dimen/_20sdp">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/tvContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_500"
+            android:gravity="center"
+            android:text="@string/do_you_want_to_exit_the_app"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_13ssp"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/buttonOk"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_5sdp"
+            android:background="@drawable/bg_border_16dp"
+            android:fontFamily="@font/roboto_500"
+            android:gravity="center"
+            android:paddingHorizontal="@dimen/_5sdp"
+            android:paddingVertical="@dimen/_11sdp"
+            android:text="@string/_cancel"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_13ssp"
+            style="@style/Text_500"
+            app:layout_constraintBottom_toBottomOf="@+id/buttonNo"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_weight="1"
+            app:layout_constraintStart_toEndOf="@id/buttonNo"
+            app:layout_constraintTop_toTopOf="@+id/buttonNo" />
+
+        <TextView
+            android:id="@+id/buttonNo"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:background="@drawable/bg_button_gradient"
+            android:backgroundTint="@color/color_F5222D"
+            android:gravity="center"
+            android:layout_marginEnd="@dimen/_5sdp"
+            android:paddingHorizontal="@dimen/_5sdp"
+            android:paddingVertical="@dimen/_11sdp"
+            android:text="@string/_exit"
+            android:textAllCaps="false"
+            android:textSize="@dimen/_13ssp"
+            android:textColor="@color/white"
+            style="@style/Text_500"
+            app:cornerRadius="@dimen/_4sdp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/buttonOk"
+            app:layout_constraintHorizontal_weight="1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tvContent"
+
+             />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>
