@@ -24,8 +24,8 @@ import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.compa
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.dialog.ExitAppDialog
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.dialog.PermissionLocationDialog
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.earth3d.EarthMap3dActivity
-import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.preview.CameraLivePreviewActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.setting.SettingActivity
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.traffic.MapTrafficActivity
 import com.earthmap.map.ltv.tracker.databinding.ActivityMainBinding
 
 class MainActivity : BaseActivity<ActivityMainBinding>() {
@@ -121,14 +121,15 @@ class MainActivity : BaseActivity<ActivityMainBinding>() {
                 navigateTo(EarthMap3dActivity::class.java)
             }
 
-            FAMOUS_PLACE -> {}
-
             TRAFFIC_MAP -> {
                 if (!checkLocationPermission()) {
                     requestPermissionLocation()
                     return
                 }
+                navigateTo(MapTrafficActivity::class.java)
             }
+
+            FAMOUS_PLACE -> {}
 
             WORLD_CLOCK -> {}
 

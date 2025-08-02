@@ -71,13 +71,13 @@ android {
     productFlavors {
         create("dev") {
             applicationId = "com.earthmap.map.ltv.tracker"
-            manifestPlaceholders["map_id"] = "AIzaSyC6LQVdLBoRya8PHhM3EJiGIdQswuGwUFA"
+            manifestPlaceholders["map_key"] = "AIzaSyC6LQVdLBoRya8PHhM3EJiGIdQswuGwUFA"
             buildConfigField("boolean", "build_debug", "true")
         }
 
         create("product") {
             applicationId = "com.earthmap.map.ltv.tracker"
-            manifestPlaceholders["map_id"] = "AIzaSyC6LQVdLBoRya8PHhM3EJiGIdQswuGwUFA"
+            manifestPlaceholders["map_key"] = "AIzaSyC6LQVdLBoRya8PHhM3EJiGIdQswuGwUFA"
             buildConfigField("boolean", "build_debug", "false")
         }
     }

@@ -20,7 +20,6 @@ lottie = "6.5.2"
 material = "1.12.0"
 multidex = "2.0.1"
 panoramagl = "1.12"
-places = "4.2.0"
 playServicesLocation = "21.3.0"
 playServicesMaps = "19.2.0"
 retrofit = "2.11.0"
@@ -57,7 +56,6 @@ junit = { group = "junit", name = "junit", version.ref = "junit" }
 koin-android = { module = "io.insert-koin:koin-android", version.ref = "koin-android" }
 koin-android-compat = { module = "io.insert-koin:koin-android-compat", version.ref = "koin-android" }
 koin-core = { module = "io.insert-koin:koin-core", version.ref = "koin-android" }
-lottie = { module = "com.airbnb.android:lottie", version.ref = "lottie" }
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
 panoramagl = { module = "com.github.hannesa2:panoramagl", version.ref = "panoramagl" }
 play-services-location = { module = "com.google.android.gms:play-services-location", version.ref = "playServicesLocation" }
