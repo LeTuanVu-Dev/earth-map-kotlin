@@ -9,6 +9,7 @@ import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.AirQualityA
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.WeatherApiService
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.air.GetAirQuality
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.cameraLive.CameraLiveLoader
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.earth3d.EarthMapLoader
 import com.earthmap.map.ltv.tracker.extensions.PreferenceHelper
 import com.freelances.earthmap3d.presentation.camera360.Camera360Loader
 import org.koin.android.ext.koin.androidApplication
@@ -44,6 +45,7 @@ val appModule = module {
 //    singleOf(::CityCodeFetcher)
     singleOf(::Camera360Loader)
     singleOf(::CameraLiveLoader)
+    singleOf(::EarthMapLoader)
 
     single {
         Retrofit.Builder()
