@@ -15,7 +15,9 @@ import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.W
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.safeClick
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.HomeModel
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.camera360.Camera360Activity
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.cameraLive.CameraLiveActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.dialog.ExitAppDialog
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.preview.CameraLivePreviewActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.setting.SettingActivity
 import com.earthmap.map.ltv.tracker.databinding.ActivityMainBinding
 
@@ -74,7 +76,9 @@ class MainActivity : BaseActivity<ActivityMainBinding>() {
                 navigateTo(Camera360Activity::class.java)
             }
 
-            CAMERA_LIVE -> {}
+            CAMERA_LIVE -> {
+                navigateTo(CameraLiveActivity::class.java)
+            }
 
             EARTH_3D -> {}
 

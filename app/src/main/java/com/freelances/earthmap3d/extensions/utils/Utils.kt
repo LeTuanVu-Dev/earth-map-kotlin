@@ -2,6 +2,7 @@ package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils
 
 import android.animation.ObjectAnimator
 import android.content.Context
+import android.util.Log
 import android.view.View
 import androidx.lifecycle.Lifecycle
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.LocationDataWrapper

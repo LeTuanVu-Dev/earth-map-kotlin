@@ -33,4 +33,5 @@
     <string name="do_you_want_to_exit_the_app">Do you want to exit the app?</string>
     <string name="_cancel">Cancel</string>
     <string name="_exit">Exit</string>
+    <string name="recommend">Recomment</string>
 </resources>

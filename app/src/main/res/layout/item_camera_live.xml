@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bg_radius_12"
+    android:paddingTop="@dimen/_13sdp"
+    android:paddingBottom="@dimen/_6sdp"
+    android:layout_margin="@dimen/_6sdp"
+    android:backgroundTint="@color/color_1C1C1E">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivImage"
+        android:layout_width="@dimen/_65sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:src="@drawable/ic_traffic_map" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        style="@style/Text_500"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/live"
+        android:textColor="@color/white"
+        android:paddingHorizontal="@dimen/_4sdp"
+        android:paddingVertical="@dimen/_1sdp"
+        android:background="@drawable/bg_border_botright_live"
+        app:layout_constraintTop_toTopOf="@id/ivImage"
+        app:layout_constraintStart_toStartOf="@id/ivImage"
+        android:textSize="@dimen/_8ssp" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/appCompatImageView"
+        android:layout_width="@dimen/_20sdp"
+        android:layout_height="@dimen/_20sdp"
+        android:padding="@dimen/_2sdp"
+        android:src="@drawable/ic_play"
+        app:layout_constraintBottom_toBottomOf="@+id/ivImage"
+        app:layout_constraintEnd_toEndOf="@+id/ivImage"
+        app:layout_constraintStart_toStartOf="@+id/ivImage"
+        app:layout_constraintTop_toTopOf="@+id/ivImage" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvTitle"
+        style="@style/Text_500"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_13sdp"
+        android:layout_weight="1"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:text="@string/app_name"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_11ssp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ivImage"
+        app:layout_constraintStart_toStartOf="parent"
+        />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

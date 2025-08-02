@@ -46,7 +46,6 @@ class Camera360Activity : BaseActivity<ActivityCamera360Binding>() {
             }
         }
         binding.rcvCameraImage.adapter = camera360Adapter
-
     }
 
     private fun openPreview(item: ModelCamera360) {

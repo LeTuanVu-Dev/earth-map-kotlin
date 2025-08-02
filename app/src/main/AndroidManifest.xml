@@ -66,8 +66,23 @@
             android:hardwareAccelerated="false"
             android:screenOrientation="portrait"
             tools:ignore="DiscouragedApi,LockedOrientationActivity" />
+
         <activity
             android:name=".com.freelances.earthmap3d.presentation.preview.Camera360PreviewActivity"
+            android:exported="false"
+            android:hardwareAccelerated="false"
+            android:screenOrientation="portrait"
+            tools:ignore="DiscouragedApi,LockedOrientationActivity" />
+
+        <activity
+            android:name=".com.freelances.earthmap3d.presentation.cameraLive.CameraLiveActivity"
+            android:exported="false"
+            android:hardwareAccelerated="false"
+            android:screenOrientation="portrait"
+            tools:ignore="DiscouragedApi,LockedOrientationActivity" />
+
+        <activity
+            android:name=".com.freelances.earthmap3d.presentation.preview.CameraLivePreviewActivity"
             android:exported="false"
             android:hardwareAccelerated="false"
             android:screenOrientation="portrait"
