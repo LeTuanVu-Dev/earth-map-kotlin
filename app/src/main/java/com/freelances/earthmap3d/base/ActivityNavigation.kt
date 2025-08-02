@@ -1,4 +1,4 @@
-package com.freelances.earthmap3d.base
+package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.base
 
 import android.app.Activity
 import android.content.Intent
@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.util.Pair
 import androidx.activity.result.ActivityResultLauncher
 import androidx.appcompat.app.AppCompatActivity
-import com.freelances.earthmap3d.R
+import com.earthmap.map.ltv.tracker.R
 
 enum class NavigationFlag {
     ClearTask,

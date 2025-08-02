@@ -1,10 +1,10 @@
-package com.freelances.earthmap3d.di
+package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.di
 
 import android.app.Application
 import androidx.room.Room
-import com.freelances.earthmap3d.db.AirQualityDatabase
-import com.freelances.earthmap3d.db.AirQualityDatabaseDao
-import com.freelances.earthmap3d.db.AirQualityRepository
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.db.AirQualityDatabase
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.db.AirQualityDatabaseDao
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.db.AirQualityRepository
 import org.koin.core.module.dsl.singleOf
 import org.koin.dsl.module
 

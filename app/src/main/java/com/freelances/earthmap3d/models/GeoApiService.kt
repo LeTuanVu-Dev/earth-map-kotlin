@@ -1,4 +1,4 @@
-package com.freelances.earthmap3d.models
+package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models
 
 import retrofit2.Response
 import retrofit2.http.GET

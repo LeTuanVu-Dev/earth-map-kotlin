@@ -1,4 +1,4 @@
-package com.freelances.earthmap3d.db
+package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.db
 
 import android.os.Parcelable
 import androidx.room.Entity

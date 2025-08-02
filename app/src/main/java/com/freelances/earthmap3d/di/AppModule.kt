@@ -1,14 +1,14 @@
-package com.freelances.earthmap3d.di
+package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.di
 
 import android.content.Context
 import android.content.SharedPreferences
-import com.freelances.earthmap3d.extensions.utils.API_DATA_WEATHER
-import com.freelances.earthmap3d.extensions.utils.API_DATA_AIR
-import com.freelances.earthmap3d.extensions.utils.TOKEN_API_AIR
-import com.freelances.earthmap3d.extensions.PreferenceHelper
-import com.freelances.earthmap3d.models.AirQualityApiService
-import com.freelances.earthmap3d.models.WeatherApiService
-import com.freelances.earthmap3d.presentation.air.GetAirQuality
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.API_DATA_AIR
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.API_DATA_WEATHER
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.TOKEN_API_AIR
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.AirQualityApiService
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.WeatherApiService
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.air.GetAirQuality
+import com.earthmap.map.ltv.tracker.extensions.PreferenceHelper
 import org.koin.android.ext.koin.androidApplication
 import org.koin.core.module.dsl.singleOf
 import org.koin.dsl.module

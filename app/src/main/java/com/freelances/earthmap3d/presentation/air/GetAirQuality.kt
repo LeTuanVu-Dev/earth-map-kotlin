@@ -1,8 +1,8 @@
-package com.freelances.earthmap3d.presentation.air
+package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.air
 
-import com.freelances.earthmap3d.models.AirQualityApiService
-import com.freelances.earthmap3d.models.AirQualityResponse
-import com.freelances.earthmap3d.models.AirQualityResultWithOrigin
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.AirQualityApiService
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.AirQualityResponse
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.AirQualityResultWithOrigin
 
 class GetAirQuality(
     private val apiService: AirQualityApiService,

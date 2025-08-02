@@ -1,8 +1,8 @@
-package com.freelances.earthmap3d
+package com.earthmap.map.ltv.tracker
 import android.app.Application
-import com.freelances.earthmap3d.di.appModule
-import com.freelances.earthmap3d.di.roomModule
-import com.freelances.earthmap3d.di.viewModelModule
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.di.appModule
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.di.roomModule
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.di.viewModelModule
 import com.google.firebase.FirebaseApp
 import org.koin.android.ext.koin.androidContext
 import org.koin.android.ext.koin.androidLogger

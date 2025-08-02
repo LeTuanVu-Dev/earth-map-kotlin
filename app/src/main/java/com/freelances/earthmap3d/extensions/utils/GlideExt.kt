@@ -1,4 +1,4 @@
-package com.freelances.earthmap3d.extensions.utils
+package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -13,7 +13,7 @@ import com.bumptech.glide.load.resource.bitmap.RoundedCorners
 import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions
 import com.bumptech.glide.request.RequestOptions
 import com.bumptech.glide.request.target.CustomTarget
-import com.freelances.earthmap3d.R
+import com.earthmap.map.ltv.tracker.R
 
 fun ImageView.loadThumbnail(
     context: Context, path: String, @DimenRes cornerRadiusDp: Int = 0

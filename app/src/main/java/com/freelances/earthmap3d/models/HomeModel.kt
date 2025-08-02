@@ -1,14 +1,14 @@
-package com.freelances.earthmap3d.com.freelances.earthmap3d.models
+package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models
 
-import com.freelances.earthmap3d.R
-import com.freelances.earthmap3d.extensions.utils.AIR_QUALITY
-import com.freelances.earthmap3d.extensions.utils.CAMERA_360
-import com.freelances.earthmap3d.extensions.utils.CAMERA_LIVE
-import com.freelances.earthmap3d.extensions.utils.COMPASS
-import com.freelances.earthmap3d.extensions.utils.EARTH_3D
-import com.freelances.earthmap3d.extensions.utils.FAMOUS_PLACE
-import com.freelances.earthmap3d.extensions.utils.TRAFFIC_MAP
-import com.freelances.earthmap3d.extensions.utils.WORLD_CLOCK
+import com.earthmap.map.ltv.tracker.R
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.CAMERA_360
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.AIR_QUALITY
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.CAMERA_LIVE
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.COMPASS
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.EARTH_3D
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.FAMOUS_PLACE
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.TRAFFIC_MAP
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.WORLD_CLOCK
 
 data class HomeModel(
     val homeID: String,

@@ -1,4 +1,4 @@
-package com.freelances.earthmap3d.extensions
+package com.earthmap.map.ltv.tracker.extensions
 
 import android.content.SharedPreferences
 import kotlin.properties.ReadWriteProperty

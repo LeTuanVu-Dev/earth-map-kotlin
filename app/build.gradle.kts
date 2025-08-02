@@ -12,10 +12,11 @@ plugins {
 }
 
 android {
-    namespace = "com.freelances.earthmap3d"
+    namespace = "com.earthmap.map.ltv.tracker"
     compileSdk = 35
 
     defaultConfig {
+        applicationId = "com.earthmap.map.ltv.tracker"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
@@ -131,4 +132,7 @@ dependencies {
     implementation(libs.androidx.room.runtime)
     implementation(libs.androidx.room.ktx)
     kapt(libs.androidx.room.compiler)
+
+    implementation(libs.review.ktx)
+
 }

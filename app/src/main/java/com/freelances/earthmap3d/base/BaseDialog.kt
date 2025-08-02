@@ -1,4 +1,4 @@
-package com.freelances.earthmap3d.base
+package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.base
 
 import android.app.Dialog
 import android.content.Context
@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import android.view.Window
 import android.view.WindowManager
 import androidx.viewbinding.ViewBinding
-import com.freelances.earthmap3d.R
+import com.earthmap.map.ltv.tracker.R
 
 
 abstract class BaseDialog<VB : ViewBinding>(context: Context, private val inflate: (LayoutInflater, ViewGroup?, Boolean) -> VB ) :

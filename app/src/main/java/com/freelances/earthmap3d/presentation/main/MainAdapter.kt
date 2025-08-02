@@ -1,13 +1,13 @@
-package com.freelances.earthmap3d.com.freelances.earthmap3d.presentation.main
+package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.main
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.freelances.earthmap3d.com.freelances.earthmap3d.models.HomeModel
-import com.freelances.earthmap3d.databinding.ItemHomeBinding
-import com.freelances.earthmap3d.extensions.utils.click
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.click
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.HomeModel
+import com.earthmap.map.ltv.tracker.databinding.ItemHomeBinding
 
 class MainAdapter(
     private val onClickItem: (HomeModel) -> Unit,

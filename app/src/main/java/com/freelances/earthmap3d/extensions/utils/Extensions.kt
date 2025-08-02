@@ -1,4 +1,4 @@
-package com.freelances.earthmap3d.extensions.utils
+package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils
 
 import android.content.Context
 import android.net.ConnectivityManager

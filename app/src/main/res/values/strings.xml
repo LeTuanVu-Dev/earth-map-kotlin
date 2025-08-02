@@ -10,4 +10,24 @@
     <string name="air_quality">Air Quality</string>
     <string name="compass">Compass</string>
 
+    <string name="settings">Settings</string>
+    <string name="share_this_app">Share App</string>
+    <string name="language">Languages</string>
+    <string name="title_rate_0">Thank you for using the app!</string>
+    <string name="content_rate_0">We would appreciate your review!</string>
+    <string name="title_rate_1">Oh No!</string>
+    <string name="content_rate_1">We want to know what made you unsatisfied.</string>
+    <string name="title_rate_2">Oh No!</string>
+    <string name="content_rate_2">We want to know what made you unsatisfied.</string>
+    <string name="title_rate_3">Oh, un fortunately!</string>
+    <string name="content_rate_3">We look forward to receiving your feedback to improve.</string>
+    <string name="title_rate_4">Thank you!</string>
+    <string name="content_rate_4">We will do our best to provide an even better experience.</string>
+    <string name="title_rate_5">Wow, great!</string>
+    <string name="content_rate_5">Your satisfaction is our greatest motivation!</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="rate_on_google_play">Rate on Google Play</string>
+    <string name="please_rate_us_5_star">Please rate us 5 stars</string>
+    <string name="check_out_my_app_at">Hey check out my app at %s</string>
+    <string name="the_best_we_can_get">The best we can get</string>
 </resources>

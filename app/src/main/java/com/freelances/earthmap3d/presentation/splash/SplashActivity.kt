@@ -1,12 +1,12 @@
-package com.freelances.earthmap3d.presentation.splash
+package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.splash
 
 import android.annotation.SuppressLint
 import android.os.Bundle
 import android.view.LayoutInflater
 import androidx.lifecycle.lifecycleScope
-import com.freelances.earthmap3d.base.BaseActivity
-import com.freelances.earthmap3d.databinding.ActivitySplashBinding
-import com.freelances.earthmap3d.presentation.main.MainActivity
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.base.BaseActivity
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.language.LanguageActivity
+import com.earthmap.map.ltv.tracker.databinding.ActivitySplashBinding
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 
@@ -34,7 +34,7 @@ class SplashActivity : BaseActivity<ActivitySplashBinding>() {
     private fun navigateToNextScreen() {
         if (isNextAction) return
         isNextAction = true
-        navigateTo(MainActivity::class.java, isFinish = true)
+        navigateTo(LanguageActivity::class.java, isFinish = true)
     }
 
     override fun onDestroy() {

@@ -1,4 +1,4 @@
-package com.freelances.earthmap3d.base
+package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.base
 
 import android.app.ActivityOptions
 import android.content.Context
@@ -16,11 +16,12 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.fragment.app.Fragment
 import androidx.viewbinding.ViewBinding
-import com.freelances.earthmap3d.R
-import com.freelances.earthmap3d.extensions.PreferenceHelper
-import com.freelances.earthmap3d.extensions.utils.Language
-import com.freelances.earthmap3d.extensions.utils.hideSystemBar
-import com.freelances.earthmap3d.extensions.utils.setFullScreen
+import com.earthmap.map.ltv.tracker.R
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.Language
+import com.earthmap.map.ltv.tracker.extensions.PreferenceHelper
+
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.hideSystemBar
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.setFullScreen
 import org.koin.android.ext.android.inject
 
 abstract class BaseActivity<VB : ViewBinding> : AppCompatActivity() {

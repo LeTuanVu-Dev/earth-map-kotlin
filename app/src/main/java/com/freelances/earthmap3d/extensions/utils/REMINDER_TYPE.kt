@@ -1,4 +1,4 @@
-package com.freelances.earthmap3d.extensions.utils
+package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils
 
 enum class REMINDER_TYPE(val value: Int) {
     LOCK_FIRST_TYPE(0),

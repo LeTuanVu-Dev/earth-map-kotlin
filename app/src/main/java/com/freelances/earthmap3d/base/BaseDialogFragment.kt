@@ -1,4 +1,4 @@
-package com.freelances.earthmap3d.base
+package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.base
 
 import android.app.Dialog
 import android.content.Context
@@ -20,8 +20,8 @@ import androidx.fragment.app.DialogFragment
 import androidx.fragment.app.FragmentActivity
 import androidx.fragment.app.FragmentManager
 import androidx.viewbinding.ViewBinding
-import com.freelances.earthmap3d.R
-import com.freelances.earthmap3d.extensions.utils.hideSystemBar
+import com.earthmap.map.ltv.tracker.R
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.hideSystemBar
 
 abstract class BaseDialogFragment<V : ViewBinding> : DialogFragment() {
     private var _binding: V? = null

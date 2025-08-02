@@ -1,4 +1,4 @@
-package com.freelances.earthmap3d.base
+package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.base
 
 import android.app.Dialog
 import android.content.Context
@@ -9,8 +9,8 @@ import android.view.ViewGroup
 import android.widget.FrameLayout
 import androidx.fragment.app.FragmentManager
 import androidx.viewbinding.ViewBinding
-import com.freelances.earthmap3d.R
-import com.freelances.earthmap3d.extensions.utils.setFullScreen
+import com.earthmap.map.ltv.tracker.R
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.setFullScreen
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.android.material.bottomsheet.BottomSheetDialog
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment

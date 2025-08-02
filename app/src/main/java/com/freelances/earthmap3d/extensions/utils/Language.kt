@@ -1,10 +1,10 @@
-package com.freelances.earthmap3d.extensions.utils
+package com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils
 
 import android.content.Context
 import android.content.res.Configuration
-import com.freelances.earthmap3d.R
-import com.freelances.earthmap3d.extensions.PreferenceHelper
-import com.freelances.earthmap3d.models.LanguageItem
+import com.earthmap.map.ltv.tracker.R
+import com.earthmap.map.ltv.tracker.extensions.PreferenceHelper
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.LanguageItem
 import org.koin.core.component.KoinComponent
 import org.koin.core.component.inject
 import java.util.Locale
