@@ -139,7 +139,9 @@ class MainActivity : BaseActivity<ActivityMainBinding>() {
                 navigateTo(WorldClockActivity::class.java)
             }
 
-            AIR_QUALITY -> {}
+            AIR_QUALITY -> {
+
+            }
 
             COMPASS -> {
                 navigateTo(CompassActivity::class.java)
