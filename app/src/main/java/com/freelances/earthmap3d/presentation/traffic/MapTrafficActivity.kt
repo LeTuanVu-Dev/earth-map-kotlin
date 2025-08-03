@@ -36,6 +36,7 @@ class MapTrafficActivity : BaseActivity<ActivityMapTrafficBinding>() {
     private var googleMap: GoogleMap? = null
     private var currentMarker: Marker? = null
     private var fusedLocationClient: FusedLocationProviderClient? = null
+
     private val searchAdapter by lazy {
         SearchSuggestAdapter { model ->
             hideKeyboard()
@@ -119,7 +120,6 @@ class MapTrafficActivity : BaseActivity<ActivityMapTrafficBinding>() {
             return
         }
         fusedLocationClient?.lastLocation?.addOnSuccessListener { location ->
-            Log.d("VuLT", "getCurrentLocation: $location")
             if (location != null) {
                 moveToLocation(
                     location.latitude,
