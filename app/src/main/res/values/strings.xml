@@ -43,4 +43,5 @@
     <string name="search_here">Search here</string>
     <string name="location_access">Location Access</string>
     <string name="app_needs_access_to_your_current_location_for_display_current">App needs access to your current location for display current</string>
+    <string name="no_data">Data empty!</string>
 </resources>

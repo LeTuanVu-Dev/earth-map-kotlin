@@ -26,6 +26,7 @@ import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.dialo
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.earth3d.EarthMap3dActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.setting.SettingActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.traffic.MapTrafficActivity
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.world_clock.WorldClockActivity
 import com.earthmap.map.ltv.tracker.databinding.ActivityMainBinding
 
 class MainActivity : BaseActivity<ActivityMainBinding>() {
@@ -131,7 +132,9 @@ class MainActivity : BaseActivity<ActivityMainBinding>() {
 
             FAMOUS_PLACE -> {}
 
-            WORLD_CLOCK -> {}
+            WORLD_CLOCK -> {
+                navigateTo(WorldClockActivity::class.java)
+            }
 
             AIR_QUALITY -> {}
 
