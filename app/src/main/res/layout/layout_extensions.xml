@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_border_16dp"
+    android:backgroundTint="@color/white"
+    android:clickable="true"
+    android:minWidth="@dimen/_120sdp"
+    android:elevation="@dimen/_10sdp"
+    android:focusable="true"
+    android:orientation="vertical"
+    android:paddingHorizontal="@dimen/_6sdp"
+    android:paddingVertical="@dimen/_10sdp">
+
+    <LinearLayout
+        android:id="@+id/lnInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingVertical="@dimen/_6sdp"
+        android:paddingStart="@dimen/_6ssp"
+        android:paddingEnd="@dimen/_10ssp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginHorizontal="@dimen/_6sdp"
+            android:fontFamily="@font/roboto_400"
+            android:gravity="center"
+            android:text="@string/info"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_14ssp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lnWeather"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_4sdp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingVertical="@dimen/_6sdp"
+        android:paddingStart="@dimen/_6ssp"
+        android:paddingEnd="@dimen/_10ssp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/lnInfo">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginHorizontal="@dimen/_6sdp"
+            android:fontFamily="@font/roboto_400"
+            android:gravity="center"
+            android:text="@string/weather"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_14ssp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lnTravels"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_4sdp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingVertical="@dimen/_6sdp"
+        android:paddingStart="@dimen/_6ssp"
+        android:paddingEnd="@dimen/_10ssp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/lnWeather">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginHorizontal="@dimen/_6sdp"
+            android:fontFamily="@font/roboto_400"
+            android:gravity="center"
+            android:text="@string/travel"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_14ssp" />
+    </LinearLayout>
+
+</LinearLayout>

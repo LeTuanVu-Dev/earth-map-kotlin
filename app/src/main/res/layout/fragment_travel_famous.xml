@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white"
+    android:clickable="true"
+    android:focusable="true">
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:clipToPadding="false"
+        android:overScrollMode="never"
+        android:layout_marginVertical="@dimen/_13sdp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/tvTitle"
+        />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvTitle"
+        style="@style/Text_500"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@id/indicatorView"
+        android:gravity="center"
+        tools:text="@string/camera_360"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginBottom="@dimen/_13sdp"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_11ssp" />
+
+    <com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.IndicatorView
+        android:id="@+id/indicatorView"
+        android:layout_width="@dimen/_50sdp"
+        android:layout_height="@dimen/_7sdp"
+        app:active_color="@color/color_indicator_active"
+        app:default_color="@color/color_indicator_default"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="@dimen/_40sdp"
+        app:max_count="3"
+        app:spacing="@dimen/_7sdp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

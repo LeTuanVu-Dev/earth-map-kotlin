@@ -10,6 +10,9 @@ import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.WeatherApiS
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.air.GetAirQuality
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.cameraLive.CameraLiveLoader
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.earth3d.EarthMapLoader
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.famous.FamousLoader
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.famous.detail.CityCodeFetcher
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.famous.detail.WeatherFetcher
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.world_clock.WorldClockLoader
 import com.earthmap.map.ltv.tracker.extensions.PreferenceHelper
 import com.freelances.earthmap3d.presentation.camera360.Camera360Loader
@@ -42,12 +45,13 @@ val appModule = module {
     }
 
     // Inject fetchers
-//    singleOf(::WeatherFetcher)
-//    singleOf(::CityCodeFetcher)
+    singleOf(::WeatherFetcher)
+    singleOf(::CityCodeFetcher)
     singleOf(::Camera360Loader)
     singleOf(::CameraLiveLoader)
     singleOf(::EarthMapLoader)
     singleOf(::WorldClockLoader)
+    singleOf(::FamousLoader)
 
     single {
         Retrofit.Builder()

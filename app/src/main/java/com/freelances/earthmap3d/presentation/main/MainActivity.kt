@@ -24,6 +24,7 @@ import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.compa
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.dialog.ExitAppDialog
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.dialog.PermissionLocationDialog
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.earth3d.EarthMap3dActivity
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.famous.FamousActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.setting.SettingActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.traffic.MapTrafficActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.world_clock.WorldClockActivity
@@ -130,7 +131,9 @@ class MainActivity : BaseActivity<ActivityMainBinding>() {
                 navigateTo(MapTrafficActivity::class.java)
             }
 
-            FAMOUS_PLACE -> {}
+            FAMOUS_PLACE -> {
+                navigateTo(FamousActivity::class.java)
+            }
 
             WORLD_CLOCK -> {
                 navigateTo(WorldClockActivity::class.java)

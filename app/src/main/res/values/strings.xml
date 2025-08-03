@@ -44,4 +44,14 @@
     <string name="location_access">Location Access</string>
     <string name="app_needs_access_to_your_current_location_for_display_current">App needs access to your current location for display current</string>
     <string name="no_data">Data empty!</string>
+    <string name="sunny">Sunny</string>
+    <string name="rain">Rain</string>
+    <string name="snowy">Snowy</string>
+    <string name="foggy">Foggy</string>
+    <string name="information">Information</string>
+    <string name="_7_days">7 days</string>
+
+    <string name="info">Info</string>
+    <string name="weather">Weather</string>
+    <string name="travel">Travel</string>
 </resources>

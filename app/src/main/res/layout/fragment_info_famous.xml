@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white"
+    android:clickable="true"
+    android:focusable="true">
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewPager"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:clipToPadding="false"
+        android:overScrollMode="never"
+        android:layout_marginTop="@dimen/_13sdp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintDimensionRatio="1.8:1"
+        />
+
+    <com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.IndicatorView
+        android:id="@+id/indicatorView"
+        android:layout_width="@dimen/_50sdp"
+        android:layout_height="@dimen/_7sdp"
+        app:active_color="@color/color_indicator_active"
+        app:default_color="@color/color_indicator_default"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="@dimen/_13sdp"
+        app:layout_constraintTop_toBottomOf="@id/viewPager"
+        app:max_count="4"
+        app:spacing="@dimen/_7sdp" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvTitle"
+        style="@style/Text_500"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_13sdp"
+        android:layout_weight="1"
+        android:layout_marginHorizontal="@dimen/_13sdp"
+        android:text="@string/information"
+        android:textColor="@color/black"
+        app:layout_constraintTop_toBottomOf="@+id/indicatorView"
+        android:textSize="@dimen/_11ssp" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvContent"
+        style="@style/Text_400"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_6sdp"
+        android:layout_weight="1"
+        android:layout_marginHorizontal="@dimen/_13sdp"
+        android:letterSpacing="0"
+        app:lineHeight="@dimen/_14sdp"
+        tools:text="Athens is the capital city of Greece, known for its ancient landmarks, including the Acropolis and the Parthenon and its vibrant cultural scene."
+        android:textColor="@color/black"
+        app:layout_constraintTop_toBottomOf="@+id/tvTitle"
+        android:textSize="@dimen/_10ssp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
