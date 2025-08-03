@@ -4,7 +4,7 @@ import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.AirQualityA
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.AirQualityResponse
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.AirQualityResultWithOrigin
 
-class GetAirQuality(
+class AirQualityFetcher(
     private val apiService: AirQualityApiService,
     private val apiKey: String
 ) {

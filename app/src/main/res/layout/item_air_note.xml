@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/_60sdp"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/color_F2F2F7"
+    android:paddingHorizontal="@dimen/_2sdp"
+    android:paddingVertical="@dimen/_10sdp">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/imgItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:src="@drawable/ic_location_item_search" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvNumber"
+        style="@style/Text_400"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="@dimen/_11ssp"
+        android:layout_marginTop="@dimen/_6sdp"
+        android:textColor="@color/black"
+        tools:text="English" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvState"
+        style="@style/Text_400"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="@dimen/_11ssp"
+        android:layout_marginTop="@dimen/_6sdp"
+        android:textColor="@color/black"
+        tools:text="Unhealthy for Sensitive" />
+
+
+</LinearLayout>
+

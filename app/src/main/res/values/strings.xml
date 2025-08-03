@@ -54,4 +54,17 @@
     <string name="info">Info</string>
     <string name="weather">Weather</string>
     <string name="travel">Travel</string>
+    <string name="recent">Recent</string>
+    <string name="air_0_50">0-50</string>
+    <string name="air_51_100">51-100</string>
+    <string name="air_101_150">101-150</string>
+    <string name="air_151_200">151-200</string>
+    <string name="air_201_300">201-300</string>
+    <string name="air_300">301+</string>
+    <string name="air_good">Good</string>
+    <string name="air_moderate">Moderate</string>
+    <string name="air_unhealthy_for_Sensitive">Unhealthy for Sensitive</string>
+    <string name="air_unhealthy">Unhealthy</string>
+    <string name="air_very_unhealthy">Very Unhealthy</string>
+    <string name="air_hazardous">Hazardous</string>
 </resources>

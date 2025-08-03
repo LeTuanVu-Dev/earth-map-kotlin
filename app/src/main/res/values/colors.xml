@@ -15,4 +15,11 @@
     <color name="color_EBEBF5_30">#4DEBEBF5</color>
     <color name="color_EBEBF5_60">#99EBEBF5</color>
     <color name="color_000000_60">#99000000</color>
+
+    <color name="color_hazardous">#5C0011</color>
+    <color name="color_very_unhealthy">#9254DE</color>
+    <color name="color_unhealthy">#FF4D4F</color>
+    <color name="color_unhealthy_for_sensitive">#FF7A45</color>
+    <color name="color_moderate">#FFEC3D</color>
+    <color name="color_good">#73D13D</color>
 </resources>

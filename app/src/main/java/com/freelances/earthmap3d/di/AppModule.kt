@@ -7,7 +7,7 @@ import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.A
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.TOKEN_API_AIR
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.AirQualityApiService
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.WeatherApiService
-import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.air.GetAirQuality
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.air.AirQualityFetcher
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.cameraLive.CameraLiveLoader
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.earth3d.EarthMapLoader
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.famous.FamousLoader
@@ -64,5 +64,5 @@ val appModule = module {
         val retrofit: Retrofit = get()
         retrofit.create(AirQualityApiService::class.java)
     }
-    single { GetAirQuality(get(), TOKEN_API_AIR) }
+    single { AirQualityFetcher(get(), TOKEN_API_AIR) }
 }

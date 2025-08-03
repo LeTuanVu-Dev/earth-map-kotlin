@@ -18,6 +18,7 @@ import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.l
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.requestPermissionSetting
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.safeClick
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.HomeModel
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.air.AirQualityActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.camera360.Camera360Activity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.cameraLive.CameraLiveActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.compass.CompassActivity
@@ -140,7 +141,7 @@ class MainActivity : BaseActivity<ActivityMainBinding>() {
             }
 
             AIR_QUALITY -> {
-
+                navigateTo(AirQualityActivity::class.java)
             }
 
             COMPASS -> {

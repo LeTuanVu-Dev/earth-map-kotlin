@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera_live">Camera trực tiếp</string>
+    <string name="camera_360">Camera 360</string>
+    <string name="earth_3d">Bản đồ Trái Đất 3D</string>
+    <string name="famous_place">Địa điểm nổi tiếng</string>
+    <string name="traffic_map">Bản đồ giao thông</string>
+    <string name="world_clock">Đồng hồ thế giới</string>
+    <string name="air_quality">Chất lượng không khí</string>
+    <string name="compass">La bàn</string>
+
+    <string name="settings">Cài đặt</string>
+    <string name="share_this_app">Chia sẻ ứng dụng</string>
+    <string name="language">Ngôn ngữ</string>
+
+    <string name="title_rate_0">Cảm ơn bạn đã sử dụng ứng dụng!</string>
+    <string name="content_rate_0">Chúng tôi rất mong nhận được đánh giá của bạn!</string>
+
+    <string name="title_rate_1">Ôi không!</string>
+    <string name="content_rate_1">Chúng tôi muốn biết điều gì đã khiến bạn không hài lòng.</string>
+
+    <string name="title_rate_2">Ôi không!</string>
+    <string name="content_rate_2">Chúng tôi muốn biết điều gì đã khiến bạn không hài lòng.</string>
+
+    <string name="title_rate_3">Ôi, thật tiếc!</string>
+    <string name="content_rate_3">Chúng tôi mong nhận được phản hồi của bạn để cải thiện.</string>
+
+    <string name="title_rate_4">Cảm ơn bạn!</string>
+    <string name="content_rate_4">Chúng tôi sẽ cố gắng mang đến trải nghiệm tốt hơn nữa.</string>
+
+    <string name="title_rate_5">Tuyệt vời!</string>
+    <string name="content_rate_5">Sự hài lòng của bạn là động lực lớn nhất của chúng tôi!</string>
+
+    <string name="rate_us">Đánh giá</string>
+    <string name="rate_on_google_play">Đánh giá trên Google Play</string>
+    <string name="please_rate_us_5_star">Vui lòng cho chúng tôi 5 sao</string>
+    <string name="check_out_my_app_at">Xem ứng dụng của tôi tại %s</string>
+    <string name="the_best_we_can_get">Điều tốt nhất chúng tôi có thể đạt được</string>
+
+    <string name="do_you_want_to_exit_the_app">Bạn có muốn thoát ứng dụng không?</string>
+    <string name="_cancel">Hủy</string>
+    <string name="_exit">Thoát</string>
+    <string name="recommend">Đề xuất</string>
+
+    <string name="angle">Góc</string>
+    <string name="magnetic_field">Từ trường</string>
+    <string name="true_heading">Hướng thực</string>
+    <string name="axis">Trục</string>
+    <string name="sensor_error">Lỗi cảm biến</string>
+
+    <string name="search_here">Tìm kiếm ở đây</string>
+    <string name="location_access">Truy cập vị trí</string>
+    <string name="app_needs_access_to_your_current_location_for_display_current">Ứng dụng cần quyền truy cập vị trí hiện tại của bạn để hiển thị vị trí hiện tại.</string>
+
+    <string name="no_data">Không có dữ liệu!</string>
+
+    <string name="sunny">Nắng</string>
+    <string name="rain">Mưa</string>
+    <string name="snowy">Trời có tuyết</string>
+    <string name="foggy">Sương mù</string>
+
+    <string name="information">Thông tin</string>
+    <string name="_7_days">7 ngày</string>
+
+    <string name="info">Thông tin</string>
+    <string name="weather">Thời tiết</string>
+    <string name="travel">Du lịch</string>
+    <string name="recent">Gần đây</string>
+
+    <string name="air_0_50">0-50</string>
+    <string name="air_51_100">51-100</string>
+    <string name="air_101_150">101-150</string>
+    <string name="air_151_200">151-200</string>
+    <string name="air_201_300">201-300</string>
+    <string name="air_300">301+</string>
+
+    <string name="air_good">Tốt</string>
+    <string name="air_moderate">Trung bình</string>
+    <string name="air_unhealthy_for_Sensitive">Không lành mạnh cho nhóm nhạy cảm</string>
+    <string name="air_unhealthy">Không lành mạnh</string>
+    <string name="air_very_unhealthy">Rất không lành mạnh</string>
+    <string name="air_hazardous">Nguy hiểm</string>
+
+</resources>
