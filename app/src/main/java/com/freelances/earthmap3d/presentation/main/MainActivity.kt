@@ -4,6 +4,9 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import androidx.activity.OnBackPressedCallback
 import androidx.activity.result.contract.ActivityResultContracts
+import androidx.lifecycle.Lifecycle
+import androidx.lifecycle.lifecycleScope
+import androidx.lifecycle.repeatOnLifecycle
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.base.BaseActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.AIR_QUALITY
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.CAMERA_360
@@ -26,10 +29,12 @@ import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.dialo
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.dialog.PermissionLocationDialog
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.earth3d.EarthMap3dActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.famous.FamousActivity
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.purchase.PurchaseActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.setting.SettingActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.traffic.MapTrafficActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.world_clock.WorldClockActivity
 import com.earthmap.map.ltv.tracker.databinding.ActivityMainBinding
+import kotlinx.coroutines.launch
 
 class MainActivity : BaseActivity<ActivityMainBinding>() {
     override fun inflateBinding(layoutInflater: LayoutInflater): ActivityMainBinding {
@@ -78,6 +83,19 @@ class MainActivity : BaseActivity<ActivityMainBinding>() {
         preferenceHelper.isFinishFirstFlow = true
         initData()
         initListeners()
+        // Trong Activity/Fragment
+        lifecycleScope.launch {
+            binding.tvCoin.text = preferenceHelper.coinNumber.toString()
+            repeatOnLifecycle(Lifecycle.State.RESUMED) {
+                preferencesCoinPoster.coinFlow.collect {
+                    if (preferenceHelper.coinNumber <= 0) {
+                        preferenceHelper.coinNumber = 0
+                    }
+                    binding.tvCoin.text = preferenceHelper.coinNumber.toString()
+                }
+            }
+
+        }
     }
 
     private fun showExitDialog() {
@@ -96,6 +114,9 @@ class MainActivity : BaseActivity<ActivityMainBinding>() {
         binding.apply {
             ivSetting.safeClick {
                 navigateTo(SettingActivity::class.java)
+            }
+            coinLayout.safeClick {
+                navigateTo(PurchaseActivity::class.java)
             }
         }
     }

@@ -10,7 +10,9 @@ import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.base.BaseActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.ARG_DATA
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.safeClick
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.ModelCamera360
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.dialog.CoinDialog
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.preview.Camera360PreviewActivity
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.purchase.PurchaseActivity
 import com.earthmap.map.ltv.tracker.databinding.ActivityCamera360Binding
 import com.freelances.earthmap3d.presentation.camera360.Camera360Loader
 import kotlinx.coroutines.launch
@@ -23,10 +25,32 @@ class Camera360Activity : BaseActivity<ActivityCamera360Binding>() {
 
     private val camera360Loader: Camera360Loader by inject()
 
+    private var currentItem: ModelCamera360? = null
     private val camera360Adapter by lazy {
         Camera360Adapter { item ->
-            openPreview(item)
+            currentItem = item
+            showDialogUseCoin()
         }
+    }
+
+    private val coinDialog by lazy {
+        CoinDialog().apply {
+            setOnClick {
+                if (preferenceHelper.coinNumber >= 50) {
+                    postValueCoinAndMinusCoin()
+                    currentItem?.let { openPreview(it) }
+                } else {
+                    navigateTo(PurchaseActivity::class.java)
+                }
+            }
+        }
+    }
+
+    private fun showDialogUseCoin() {
+        if (!coinDialog.isAdded) coinDialog.show(
+            supportFragmentManager,
+            Camera360Activity::class.java.name
+        )
     }
 
     override fun updateUI(savedInstanceState: Bundle?) {
@@ -37,8 +61,8 @@ class Camera360Activity : BaseActivity<ActivityCamera360Binding>() {
 
     private fun initData() {
         lifecycleScope.launch {
-            lifecycle.repeatOnLifecycle(Lifecycle.State.STARTED){
-                camera360Loader.cameraResults.collect {list ->
+            lifecycle.repeatOnLifecycle(Lifecycle.State.STARTED) {
+                camera360Loader.cameraResults.collect { list ->
                     if (list.isNotEmpty()) {
                         camera360Adapter.submitList(list)
                     }

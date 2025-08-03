@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
     android:background="@color/white">
 
     <LinearLayout
@@ -13,17 +13,26 @@
         android:background="@drawable/bg_header"
         android:gravity="center_vertical"
         android:orientation="horizontal"
+        android:paddingHorizontal="@dimen/_8sdp"
         android:paddingTop="@dimen/_26sdp"
-        android:paddingBottom="@dimen/_6sdp"
+        android:paddingBottom="@dimen/_8sdp"
         app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/ivBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/transparent"
+            android:padding="@dimen/_5sdp"
+            android:src="@drawable/ic_back" />
 
         <androidx.appcompat.widget.AppCompatTextView
             style="@style/Text_500"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginStart="@dimen/_12sdp"
+            android:layout_marginHorizontal="@dimen/_6sdp"
             android:layout_weight="1"
-            android:text="@string/app_name"
+            android:text="@string/premium"
             android:textColor="@color/white"
             android:textSize="@dimen/_14ssp" />
 
@@ -56,26 +65,34 @@
                 android:textSize="@dimen/_12sdp" />
         </LinearLayout>
 
-        <androidx.appcompat.widget.AppCompatImageButton
-            android:id="@+id/ivSetting"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginEnd="@dimen/_7sdp"
-            android:background="@color/transparent"
-            android:padding="@dimen/_5sdp"
-            android:src="@drawable/ic_setting" />
     </LinearLayout>
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rcvItemHome"
+        android:id="@+id/rvCoin"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_marginTop="@dimen/_6sdp"
-        android:clipToPadding="false"
-        android:orientation="vertical"
-        android:paddingBottom="@dimen/_30sdp"
-        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginVertical="@dimen/_6sdp"
+        android:layout_marginHorizontal="@dimen/_6sdp"
+        app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+        app:spanCount="2"
+        tools:listitem="@layout/item_purchase"
         app:layout_constraintTop_toBottomOf="@id/llAppBar"
-        tools:listitem="@layout/item_home" />
+        app:layout_constraintBottom_toTopOf="@id/tvHint"
+        />
+
+    <TextView
+        android:id="@+id/tvHint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:gravity="center"
+        android:background="@color/white"
+        android:layout_marginBottom="@dimen/_10sdp"
+        android:paddingVertical="@dimen/_8sdp"
+        android:text="@string/you_will_be_billed_within_24_hours_before_the_current_period_ends_you_can_manage_or_cancel_your_subscriptions_anytime_through_your_google_play_account_settings"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_10ssp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

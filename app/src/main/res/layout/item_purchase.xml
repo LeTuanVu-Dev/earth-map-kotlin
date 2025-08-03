@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/_13sdp"
+    android:layout_margin="@dimen/_6sdp"
+    android:background="@drawable/bg_border_16dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:id="@+id/item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="@dimen/_60sdp"
+            android:layout_height="@dimen/_60sdp"
+            android:layout_gravity="center"
+            android:src="@drawable/iv_coin_purchase"
+            />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tvCoin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/Text_700"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:text="100 coins"
+            android:textColor="@color/black"
+            android:gravity="center"
+            android:layout_gravity="center"
+            />
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tvCost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/Text_700"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:text="100 coins"
+            android:textColor="@color/color_F5222D"
+            android:gravity="center"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvApply"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:background="@drawable/bg_button_gradient"
+        android:backgroundTint="@color/color_unhealthy_for_sensitive"
+        android:gravity="center"
+        android:paddingHorizontal="@dimen/_5sdp"
+        android:paddingVertical="@dimen/_11sdp"
+        android:text="@string/_buy_now"
+        android:textSize="@dimen/_13ssp"
+        android:textColor="@color/white"
+        app:layout_constraintTop_toBottomOf="@id/item"
+        style="@style/Text_500"
+
+        />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

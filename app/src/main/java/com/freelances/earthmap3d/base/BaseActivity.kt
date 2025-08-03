@@ -15,17 +15,21 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.fragment.app.Fragment
+import androidx.lifecycle.lifecycleScope
 import androidx.viewbinding.ViewBinding
 import com.earthmap.map.ltv.tracker.R
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.Language
-import com.earthmap.map.ltv.tracker.extensions.PreferenceHelper
-
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.hideSystemBar
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.setFullScreen
+import com.earthmap.map.ltv.tracker.extensions.PreferenceHelper
+import com.freelances.earthmap3d.base.PreferencesCoinPoster
+import kotlinx.coroutines.launch
 import org.koin.android.ext.android.inject
 
 abstract class BaseActivity<VB : ViewBinding> : AppCompatActivity() {
     protected val preferenceHelper: PreferenceHelper by inject()
+    protected val preferencesCoinPoster: PreferencesCoinPoster by inject()
+
     protected lateinit var binding: VB
         private set
 
@@ -35,11 +39,19 @@ abstract class BaseActivity<VB : ViewBinding> : AppCompatActivity() {
 
     open fun loadAd() {}
 
+    fun postValueCoinAndMinusCoin() {
+        lifecycleScope.launch {
+            preferenceHelper.coinNumber -= 50
+            preferencesCoinPoster.post(true)
+        }
+    }
+
     private val activityResultLauncher: ActivityResultLauncher<Intent> = registerForActivityResult(
         ActivityResultContracts.StartActivityForResult()
     ) { result ->
         handleActivityResult(result)
     }
+
     open fun handleActivityResult(result: ActivityResult) {}
 
     override fun onCreate(savedInstanceState: Bundle?) {

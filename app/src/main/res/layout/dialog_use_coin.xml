@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="@dimen/_13sdp"
+    android:background="@drawable/bg_border_16dp"
+    android:clickable="true"
+    android:focusable="true"
+    android:padding="@dimen/_18sdp">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvTitle"
+        style="@style/Text_700"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_13sdp"
+        android:gravity="center"
+        android:text="50"
+        android:textColor="#FF8008"
+        android:textSize="@dimen/_22sdp"
+        app:layout_constraintTop_toBottomOf="@id/animCoin" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvLogLath"
+        style="@style/Text_400"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:gravity="center"
+        android:text="@string/content_confirm_use_item_coin"
+        android:textColor="#6B7785"
+        android:textSize="@dimen/_11ssp"
+        app:layout_constraintTop_toBottomOf="@id/tvTitle" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animCoin"
+        android:layout_width="@dimen/_86sdp"
+        android:layout_height="@dimen/_86sdp"
+        android:scaleX="1.2"
+        android:scaleY="1.2"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:lottie_rawRes="@raw/coin_json" />
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvApply"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:background="@drawable/bg_button_gradient"
+        android:backgroundTint="@color/color_unhealthy_for_sensitive"
+        android:gravity="center"
+        android:paddingHorizontal="@dimen/_5sdp"
+        android:paddingVertical="@dimen/_11sdp"
+        android:text="@string/apply"
+        android:textSize="@dimen/_13ssp"
+        android:textColor="@color/white"
+        app:layout_constraintTop_toBottomOf="@id/tvLogLath"
+        style="@style/Text_500"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

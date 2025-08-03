@@ -8,6 +8,7 @@ import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.base.BaseActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.language.LanguageActivity
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.main.MainActivity
 import com.earthmap.map.ltv.tracker.databinding.ActivitySplashBinding
+import com.freelances.earthmap3d.presentation.purchase.AppPurchase
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 
@@ -26,6 +27,7 @@ class SplashActivity : BaseActivity<ActivitySplashBinding>() {
     override fun isDisplayCutout(): Boolean = true
 
     override fun updateUI(savedInstanceState: Bundle?) {
+        AppPurchase.getInstance(this).initBilling(application)
         lifecycleScope.launch {
             delay(TIME_DELAY)
             navigateToNextScreen()

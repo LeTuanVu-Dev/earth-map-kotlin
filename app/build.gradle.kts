@@ -127,6 +127,8 @@ dependencies {
     implementation (libs.retrofit)
     // GSON
     implementation (libs.converter.gson)
+    implementation(libs.lottie)
+
 
     //room
     implementation(libs.androidx.room.runtime)
@@ -134,5 +136,6 @@ dependencies {
     kapt(libs.androidx.room.compiler)
 
     implementation(libs.review.ktx)
+    implementation (libs.billing)
 
 }

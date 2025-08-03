@@ -67,4 +67,10 @@
     <string name="air_unhealthy">Unhealthy</string>
     <string name="air_very_unhealthy">Very Unhealthy</string>
     <string name="air_hazardous">Hazardous</string>
+    <string name="apply">Apply</string>
+    <string name="content_confirm_use_item_coin">Do you want to use this coin to use this item?</string>
+    <string name="premium">Premium</string>
+    <string name="_buy_now">Buy now</string>
+    <string name="you_will_be_billed_within_24_hours_before_the_current_period_ends_you_can_manage_or_cancel_your_subscriptions_anytime_through_your_google_play_account_settings">You will be billed within 24 hours before the current period ends. You can manage or cancel your subscriptions anytime through your Google Play account settings.</string>
+
 </resources>

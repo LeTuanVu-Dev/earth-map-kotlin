@@ -57,8 +57,6 @@ class MapTrafficActivity : BaseActivity<ActivityMapTrafficBinding>() {
 
     private fun setupMap() {
         binding.mapTraffic.getFragment<SupportMapFragment>().getMapAsync { map ->
-            Log.d("VuLT", "setupMap: $map")
-
             googleMap = map.apply {
                 uiSettings.isZoomControlsEnabled = false
                 uiSettings.isCompassEnabled = false

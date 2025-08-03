@@ -15,6 +15,7 @@ import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.famou
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.famous.detail.WeatherFetcher
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.world_clock.WorldClockLoader
 import com.earthmap.map.ltv.tracker.extensions.PreferenceHelper
+import com.freelances.earthmap3d.base.PreferencesCoinPoster
 import com.freelances.earthmap3d.presentation.camera360.Camera360Loader
 import org.koin.android.ext.koin.androidApplication
 import org.koin.core.module.dsl.singleOf
@@ -52,6 +53,7 @@ val appModule = module {
     singleOf(::EarthMapLoader)
     singleOf(::WorldClockLoader)
     singleOf(::FamousLoader)
+    single { PreferencesCoinPoster }
 
     single {
         Retrofit.Builder()

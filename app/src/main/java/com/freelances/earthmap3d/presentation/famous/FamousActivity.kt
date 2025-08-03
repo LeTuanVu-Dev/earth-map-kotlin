@@ -11,8 +11,13 @@ import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.A
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.click
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.onTextChange
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.extensions.utils.safeClick
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.LocationModel
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.models.ModelFamousPlace
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.cameraLive.CameraLiveActivity
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.dialog.CoinDialog
 import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.famous.detail.FamousDetailActivity
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.preview.CameraLivePreviewActivity
+import com.earthmap.map.ltv.tracker.com.freelances.earthmap3d.presentation.purchase.PurchaseActivity
 import com.earthmap.map.ltv.tracker.databinding.ActivityFamousBinding
 import kotlinx.coroutines.launch
 import org.koin.android.ext.android.inject
@@ -25,10 +30,34 @@ class FamousActivity : BaseActivity<ActivityFamousBinding>() {
     private val famousLoader: FamousLoader by inject()
     private var filteredList = arrayListOf<ModelFamousPlace>()
     private var dataList = mutableListOf<ModelFamousPlace>()
+    private var currentItem: ModelFamousPlace? = null
 
     private val famousAdapter by lazy {
         FamousAdapter { item ->
-            openPreview(item)
+            currentItem = item
+            showDialogUseCoin()
+        }
+    }
+
+    private fun showDialogUseCoin() {
+        if (!coinDialog.isAdded) coinDialog.show(
+            supportFragmentManager,
+            CameraLiveActivity::class.java.name
+        )
+    }
+
+    private val coinDialog by lazy {
+        CoinDialog().apply {
+            setOnClick {
+                if (preferenceHelper.coinNumber >= 50) {
+                    postValueCoinAndMinusCoin()
+                    currentItem?.let {
+                        openPreview(it)
+                    }
+                } else {
+                    navigateTo(PurchaseActivity::class.java)
+                }
+            }
         }
     }
 

@@ -10,6 +10,7 @@ class PreferenceHelper(private val sharePref: SharedPreferences) {
         const val FINISH_FIRST_FLOW = "finish_first_flow"
         const val LANGUAGE_SELECTED = "language_selected"
         const val IS_RATED = "isRate"
+        const val COIN_NUMBER = "COIN_NUMBER"
     }
 
     fun getPreferences(): SharedPreferences {
@@ -19,6 +20,7 @@ class PreferenceHelper(private val sharePref: SharedPreferences) {
     var isFinishFirstFlow by BooleanPreference(FINISH_FIRST_FLOW, false)
     var languageSelected by StringPreference(LANGUAGE_SELECTED, "en")
     var isRated by BooleanPreference(IS_RATED, false)
+    var coinNumber by IntPreference(COIN_NUMBER, 200)
 
     open class BooleanPreference(
         private val key: String,

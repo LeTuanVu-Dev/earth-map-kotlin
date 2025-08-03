@@ -2,6 +2,7 @@
 activity = "1.10.1"
 agp = "8.8.2"
 appcompat = "1.7.0"
+billing = "7.1.1"
 constraintlayout = "2.2.1"
 converterGson = "2.11.0"
 core = "12.1.2"
@@ -42,6 +43,7 @@ androidx-multidex = { module = "androidx.multidex:multidex", version.ref = "mult
 androidx-room-compiler = { module = "androidx.room:room-compiler", version.ref = "roomCompiler" }
 androidx-room-ktx = { module = "androidx.room:room-ktx", version.ref = "roomCompiler" }
 androidx-room-runtime = { module = "androidx.room:room-runtime", version.ref = "roomCompiler" }
+billing = { module = "com.android.billingclient:billing", version.ref = "billing" }
 converter-gson = { module = "com.squareup.retrofit2:converter-gson", version.ref = "converterGson" }
 core = { module = "com.pierfrancescosoffritti.androidyoutubeplayer:core", version.ref = "core" }
 desugar_jdk_libs = { module = "com.android.tools:desugar_jdk_libs", version.ref = "desugar_jdk_libs" }
@@ -65,6 +67,7 @@ sdp-android = { module = "com.intuit.sdp:sdp-android", version.ref = "sdpAndroid
 ssp-android = { module = "com.intuit.ssp:ssp-android", version.ref = "sspAndroid" }
 worldwind = { module = "earth.worldwind:worldwind", version.ref = "worldwind" }
 review-ktx = { module = "com.google.android.play:review-ktx", version.ref = "review-ktx" }
+lottie = { module = "com.airbnb.android:lottie", version.ref = "lottie" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
