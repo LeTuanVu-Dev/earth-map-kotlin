@@ -33,10 +33,20 @@ android {
         }
     }
 
+
+//    signingConfigs {
+//        create("release") {
+//            storeFile = rootProject.file("key_store/map3d.keystore")
+//            storePassword = "earthmap3d"
+//            keyAlias = "earthmap3d"
+//            keyPassword = "earthmap3d"
+//        }
+//    }
+
     buildTypes {
         release {
-            isMinifyEnabled = true
-            isShrinkResources = true
+            isMinifyEnabled = false
+            isShrinkResources = false
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
