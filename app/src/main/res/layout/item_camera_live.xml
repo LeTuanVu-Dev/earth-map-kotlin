@@ -92,7 +92,7 @@
             android:layout_marginStart="@dimen/_2sdp"
             android:fontFamily="@font/roboto_600"
             android:includeFontPadding="false"
-            android:text="50"
+            android:text="5"
             android:textSize="@dimen/_12sdp" />
     </LinearLayout>
 

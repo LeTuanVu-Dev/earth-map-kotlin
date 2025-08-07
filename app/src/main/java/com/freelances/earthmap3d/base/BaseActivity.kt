@@ -4,6 +4,7 @@ import android.app.ActivityOptions
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
+import android.util.Log
 import android.util.Pair
 import android.view.LayoutInflater
 import android.view.View
@@ -41,8 +42,8 @@ abstract class BaseActivity<VB : ViewBinding> : AppCompatActivity() {
 
     fun postValueCoinAndMinusCoin() {
         lifecycleScope.launch {
-            preferenceHelper.coinNumber -= 50
-            preferencesCoinPoster.post(true)
+            preferenceHelper.coinNumber -= 5
+            preferencesCoinPoster.tryPost(true)
         }
     }
 

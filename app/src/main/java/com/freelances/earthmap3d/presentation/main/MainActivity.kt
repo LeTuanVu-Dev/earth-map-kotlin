@@ -85,8 +85,7 @@ class MainActivity : BaseActivity<ActivityMainBinding>() {
         initListeners()
         // Trong Activity/Fragment
         lifecycleScope.launch {
-            binding.tvCoin.text = preferenceHelper.coinNumber.toString()
-            repeatOnLifecycle(Lifecycle.State.RESUMED) {
+            repeatOnLifecycle(Lifecycle.State.STARTED) {
                 preferencesCoinPoster.coinFlow.collect {
                     if (preferenceHelper.coinNumber <= 0) {
                         preferenceHelper.coinNumber = 0
@@ -94,8 +93,16 @@ class MainActivity : BaseActivity<ActivityMainBinding>() {
                     binding.tvCoin.text = preferenceHelper.coinNumber.toString()
                 }
             }
-
         }
+    }
+
+
+    override fun onResume() {
+        super.onResume()
+        if (preferenceHelper.coinNumber <= 0) {
+            preferenceHelper.coinNumber = 0
+        }
+        binding.tvCoin.text = preferenceHelper.coinNumber.toString()
     }
 
     private fun showExitDialog() {

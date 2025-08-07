@@ -36,7 +36,7 @@ class Camera360Activity : BaseActivity<ActivityCamera360Binding>() {
     private val coinDialog by lazy {
         CoinDialog().apply {
             setOnClick {
-                if (preferenceHelper.coinNumber >= 50) {
+                if (preferenceHelper.coinNumber >= 5) {
                     postValueCoinAndMinusCoin()
                     currentItem?.let { openPreview(it) }
                 } else {
