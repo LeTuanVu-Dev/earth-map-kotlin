@@ -12,6 +12,7 @@ import com.freelances.earthmap3d.presentation.purchase.AppPurchase
 import com.freelances.earthmap3d.presentation.purchase.PurchaseListener
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 
 class PurchaseActivity : BaseActivity<ActivityPurchaseBinding>() {
     override fun inflateBinding(layoutInflater: LayoutInflater): ActivityPurchaseBinding {
@@ -69,6 +70,9 @@ class PurchaseActivity : BaseActivity<ActivityPurchaseBinding>() {
                     it.oneTimePurchaseOfferDetails?.priceAmountMicros ?: Long.MAX_VALUE
                 }
                 mListDetails.addAll(sortedList)
+                withContext(Dispatchers.Main){
+                    premiumAdapter.submitList(mListDetails.toList())
+                }
                 Log.e("VuLT", "initPurchase: skuListSubsFromStore = $mListDetails")
             }
         } catch (e: Exception) {
