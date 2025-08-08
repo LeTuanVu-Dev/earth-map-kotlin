@@ -80,5 +80,9 @@
     <string name="air_unhealthy">Không lành mạnh</string>
     <string name="air_very_unhealthy">Rất không lành mạnh</string>
     <string name="air_hazardous">Nguy hiểm</string>
-
+    <string name="apply">Áp dụng</string>
+    <string name="content_confirm_use_item_coin">Bạn có muốn sử dụng đồng xu này để mua vật phẩm này không?</string>
+    <string name="premium">Cao cấp</string>
+    <string name="_buy_now">Mua ngay</string>
+    <string name="you_will_be_billed_within_24_hours_before_the_current_period_ends_you_can_manage_or_cancel_your_subscriptions_anytime_through_your_google_play_account_settings">Bạn sẽ được tính phí trong vòng 24 giờ trước khi kỳ hiện tại kết thúc. Bạn có thể quản lý hoặc hủy đăng ký bất cứ lúc nào thông qua cài đặt tài khoản Google Play.</string>
 </resources>

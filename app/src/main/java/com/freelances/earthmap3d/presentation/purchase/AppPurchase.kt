@@ -233,8 +233,6 @@ class AppPurchase(private val mContext: Context) {
     }
 
     fun purchaseInApp(activity: Activity, productDetails: ProductDetails): String {
-        purchaseListener?.displayErrorMessage("Billing error init")
-        return ""
         val flowParams = BillingFlowParams.newBuilder()
             .setProductDetailsParamsList(
                 listOf(
